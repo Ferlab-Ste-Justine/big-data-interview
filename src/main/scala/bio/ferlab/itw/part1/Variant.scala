@@ -5,7 +5,7 @@ case class Variant(chromosome: String, start: Long, reference: String, alternate
 case class Gene(name: String, diseases: Set[String])
 
 object Variant {
-  val Cancers: Set[String] = Set("Ganglioma", "Leukemia")
+  val Cancers: Set[String] = Set("Ganglioma", "Neuroblastoma")
 
   def splitByImpact(variants: Seq[Variant]): (Seq[String], Seq[String]) = ???
 
