@@ -1,3 +1,3367 @@
-{"name": "rs7349151", clin_sig: "Pathogenic"}
-{"name": "rs6594030", clin_sig: "Likely Pathogenic"}
-
+{"name":"rs12130613","clin_sig":"Pathogenic"}
+{"name":"rs306330","clin_sig":"Likely Pathogenic"}
+{"name":"rs11589","clin_sig":"Pathogenic"}
+{"name":"rs7087584","clin_sig":"Likely Pathogenic"}
+{"name":"rs12218","clin_sig":"Pathogenic"}
+{"name":"rs74702724","clin_sig":"Pathogenic"}
+{"name":"rs11459616","clin_sig":"Pathogenic"}
+{"name":"rs7965930","clin_sig":"Pathogenic"}
+{"name":"rs150626143","clin_sig":"Likely Pathogenic"}
+{"name":"rs175053","clin_sig":"Likely Pathogenic"}
+{"name":"rs59447204","clin_sig":"Likely Pathogenic"}
+{"name":"rs62114717","clin_sig":"Pathogenic"}
+{"name":"rs181957144","clin_sig":"Benign"}
+{"name":"rs139417205","clin_sig":"Pathogenic"}
+{"name":"rs9999528","clin_sig":"Likely Pathogenic"}
+{"name":"rs4380575","clin_sig":"Likely Pathogenic"}
+{"name":"rs11241142","clin_sig":"Pathogenic"}
+{"name":"rs17057975","clin_sig":"Pathogenic"}
+{"name":"rs6940644","clin_sig":"Benign"}
+{"name":"rs3735486","clin_sig":"Likely Pathogenic"}
+{"name":"rs66732103","clin_sig":"Likely Pathogenic"}
+{"name":"rs4288857","clin_sig":"Likely Pathogenic"}
+{"name":"rs9594252","clin_sig":"Pathogenic"}
+{"name":"rs12881240","clin_sig":"Likely Pathogenic"}
+{"name":"rs12886764","clin_sig":"Pathogenic"}
+{"name":"rs11556090","clin_sig":"Likely Pathogenic"}
+{"name":"rs4796499","clin_sig":"Benign"}
+{"name":"rs1154226","clin_sig":"Benign"}
+{"name":"rs369841014","clin_sig":"Benign"}
+{"name":"rs2304510","clin_sig":"Likely Pathogenic"}
+{"name":"rs55854646","clin_sig":"Likely Pathogenic"}
+{"name":"rs7690296","clin_sig":"Likely Pathogenic"}
+{"name":"rs2897260","clin_sig":"Benign"}
+{"name":"rs77566431","clin_sig":"Pathogenic"}
+{"name":"rs111785209","clin_sig":"Likely Pathogenic"}
+{"name":"rs1026441","clin_sig":"Benign"}
+{"name":"rs2249207","clin_sig":"Likely Pathogenic"}
+{"name":"rs212803","clin_sig":"Likely Pathogenic"}
+{"name":"rs2026742","clin_sig":"Benign"}
+{"name":"rs2083586","clin_sig":"Pathogenic"}
+{"name":"rs6665391","clin_sig":"Likely Pathogenic"}
+{"name":"rs138421824","clin_sig":"Pathogenic"}
+{"name":"rs11194951","clin_sig":"Likely Pathogenic"}
+{"name":"rs4146387","clin_sig":"Likely Pathogenic"}
+{"name":"rs10766478","clin_sig":"Pathogenic"}
+{"name":"rs10862533","clin_sig":"Benign"}
+{"name":"rs28572541","clin_sig":"Benign"}
+{"name":"rs77922448","clin_sig":"Likely Pathogenic"}
+{"name":"rs1724575","clin_sig":"Likely Pathogenic"}
+{"name":"rs7261482","clin_sig":"Benign"}
+{"name":"rs5843641","clin_sig":"Benign"}
+{"name":"rs2688446","clin_sig":"Benign"}
+{"name":"rs4729081","clin_sig":"Likely Pathogenic"}
+{"name":"rs1930259","clin_sig":"Pathogenic"}
+{"name":"rs6597539","clin_sig":"Likely Pathogenic"}
+{"name":"rs7549040","clin_sig":"Likely Pathogenic"}
+{"name":"rs3747869","clin_sig":"Benign"}
+{"name":"rs3741189","clin_sig":"Pathogenic"}
+{"name":"rs1663566","clin_sig":"Pathogenic"}
+{"name":"rs75750260","clin_sig":"Benign"}
+{"name":"rs73227996","clin_sig":"Likely Pathogenic"}
+{"name":"rs72658914","clin_sig":"Likely Pathogenic"}
+{"name":"rs11633250","clin_sig":"Likely Pathogenic"}
+{"name":"rs9964706","clin_sig":"Pathogenic"}
+{"name":"rs7256900","clin_sig":"Benign"}
+{"name":"rs2259013","clin_sig":"Pathogenic"}
+{"name":"rs1250099","clin_sig":"Likely Pathogenic"}
+{"name":"rs5013053","clin_sig":"Pathogenic"}
+{"name":"rs202052740","clin_sig":"Benign"}
+{"name":"rs6530873","clin_sig":"Pathogenic"}
+{"name":"rs10780633","clin_sig":"Benign"}
+{"name":"rs1126984","clin_sig":"Benign"}
+{"name":"rs1859643","clin_sig":"Benign"}
+{"name":"rs4900266","clin_sig":"Likely Pathogenic"}
+{"name":"rs2628176","clin_sig":"Pathogenic"}
+{"name":"rs7420","clin_sig":"Likely Pathogenic"}
+{"name":"rs191797199","clin_sig":"Benign"}
+{"name":"rs3791293","clin_sig":"Likely Pathogenic"}
+{"name":"rs4894060","clin_sig":"Likely Pathogenic"}
+{"name":"rs3863057","clin_sig":"Pathogenic"}
+{"name":"rs3732852","clin_sig":"Likely Pathogenic"}
+{"name":"rs35243692","clin_sig":"Pathogenic"}
+{"name":"rs55802491","clin_sig":"Pathogenic"}
+{"name":"rs1042169","clin_sig":"Benign"}
+{"name":"rs113571790","clin_sig":"Pathogenic"}
+{"name":"rs6970314","clin_sig":"Likely Pathogenic"}
+{"name":"rs10097222","clin_sig":"Likely Pathogenic"}
+{"name":"rs79055106","clin_sig":"Pathogenic"}
+{"name":"rs679273","clin_sig":"Benign"}
+{"name":"rs114296709","clin_sig":"Pathogenic"}
+{"name":"rs7529767","clin_sig":"Pathogenic"}
+{"name":"rs17482100","clin_sig":"Likely Pathogenic"}
+{"name":"rs1130790","clin_sig":"Likely Pathogenic"}
+{"name":"rs708228","clin_sig":"Pathogenic"}
+{"name":"rs2276074","clin_sig":"Likely Pathogenic"}
+{"name":"rs7964800","clin_sig":"Pathogenic"}
+{"name":"rs3759388","clin_sig":"Likely Pathogenic"}
+{"name":"rs368914830","clin_sig":"Pathogenic"}
+{"name":"rs1605462","clin_sig":"Likely Pathogenic"}
+{"name":"rs6029698","clin_sig":"Pathogenic"}
+{"name":"rs4896601","clin_sig":"Benign"}
+{"name":"rs10442607","clin_sig":"Benign"}
+{"name":"rs116643644","clin_sig":"Benign"}
+{"name":"rs4980922","clin_sig":"Benign"}
+{"name":"rs3814266","clin_sig":"Likely Pathogenic"}
+{"name":"rs2402068","clin_sig":"Likely Pathogenic"}
+{"name":"rs1503954","clin_sig":"Benign"}
+{"name":"rs67130681","clin_sig":"Likely Pathogenic"}
+{"name":"rs1227733","clin_sig":"Pathogenic"}
+{"name":"rs900688","clin_sig":"Likely Pathogenic"}
+{"name":"rs815431","clin_sig":"Benign"}
+{"name":"rs3996016","clin_sig":"Likely Pathogenic"}
+{"name":"rs1870740","clin_sig":"Benign"}
+{"name":"rs35886405","clin_sig":"Benign"}
+{"name":"rs6532111","clin_sig":"Benign"}
+{"name":"rs3130062","clin_sig":"Benign"}
+{"name":"rs2467050","clin_sig":"Pathogenic"}
+{"name":"rs113716322","clin_sig":"Likely Pathogenic"}
+{"name":"rs73206291","clin_sig":"Benign"}
+{"name":"rs374568919","clin_sig":"Likely Pathogenic"}
+{"name":"rs12139517","clin_sig":"Benign"}
+{"name":"rs9427790","clin_sig":"Likely Pathogenic"}
+{"name":"rs237762","clin_sig":"Likely Pathogenic"}
+{"name":"rs11009897","clin_sig":"Benign"}
+{"name":"rs150091353","clin_sig":"Benign"}
+{"name":"rs3211056","clin_sig":"Benign"}
+{"name":"rs7221255","clin_sig":"Benign"}
+{"name":"rs8104976","clin_sig":"Benign"}
+{"name":"rs72990117","clin_sig":"Benign"}
+{"name":"rs2413361","clin_sig":"Likely Pathogenic"}
+{"name":"rs13174359","clin_sig":"Likely Pathogenic"}
+{"name":"rs5013048","clin_sig":"Pathogenic"}
+{"name":"rs2234071","clin_sig":"Likely Pathogenic"}
+{"name":"rs34367290","clin_sig":"Likely Pathogenic"}
+{"name":"rs2191315","clin_sig":"Benign"}
+{"name":"rs7782781","clin_sig":"Pathogenic"}
+{"name":"rs2459965","clin_sig":"Pathogenic"}
+{"name":"rs7033091","clin_sig":"Benign"}
+{"name":"rs7082594","clin_sig":"Benign"}
+{"name":"rs9864","clin_sig":"Benign"}
+{"name":"rs12572424","clin_sig":"Benign"}
+{"name":"rs34587471","clin_sig":"Pathogenic"}
+{"name":"rs200293997","clin_sig":"Benign"}
+{"name":"rs2087978","clin_sig":"Likely Pathogenic"}
+{"name":"rs139727853","clin_sig":"Pathogenic"}
+{"name":"rs76016866","clin_sig":"Benign"}
+{"name":"rs140663310","clin_sig":"Benign"}
+{"name":"rs6575532","clin_sig":"Pathogenic"}
+{"name":"rs11247119","clin_sig":"Likely Pathogenic"}
+{"name":"rs27193","clin_sig":"Benign"}
+{"name":"rs75687931","clin_sig":"Pathogenic"}
+{"name":"rs2323652","clin_sig":"Benign"}
+{"name":"rs2160820","clin_sig":"Pathogenic"}
+{"name":"rs137960636","clin_sig":"Benign"}
+{"name":"rs113219144","clin_sig":"Likely Pathogenic"}
+{"name":"rs5997122","clin_sig":"Benign"}
+{"name":"rs702692","clin_sig":"Benign"}
+{"name":"rs645299","clin_sig":"Likely Pathogenic"}
+{"name":"rs7109156","clin_sig":"Likely Pathogenic"}
+{"name":"rs1270901","clin_sig":"Benign"}
+{"name":"rs10861231","clin_sig":"Likely Pathogenic"}
+{"name":"rs428405","clin_sig":"Likely Pathogenic"}
+{"name":"rs4652","clin_sig":"Likely Pathogenic"}
+{"name":"rs150440982","clin_sig":"Benign"}
+{"name":"rs6496565","clin_sig":"Pathogenic"}
+{"name":"rs3087620","clin_sig":"Likely Pathogenic"}
+{"name":"rs78537376","clin_sig":"Benign"}
+{"name":"rs2229510","clin_sig":"Likely Pathogenic"}
+{"name":"rs10422980","clin_sig":"Pathogenic"}
+{"name":"rs4557108","clin_sig":"Likely Pathogenic"}
+{"name":"rs4859954","clin_sig":"Pathogenic"}
+{"name":"rs316408","clin_sig":"Likely Pathogenic"}
+{"name":"rs7779180","clin_sig":"Pathogenic"}
+{"name":"rs2356661","clin_sig":"Likely Pathogenic"}
+{"name":"rs10738925","clin_sig":"Pathogenic"}
+{"name":"rs4512449","clin_sig":"Pathogenic"}
+{"name":"rs56188506","clin_sig":"Pathogenic"}
+{"name":"rs6668178","clin_sig":"Benign"}
+{"name":"rs2801485","clin_sig":"Likely Pathogenic"}
+{"name":"rs10160742","clin_sig":"Benign"}
+{"name":"rs60179478","clin_sig":"Benign"}
+{"name":"rs75788814","clin_sig":"Benign"}
+{"name":"rs1059143","clin_sig":"Benign"}
+{"name":"rs9568590","clin_sig":"Likely Pathogenic"}
+{"name":"rs1373564","clin_sig":"Likely Pathogenic"}
+{"name":"rs1153849","clin_sig":"Likely Pathogenic"}
+{"name":"rs2069133","clin_sig":"Pathogenic"}
+{"name":"rs1106908","clin_sig":"Pathogenic"}
+{"name":"rs9948501","clin_sig":"Benign"}
+{"name":"rs3746181","clin_sig":"Benign"}
+{"name":"rs1999663","clin_sig":"Likely Pathogenic"}
+{"name":"rs1563971","clin_sig":"Likely Pathogenic"}
+{"name":"rs10039048","clin_sig":"Pathogenic"}
+{"name":"rs6919959","clin_sig":"Likely Pathogenic"}
+{"name":"rs12539738","clin_sig":"Pathogenic"}
+{"name":"rs1921","clin_sig":"Benign"}
+{"name":"rs3917945","clin_sig":"Benign"}
+{"name":"rs61856912","clin_sig":"Likely Pathogenic"}
+{"name":"rs7307876","clin_sig":"Pathogenic"}
+{"name":"rs678047","clin_sig":"Pathogenic"}
+{"name":"rs12445830","clin_sig":"Pathogenic"}
+{"name":"rs2437036","clin_sig":"Pathogenic"}
+{"name":"rs10048650","clin_sig":"Likely Pathogenic"}
+{"name":"rs10169718","clin_sig":"Benign"}
+{"name":"rs4149552","clin_sig":"Benign"}
+{"name":"rs1884513","clin_sig":"Likely Pathogenic"}
+{"name":"rs6072268","clin_sig":"Pathogenic"}
+{"name":"rs2427273","clin_sig":"Pathogenic"}
+{"name":"rs7410071","clin_sig":"Likely Pathogenic"}
+{"name":"rs34257572","clin_sig":"Benign"}
+{"name":"rs2431663","clin_sig":"Likely Pathogenic"}
+{"name":"rs3734738","clin_sig":"Likely Pathogenic"}
+{"name":"rs3860243","clin_sig":"Likely Pathogenic"}
+{"name":"rs200419824","clin_sig":"Pathogenic"}
+{"name":"rs8993","clin_sig":"Likely Pathogenic"}
+{"name":"rs66464053","clin_sig":"Likely Pathogenic"}
+{"name":"rs10838549","clin_sig":"Pathogenic"}
+{"name":"rs580933","clin_sig":"Likely Pathogenic"}
+{"name":"rs76719109","clin_sig":"Likely Pathogenic"}
+{"name":"rs485901","clin_sig":"Likely Pathogenic"}
+{"name":"rs4802","clin_sig":"Pathogenic"}
+{"name":"rs999665","clin_sig":"Pathogenic"}
+{"name":"rs17184054","clin_sig":"Likely Pathogenic"}
+{"name":"rs2127277","clin_sig":"Benign"}
+{"name":"rs148343664","clin_sig":"Likely Pathogenic"}
+{"name":"rs33936469","clin_sig":"Likely Pathogenic"}
+{"name":"rs7225735","clin_sig":"Benign"}
+{"name":"rs2238606","clin_sig":"Pathogenic"}
+{"name":"rs7576797","clin_sig":"Pathogenic"}
+{"name":"rs59067805","clin_sig":"Benign"}
+{"name":"rs6729586","clin_sig":"Benign"}
+{"name":"rs9305483","clin_sig":"Likely Pathogenic"}
+{"name":"rs6440422","clin_sig":"Pathogenic"}
+{"name":"rs10937886","clin_sig":"Likely Pathogenic"}
+{"name":"rs3792631","clin_sig":"Benign"}
+{"name":"rs1825403","clin_sig":"Likely Pathogenic"}
+{"name":"rs112193793","clin_sig":"Likely Pathogenic"}
+{"name":"rs10957652","clin_sig":"Benign"}
+{"name":"rs2717554","clin_sig":"Benign"}
+{"name":"rs10984922","clin_sig":"Likely Pathogenic"}
+{"name":"rs9031","clin_sig":"Likely Pathogenic"}
+{"name":"rs1127313","clin_sig":"Benign"}
+{"name":"rs286890","clin_sig":"Pathogenic"}
+{"name":"rs2186676","clin_sig":"Likely Pathogenic"}
+{"name":"rs11150617","clin_sig":"Pathogenic"}
+{"name":"rs6757873","clin_sig":"Pathogenic"}
+{"name":"rs11424","clin_sig":"Benign"}
+{"name":"rs13401847","clin_sig":"Benign"}
+{"name":"rs76511316","clin_sig":"Pathogenic"}
+{"name":"rs4234755","clin_sig":"Benign"}
+{"name":"rs11337618","clin_sig":"Benign"}
+{"name":"rs9264663","clin_sig":"Pathogenic"}
+{"name":"rs34491481","clin_sig":"Likely Pathogenic"}
+{"name":"rs484930","clin_sig":"Benign"}
+{"name":"rs71376871","clin_sig":"Benign"}
+{"name":"rs138080546","clin_sig":"Pathogenic"}
+{"name":"rs33657","clin_sig":"Pathogenic"}
+{"name":"rs11871292","clin_sig":"Benign"}
+{"name":"rs1949956","clin_sig":"Pathogenic"}
+{"name":"rs34874436","clin_sig":"Pathogenic"}
+{"name":"rs5760030","clin_sig":"Benign"}
+{"name":"rs5845307","clin_sig":"Benign"}
+{"name":"rs1286652","clin_sig":"Benign"}
+{"name":"rs6762122","clin_sig":"Benign"}
+{"name":"rs863216","clin_sig":"Likely Pathogenic"}
+{"name":"rs78537140","clin_sig":"Benign"}
+{"name":"rs11759576","clin_sig":"Pathogenic"}
+{"name":"rs2843740","clin_sig":"Benign"}
+{"name":"rs12336839","clin_sig":"Benign"}
+{"name":"rs3021087","clin_sig":"Pathogenic"}
+{"name":"rs11589893","clin_sig":"Pathogenic"}
+{"name":"rs1476060","clin_sig":"Likely Pathogenic"}
+{"name":"rs2102488","clin_sig":"Benign"}
+{"name":"rs10770910","clin_sig":"Pathogenic"}
+{"name":"rs10507079","clin_sig":"Benign"}
+{"name":"rs1790797","clin_sig":"Pathogenic"}
+{"name":"rs186552026","clin_sig":"Pathogenic"}
+{"name":"rs467692","clin_sig":"Pathogenic"}
+{"name":"rs3864222","clin_sig":"Likely Pathogenic"}
+{"name":"rs6849315","clin_sig":"Pathogenic"}
+{"name":"rs78279132","clin_sig":"Likely Pathogenic"}
+{"name":"rs10098470","clin_sig":"Benign"}
+{"name":"rs2498435","clin_sig":"Pathogenic"}
+{"name":"rs4743763","clin_sig":"Benign"}
+{"name":"rs2096047","clin_sig":"Likely Pathogenic"}
+{"name":"rs2429055","clin_sig":"Pathogenic"}
+{"name":"rs1270","clin_sig":"Pathogenic"}
+{"name":"rs1811384","clin_sig":"Pathogenic"}
+{"name":"rs673614","clin_sig":"Pathogenic"}
+{"name":"rs143434642","clin_sig":"Likely Pathogenic"}
+{"name":"rs7295774","clin_sig":"Pathogenic"}
+{"name":"rs6898","clin_sig":"Likely Pathogenic"}
+{"name":"rs55646929","clin_sig":"Benign"}
+{"name":"rs11733989","clin_sig":"Benign"}
+{"name":"rs11099701","clin_sig":"Benign"}
+{"name":"rs1130203","clin_sig":"Benign"}
+{"name":"rs143925412","clin_sig":"Pathogenic"}
+{"name":"rs6909664","clin_sig":"Benign"}
+{"name":"rs4728775","clin_sig":"Pathogenic"}
+{"name":"rs892732","clin_sig":"Benign"}
+{"name":"rs7528066","clin_sig":"Benign"}
+{"name":"rs2990508","clin_sig":"Likely Pathogenic"}
+{"name":"rs306329","clin_sig":"Pathogenic"}
+{"name":"rs1792568","clin_sig":"Benign"}
+{"name":"rs10538602","clin_sig":"Likely Pathogenic"}
+{"name":"rs3019198","clin_sig":"Likely Pathogenic"}
+{"name":"rs2033532","clin_sig":"Likely Pathogenic"}
+{"name":"rs35912781","clin_sig":"Likely Pathogenic"}
+{"name":"rs1463864","clin_sig":"Likely Pathogenic"}
+{"name":"rs7971299","clin_sig":"Benign"}
+{"name":"rs793637","clin_sig":"Pathogenic"}
+{"name":"rs57757386","clin_sig":"Likely Pathogenic"}
+{"name":"rs7166799","clin_sig":"Pathogenic"}
+{"name":"rs9908960","clin_sig":"Benign"}
+{"name":"rs7255988","clin_sig":"Pathogenic"}
+{"name":"rs7570384","clin_sig":"Likely Pathogenic"}
+{"name":"rs4666312","clin_sig":"Pathogenic"}
+{"name":"rs2160395","clin_sig":"Likely Pathogenic"}
+{"name":"rs11685272","clin_sig":"Benign"}
+{"name":"rs13065833","clin_sig":"Benign"}
+{"name":"rs9858344","clin_sig":"Pathogenic"}
+{"name":"rs2228375","clin_sig":"Likely Pathogenic"}
+{"name":"rs71514235","clin_sig":"Likely Pathogenic"}
+{"name":"rs12136826","clin_sig":"Pathogenic"}
+{"name":"rs805684","clin_sig":"Pathogenic"}
+{"name":"rs6483473","clin_sig":"Pathogenic"}
+{"name":"rs200846760","clin_sig":"Benign"}
+{"name":"rs8885","clin_sig":"Benign"}
+{"name":"rs4763952","clin_sig":"Likely Pathogenic"}
+{"name":"rs7281","clin_sig":"Pathogenic"}
+{"name":"rs1107593","clin_sig":"Pathogenic"}
+{"name":"rs7458","clin_sig":"Pathogenic"}
+{"name":"rs73338694","clin_sig":"Benign"}
+{"name":"rs8107023","clin_sig":"Benign"}
+{"name":"rs12560","clin_sig":"Likely Pathogenic"}
+{"name":"rs11459632","clin_sig":"Pathogenic"}
+{"name":"rs9760","clin_sig":"Benign"}
+{"name":"rs3078900","clin_sig":"Benign"}
+{"name":"rs4771","clin_sig":"Pathogenic"}
+{"name":"rs6768760","clin_sig":"Likely Pathogenic"}
+{"name":"rs4276504","clin_sig":"Likely Pathogenic"}
+{"name":"rs12524","clin_sig":"Likely Pathogenic"}
+{"name":"rs7774516","clin_sig":"Likely Pathogenic"}
+{"name":"rs572012","clin_sig":"Benign"}
+{"name":"rs1799148","clin_sig":"Benign"}
+{"name":"rs56055129","clin_sig":"Likely Pathogenic"}
+{"name":"rs2272096","clin_sig":"Likely Pathogenic"}
+{"name":"rs150715017","clin_sig":"Pathogenic"}
+{"name":"rs59001032","clin_sig":"Likely Pathogenic"}
+{"name":"rs4660651","clin_sig":"Benign"}
+{"name":"rs3766211","clin_sig":"Likely Pathogenic"}
+{"name":"rs2282624","clin_sig":"Pathogenic"}
+{"name":"rs474290","clin_sig":"Benign"}
+{"name":"rs2212397","clin_sig":"Benign"}
+{"name":"rs61990832","clin_sig":"Benign"}
+{"name":"rs6500939","clin_sig":"Benign"}
+{"name":"rs8085772","clin_sig":"Pathogenic"}
+{"name":"rs17029","clin_sig":"Pathogenic"}
+{"name":"rs142942348","clin_sig":"Pathogenic"}
+{"name":"rs6096083","clin_sig":"Pathogenic"}
+{"name":"rs766424","clin_sig":"Benign"}
+{"name":"rs5996200","clin_sig":"Likely Pathogenic"}
+{"name":"rs9842576","clin_sig":"Benign"}
+{"name":"rs1923308","clin_sig":"Likely Pathogenic"}
+{"name":"rs6466394","clin_sig":"Benign"}
+{"name":"rs60309257","clin_sig":"Pathogenic"}
+{"name":"rs60719892","clin_sig":"Benign"}
+{"name":"rs28510900","clin_sig":"Likely Pathogenic"}
+{"name":"rs200899297","clin_sig":"Pathogenic"}
+{"name":"rs179145","clin_sig":"Pathogenic"}
+{"name":"rs113741787","clin_sig":"Likely Pathogenic"}
+{"name":"rs2288490","clin_sig":"Pathogenic"}
+{"name":"rs12465103","clin_sig":"Likely Pathogenic"}
+{"name":"rs113907629","clin_sig":"Benign"}
+{"name":"rs1062687","clin_sig":"Likely Pathogenic"}
+{"name":"rs78602674","clin_sig":"Benign"}
+{"name":"rs11945742","clin_sig":"Pathogenic"}
+{"name":"rs3097936","clin_sig":"Pathogenic"}
+{"name":"rs312505","clin_sig":"Benign"}
+{"name":"rs113144340","clin_sig":"Likely Pathogenic"}
+{"name":"rs35016270","clin_sig":"Likely Pathogenic"}
+{"name":"rs10103320","clin_sig":"Likely Pathogenic"}
+{"name":"rs2721192","clin_sig":"Likely Pathogenic"}
+{"name":"rs13417","clin_sig":"Benign"}
+{"name":"rs6724","clin_sig":"Pathogenic"}
+{"name":"rs2205697","clin_sig":"Pathogenic"}
+{"name":"rs3794171","clin_sig":"Likely Pathogenic"}
+{"name":"rs9603813","clin_sig":"Benign"}
+{"name":"rs3101436","clin_sig":"Benign"}
+{"name":"rs526897","clin_sig":"Pathogenic"}
+{"name":"rs348781","clin_sig":"Likely Pathogenic"}
+{"name":"rs530","clin_sig":"Likely Pathogenic"}
+{"name":"rs61374862","clin_sig":"Likely Pathogenic"}
+{"name":"rs9878871","clin_sig":"Benign"}
+{"name":"rs5864780","clin_sig":"Likely Pathogenic"}
+{"name":"rs72254254","clin_sig":"Likely Pathogenic"}
+{"name":"rs1978446","clin_sig":"Benign"}
+{"name":"rs914352","clin_sig":"Likely Pathogenic"}
+{"name":"rs12539236","clin_sig":"Likely Pathogenic"}
+{"name":"rs6948536","clin_sig":"Likely Pathogenic"}
+{"name":"rs6948406","clin_sig":"Likely Pathogenic"}
+{"name":"rs3808600","clin_sig":"Benign"}
+{"name":"rs305322","clin_sig":"Likely Pathogenic"}
+{"name":"rs7872702","clin_sig":"Likely Pathogenic"}
+{"name":"rs368688066","clin_sig":"Benign"}
+{"name":"rs4845329","clin_sig":"Pathogenic"}
+{"name":"rs372396856","clin_sig":"Benign"}
+{"name":"rs4919695","clin_sig":"Pathogenic"}
+{"name":"rs1061502","clin_sig":"Likely Pathogenic"}
+{"name":"rs9534114","clin_sig":"Pathogenic"}
+{"name":"rs9634685","clin_sig":"Pathogenic"}
+{"name":"rs73225961","clin_sig":"Benign"}
+{"name":"rs530855","clin_sig":"Benign"}
+{"name":"rs3929","clin_sig":"Benign"}
+{"name":"rs8079781","clin_sig":"Pathogenic"}
+{"name":"rs6725743","clin_sig":"Pathogenic"}
+{"name":"rs13087364","clin_sig":"Pathogenic"}
+{"name":"rs4285045","clin_sig":"Pathogenic"}
+{"name":"rs254385","clin_sig":"Pathogenic"}
+{"name":"rs4618418","clin_sig":"Benign"}
+{"name":"rs527984","clin_sig":"Likely Pathogenic"}
+{"name":"rs2410577","clin_sig":"Benign"}
+{"name":"rs11144901","clin_sig":"Benign"}
+{"name":"rs228700","clin_sig":"Likely Pathogenic"}
+{"name":"rs12795064","clin_sig":"Benign"}
+{"name":"rs710794","clin_sig":"Pathogenic"}
+{"name":"rs9556695","clin_sig":"Pathogenic"}
+{"name":"rs1319462","clin_sig":"Likely Pathogenic"}
+{"name":"rs7156271","clin_sig":"Pathogenic"}
+{"name":"rs5013101","clin_sig":"Pathogenic"}
+{"name":"rs2921551","clin_sig":"Benign"}
+{"name":"rs1861434","clin_sig":"Pathogenic"}
+{"name":"rs348782","clin_sig":"Pathogenic"}
+{"name":"rs10488532","clin_sig":"Pathogenic"}
+{"name":"rs2069418","clin_sig":"Benign"}
+{"name":"rs2244830","clin_sig":"Pathogenic"}
+{"name":"rs4118335","clin_sig":"Pathogenic"}
+{"name":"rs6594031","clin_sig":"Likely Pathogenic"}
+{"name":"rs2481934","clin_sig":"Likely Pathogenic"}
+{"name":"rs1237478","clin_sig":"Benign"}
+{"name":"rs2090142","clin_sig":"Likely Pathogenic"}
+{"name":"rs12882130","clin_sig":"Benign"}
+{"name":"rs2245568","clin_sig":"Likely Pathogenic"}
+{"name":"rs67710655","clin_sig":"Benign"}
+{"name":"rs2289358","clin_sig":"Benign"}
+{"name":"rs66479939","clin_sig":"Benign"}
+{"name":"rs16347","clin_sig":"Pathogenic"}
+{"name":"rs3846055","clin_sig":"Pathogenic"}
+{"name":"rs4393988","clin_sig":"Pathogenic"}
+{"name":"rs9313500","clin_sig":"Likely Pathogenic"}
+{"name":"rs5976270","clin_sig":"Likely Pathogenic"}
+{"name":"rs2232041","clin_sig":"Pathogenic"}
+{"name":"rs68190806","clin_sig":"Pathogenic"}
+{"name":"rs1652224","clin_sig":"Benign"}
+{"name":"rs10761416","clin_sig":"Pathogenic"}
+{"name":"rs11227","clin_sig":"Benign"}
+{"name":"rs35026086","clin_sig":"Pathogenic"}
+{"name":"rs2756130","clin_sig":"Likely Pathogenic"}
+{"name":"rs6500877","clin_sig":"Pathogenic"}
+{"name":"rs3837749","clin_sig":"Likely Pathogenic"}
+{"name":"rs6098","clin_sig":"Pathogenic"}
+{"name":"rs12608943","clin_sig":"Pathogenic"}
+{"name":"rs12991466","clin_sig":"Benign"}
+{"name":"rs76757163","clin_sig":"Benign"}
+{"name":"rs7599110","clin_sig":"Pathogenic"}
+{"name":"rs13110003","clin_sig":"Likely Pathogenic"}
+{"name":"rs7685130","clin_sig":"Likely Pathogenic"}
+{"name":"rs10001397","clin_sig":"Pathogenic"}
+{"name":"rs3832439","clin_sig":"Pathogenic"}
+{"name":"rs185727097","clin_sig":"Pathogenic"}
+{"name":"rs6656","clin_sig":"Benign"}
+{"name":"rs150563047","clin_sig":"Benign"}
+{"name":"rs4030617","clin_sig":"Pathogenic"}
+{"name":"rs2096045","clin_sig":"Benign"}
+{"name":"rs12022895","clin_sig":"Likely Pathogenic"}
+{"name":"rs59781656","clin_sig":"Likely Pathogenic"}
+{"name":"rs7106798","clin_sig":"Likely Pathogenic"}
+{"name":"rs1071862","clin_sig":"Pathogenic"}
+{"name":"rs3742848","clin_sig":"Likely Pathogenic"}
+{"name":"rs73492051","clin_sig":"Benign"}
+{"name":"rs1808536","clin_sig":"Pathogenic"}
+{"name":"rs540187","clin_sig":"Pathogenic"}
+{"name":"rs73195611","clin_sig":"Pathogenic"}
+{"name":"rs469390","clin_sig":"Pathogenic"}
+{"name":"rs13059465","clin_sig":"Pathogenic"}
+{"name":"rs1719604","clin_sig":"Pathogenic"}
+{"name":"rs5859471","clin_sig":"Pathogenic"}
+{"name":"rs1131123","clin_sig":"Likely Pathogenic"}
+{"name":"rs4291117","clin_sig":"Pathogenic"}
+{"name":"rs2177557","clin_sig":"Likely Pathogenic"}
+{"name":"rs949493","clin_sig":"Benign"}
+{"name":"rs62522928","clin_sig":"Benign"}
+{"name":"rs17377758","clin_sig":"Likely Pathogenic"}
+{"name":"rs66600713","clin_sig":"Likely Pathogenic"}
+{"name":"rs12029332","clin_sig":"Pathogenic"}
+{"name":"rs12239466","clin_sig":"Likely Pathogenic"}
+{"name":"rs1127327","clin_sig":"Likely Pathogenic"}
+{"name":"rs75531018","clin_sig":"Pathogenic"}
+{"name":"rs1381310","clin_sig":"Pathogenic"}
+{"name":"rs10781636","clin_sig":"Pathogenic"}
+{"name":"rs9562446","clin_sig":"Pathogenic"}
+{"name":"rs2599091","clin_sig":"Pathogenic"}
+{"name":"rs140141549","clin_sig":"Likely Pathogenic"}
+{"name":"rs2311056","clin_sig":"Likely Pathogenic"}
+{"name":"rs1723484","clin_sig":"Benign"}
+{"name":"rs2246193","clin_sig":"Likely Pathogenic"}
+{"name":"rs604398","clin_sig":"Benign"}
+{"name":"rs144675290","clin_sig":"Pathogenic"}
+{"name":"rs9991900","clin_sig":"Likely Pathogenic"}
+{"name":"rs142856394","clin_sig":"Likely Pathogenic"}
+{"name":"rs706117","clin_sig":"Likely Pathogenic"}
+{"name":"rs61108874","clin_sig":"Likely Pathogenic"}
+{"name":"rs2227862","clin_sig":"Pathogenic"}
+{"name":"rs2229857","clin_sig":"Benign"}
+{"name":"rs57072007","clin_sig":"Benign"}
+{"name":"rs146633669","clin_sig":"Pathogenic"}
+{"name":"rs10878245","clin_sig":"Benign"}
+{"name":"rs34221350","clin_sig":"Likely Pathogenic"}
+{"name":"rs201612618","clin_sig":"Likely Pathogenic"}
+{"name":"rs1753589","clin_sig":"Benign"}
+{"name":"rs115122369","clin_sig":"Likely Pathogenic"}
+{"name":"rs41260","clin_sig":"Pathogenic"}
+{"name":"rs953696","clin_sig":"Likely Pathogenic"}
+{"name":"rs66471684","clin_sig":"Pathogenic"}
+{"name":"rs3769409","clin_sig":"Benign"}
+{"name":"rs7580259","clin_sig":"Pathogenic"}
+{"name":"rs9809184","clin_sig":"Benign"}
+{"name":"rs112492377","clin_sig":"Benign"}
+{"name":"rs6841895","clin_sig":"Likely Pathogenic"}
+{"name":"rs6852829","clin_sig":"Benign"}
+{"name":"rs7784814","clin_sig":"Likely Pathogenic"}
+{"name":"rs141793545","clin_sig":"Pathogenic"}
+{"name":"rs6660709","clin_sig":"Pathogenic"}
+{"name":"rs10840142","clin_sig":"Likely Pathogenic"}
+{"name":"rs11179882","clin_sig":"Likely Pathogenic"}
+{"name":"rs4941543","clin_sig":"Benign"}
+{"name":"rs1957949","clin_sig":"Benign"}
+{"name":"rs8104554","clin_sig":"Likely Pathogenic"}
+{"name":"rs11125789","clin_sig":"Benign"}
+{"name":"rs78113182","clin_sig":"Likely Pathogenic"}
+{"name":"rs419598","clin_sig":"Benign"}
+{"name":"rs6082441","clin_sig":"Benign"}
+{"name":"rs3790257","clin_sig":"Pathogenic"}
+{"name":"rs777508","clin_sig":"Likely Pathogenic"}
+{"name":"rs2108845","clin_sig":"Benign"}
+{"name":"rs197474","clin_sig":"Pathogenic"}
+{"name":"rs4559074","clin_sig":"Benign"}
+{"name":"rs147954001","clin_sig":"Pathogenic"}
+{"name":"rs10780610","clin_sig":"Likely Pathogenic"}
+{"name":"rs368610003","clin_sig":"Pathogenic"}
+{"name":"rs78808109","clin_sig":"Likely Pathogenic"}
+{"name":"rs74614153","clin_sig":"Likely Pathogenic"}
+{"name":"rs10838251","clin_sig":"Likely Pathogenic"}
+{"name":"rs2408944","clin_sig":"Likely Pathogenic"}
+{"name":"rs9511259","clin_sig":"Pathogenic"}
+{"name":"rs116070441","clin_sig":"Likely Pathogenic"}
+{"name":"rs1540437","clin_sig":"Benign"}
+{"name":"rs11675232","clin_sig":"Pathogenic"}
+{"name":"rs467960","clin_sig":"Likely Pathogenic"}
+{"name":"rs14134","clin_sig":"Benign"}
+{"name":"rs147173324","clin_sig":"Benign"}
+{"name":"rs11730626","clin_sig":"Pathogenic"}
+{"name":"rs1828187","clin_sig":"Pathogenic"}
+{"name":"rs1476547","clin_sig":"Pathogenic"}
+{"name":"rs2689544","clin_sig":"Likely Pathogenic"}
+{"name":"rs13261087","clin_sig":"Likely Pathogenic"}
+{"name":"rs57425175","clin_sig":"Pathogenic"}
+{"name":"rs7099073","clin_sig":"Benign"}
+{"name":"rs9364","clin_sig":"Pathogenic"}
+{"name":"rs2460759","clin_sig":"Likely Pathogenic"}
+{"name":"rs145660609","clin_sig":"Likely Pathogenic"}
+{"name":"rs78005814","clin_sig":"Pathogenic"}
+{"name":"rs2290693","clin_sig":"Likely Pathogenic"}
+{"name":"rs4429390","clin_sig":"Likely Pathogenic"}
+{"name":"rs12711926","clin_sig":"Pathogenic"}
+{"name":"rs116497883","clin_sig":"Benign"}
+{"name":"rs34364101","clin_sig":"Pathogenic"}
+{"name":"rs8060","clin_sig":"Benign"}
+{"name":"rs2275801","clin_sig":"Likely Pathogenic"}
+{"name":"rs3096349","clin_sig":"Likely Pathogenic"}
+{"name":"rs2791775","clin_sig":"Pathogenic"}
+{"name":"rs10480498","clin_sig":"Likely Pathogenic"}
+{"name":"rs370193557","clin_sig":"Likely Pathogenic"}
+{"name":"rs75894321","clin_sig":"Benign"}
+{"name":"rs11323287","clin_sig":"Benign"}
+{"name":"rs12401540","clin_sig":"Pathogenic"}
+{"name":"rs535945","clin_sig":"Benign"}
+{"name":"rs34968587","clin_sig":"Likely Pathogenic"}
+{"name":"rs7135148","clin_sig":"Pathogenic"}
+{"name":"rs1731716","clin_sig":"Benign"}
+{"name":"rs11111403","clin_sig":"Likely Pathogenic"}
+{"name":"rs7327769","clin_sig":"Likely Pathogenic"}
+{"name":"rs1522636","clin_sig":"Likely Pathogenic"}
+{"name":"rs2228183","clin_sig":"Likely Pathogenic"}
+{"name":"rs618669","clin_sig":"Benign"}
+{"name":"rs9688272","clin_sig":"Likely Pathogenic"}
+{"name":"rs357108","clin_sig":"Likely Pathogenic"}
+{"name":"rs1736924","clin_sig":"Benign"}
+{"name":"rs114811870","clin_sig":"Likely Pathogenic"}
+{"name":"rs34357612","clin_sig":"Likely Pathogenic"}
+{"name":"rs114","clin_sig":"Pathogenic"}
+{"name":"rs228677","clin_sig":"Benign"}
+{"name":"rs6695173","clin_sig":"Benign"}
+{"name":"rs1138600","clin_sig":"Pathogenic"}
+{"name":"rs610155","clin_sig":"Pathogenic"}
+{"name":"rs12312562","clin_sig":"Pathogenic"}
+{"name":"rs4778061","clin_sig":"Pathogenic"}
+{"name":"rs57674587","clin_sig":"Likely Pathogenic"}
+{"name":"rs4149609","clin_sig":"Likely Pathogenic"}
+{"name":"rs66520354","clin_sig":"Pathogenic"}
+{"name":"rs162549","clin_sig":"Pathogenic"}
+{"name":"rs1138616","clin_sig":"Likely Pathogenic"}
+{"name":"rs4812342","clin_sig":"Benign"}
+{"name":"rs76073684","clin_sig":"Likely Pathogenic"}
+{"name":"rs78338106","clin_sig":"Likely Pathogenic"}
+{"name":"rs13189202","clin_sig":"Benign"}
+{"name":"rs10456519","clin_sig":"Pathogenic"}
+{"name":"rs12536321","clin_sig":"Benign"}
+{"name":"rs56034811","clin_sig":"Pathogenic"}
+{"name":"rs5963242","clin_sig":"Likely Pathogenic"}
+{"name":"rs12086212","clin_sig":"Benign"}
+{"name":"rs3750945","clin_sig":"Likely Pathogenic"}
+{"name":"rs34124742","clin_sig":"Pathogenic"}
+{"name":"rs696","clin_sig":"Likely Pathogenic"}
+{"name":"rs79149883","clin_sig":"Likely Pathogenic"}
+{"name":"rs1130674","clin_sig":"Benign"}
+{"name":"rs13024824","clin_sig":"Pathogenic"}
+{"name":"rs376500828","clin_sig":"Likely Pathogenic"}
+{"name":"rs61737861","clin_sig":"Benign"}
+{"name":"rs966385","clin_sig":"Benign"}
+{"name":"rs289234","clin_sig":"Likely Pathogenic"}
+{"name":"rs62386570","clin_sig":"Likely Pathogenic"}
+{"name":"rs140624556","clin_sig":"Benign"}
+{"name":"rs66688820","clin_sig":"Pathogenic"}
+{"name":"rs879661","clin_sig":"Benign"}
+{"name":"rs1044483","clin_sig":"Benign"}
+{"name":"rs373514721","clin_sig":"Pathogenic"}
+{"name":"rs6470219","clin_sig":"Likely Pathogenic"}
+{"name":"rs935119","clin_sig":"Likely Pathogenic"}
+{"name":"rs2381570","clin_sig":"Benign"}
+{"name":"rs17026929","clin_sig":"Benign"}
+{"name":"rs56132623","clin_sig":"Pathogenic"}
+{"name":"rs7146672","clin_sig":"Likely Pathogenic"}
+{"name":"rs7245479","clin_sig":"Pathogenic"}
+{"name":"rs12477742","clin_sig":"Pathogenic"}
+{"name":"rs1538426","clin_sig":"Benign"}
+{"name":"rs6125462","clin_sig":"Benign"}
+{"name":"rs35796216","clin_sig":"Benign"}
+{"name":"rs2240070","clin_sig":"Pathogenic"}
+{"name":"rs6932687","clin_sig":"Pathogenic"}
+{"name":"rs2178630","clin_sig":"Benign"}
+{"name":"rs10732478","clin_sig":"Likely Pathogenic"}
+{"name":"rs1053815","clin_sig":"Pathogenic"}
+{"name":"rs61098175","clin_sig":"Likely Pathogenic"}
+{"name":"rs55700143","clin_sig":"Pathogenic"}
+{"name":"rs10745758","clin_sig":"Pathogenic"}
+{"name":"rs3127033","clin_sig":"Benign"}
+{"name":"rs56367058","clin_sig":"Benign"}
+{"name":"rs585571","clin_sig":"Benign"}
+{"name":"rs7598864","clin_sig":"Pathogenic"}
+{"name":"rs6434319","clin_sig":"Benign"}
+{"name":"rs910360","clin_sig":"Benign"}
+{"name":"rs9823406","clin_sig":"Likely Pathogenic"}
+{"name":"rs78300601","clin_sig":"Likely Pathogenic"}
+{"name":"rs9640866","clin_sig":"Likely Pathogenic"}
+{"name":"rs62509930","clin_sig":"Benign"}
+{"name":"rs60720644","clin_sig":"Benign"}
+{"name":"rs5899692","clin_sig":"Benign"}
+{"name":"rs144419656","clin_sig":"Pathogenic"}
+{"name":"rs2275086","clin_sig":"Benign"}
+{"name":"rs2164944","clin_sig":"Benign"}
+{"name":"rs35142528","clin_sig":"Likely Pathogenic"}
+{"name":"rs11401046","clin_sig":"Likely Pathogenic"}
+{"name":"rs34775878","clin_sig":"Benign"}
+{"name":"rs4076777","clin_sig":"Likely Pathogenic"}
+{"name":"rs3809","clin_sig":"Benign"}
+{"name":"rs10141106","clin_sig":"Pathogenic"}
+{"name":"rs9479","clin_sig":"Benign"}
+{"name":"rs58515887","clin_sig":"Likely Pathogenic"}
+{"name":"rs11902932","clin_sig":"Pathogenic"}
+{"name":"rs2916448","clin_sig":"Benign"}
+{"name":"rs62357202","clin_sig":"Likely Pathogenic"}
+{"name":"rs5000951","clin_sig":"Pathogenic"}
+{"name":"rs4978808","clin_sig":"Pathogenic"}
+{"name":"rs539483","clin_sig":"Pathogenic"}
+{"name":"rs11251720","clin_sig":"Pathogenic"}
+{"name":"rs2395339","clin_sig":"Likely Pathogenic"}
+{"name":"rs524968","clin_sig":"Benign"}
+{"name":"rs200730233","clin_sig":"Pathogenic"}
+{"name":"rs9514716","clin_sig":"Benign"}
+{"name":"rs74853090","clin_sig":"Pathogenic"}
+{"name":"rs11644432","clin_sig":"Benign"}
+{"name":"rs8259","clin_sig":"Likely Pathogenic"}
+{"name":"rs200828977","clin_sig":"Pathogenic"}
+{"name":"rs78063248","clin_sig":"Benign"}
+{"name":"rs17013986","clin_sig":"Likely Pathogenic"}
+{"name":"rs200394945","clin_sig":"Pathogenic"}
+{"name":"rs9842567","clin_sig":"Pathogenic"}
+{"name":"rs2270226","clin_sig":"Benign"}
+{"name":"rs653060","clin_sig":"Benign"}
+{"name":"rs734783","clin_sig":"Likely Pathogenic"}
+{"name":"rs14288","clin_sig":"Likely Pathogenic"}
+{"name":"rs56310296","clin_sig":"Pathogenic"}
+{"name":"rs2174127","clin_sig":"Pathogenic"}
+{"name":"rs200164335","clin_sig":"Likely Pathogenic"}
+{"name":"rs754690","clin_sig":"Benign"}
+{"name":"rs723810","clin_sig":"Benign"}
+{"name":"rs34573827","clin_sig":"Likely Pathogenic"}
+{"name":"rs12451899","clin_sig":"Likely Pathogenic"}
+{"name":"rs6713161","clin_sig":"Pathogenic"}
+{"name":"rs3789067","clin_sig":"Likely Pathogenic"}
+{"name":"rs73046894","clin_sig":"Pathogenic"}
+{"name":"rs6077316","clin_sig":"Likely Pathogenic"}
+{"name":"rs5752785","clin_sig":"Likely Pathogenic"}
+{"name":"rs909718","clin_sig":"Likely Pathogenic"}
+{"name":"rs1071597","clin_sig":"Benign"}
+{"name":"rs11264432","clin_sig":"Likely Pathogenic"}
+{"name":"rs139221252","clin_sig":"Likely Pathogenic"}
+{"name":"rs10864226","clin_sig":"Benign"}
+{"name":"rs10838543","clin_sig":"Pathogenic"}
+{"name":"rs12578949","clin_sig":"Pathogenic"}
+{"name":"rs9563686","clin_sig":"Benign"}
+{"name":"rs7139811","clin_sig":"Benign"}
+{"name":"rs2414277","clin_sig":"Benign"}
+{"name":"rs7183692","clin_sig":"Pathogenic"}
+{"name":"rs952472","clin_sig":"Likely Pathogenic"}
+{"name":"rs797975","clin_sig":"Likely Pathogenic"}
+{"name":"rs73927763","clin_sig":"Benign"}
+{"name":"rs6792","clin_sig":"Benign"}
+{"name":"rs2697519","clin_sig":"Likely Pathogenic"}
+{"name":"rs7627446","clin_sig":"Pathogenic"}
+{"name":"rs10937775","clin_sig":"Pathogenic"}
+{"name":"rs4998488","clin_sig":"Pathogenic"}
+{"name":"rs147022757","clin_sig":"Pathogenic"}
+{"name":"rs10604824","clin_sig":"Likely Pathogenic"}
+{"name":"rs1128226","clin_sig":"Benign"}
+{"name":"rs1987241","clin_sig":"Pathogenic"}
+{"name":"rs6656822","clin_sig":"Likely Pathogenic"}
+{"name":"rs4409642","clin_sig":"Likely Pathogenic"}
+{"name":"rs7071400","clin_sig":"Pathogenic"}
+{"name":"rs1844948","clin_sig":"Benign"}
+{"name":"rs73197808","clin_sig":"Pathogenic"}
+{"name":"rs36404","clin_sig":"Benign"}
+{"name":"rs200711522","clin_sig":"Pathogenic"}
+{"name":"rs4092199","clin_sig":"Pathogenic"}
+{"name":"rs372159034","clin_sig":"Pathogenic"}
+{"name":"rs6436806","clin_sig":"Likely Pathogenic"}
+{"name":"rs1206804","clin_sig":"Benign"}
+{"name":"rs148125094","clin_sig":"Pathogenic"}
+{"name":"rs3856917","clin_sig":"Likely Pathogenic"}
+{"name":"rs1319630","clin_sig":"Benign"}
+{"name":"rs201455990","clin_sig":"Benign"}
+{"name":"rs6898333","clin_sig":"Pathogenic"}
+{"name":"rs111862726","clin_sig":"Pathogenic"}
+{"name":"rs140426902","clin_sig":"Pathogenic"}
+{"name":"rs146303410","clin_sig":"Likely Pathogenic"}
+{"name":"rs57981158","clin_sig":"Benign"}
+{"name":"rs6943936","clin_sig":"Likely Pathogenic"}
+{"name":"rs2634056","clin_sig":"Pathogenic"}
+{"name":"rs11787079","clin_sig":"Benign"}
+{"name":"rs600743","clin_sig":"Pathogenic"}
+{"name":"rs1863842","clin_sig":"Likely Pathogenic"}
+{"name":"rs9533500","clin_sig":"Pathogenic"}
+{"name":"rs7153817","clin_sig":"Pathogenic"}
+{"name":"rs6899","clin_sig":"Benign"}
+{"name":"rs4782202","clin_sig":"Pathogenic"}
+{"name":"rs1345895","clin_sig":"Pathogenic"}
+{"name":"rs1054378","clin_sig":"Benign"}
+{"name":"rs7407945","clin_sig":"Likely Pathogenic"}
+{"name":"rs733054","clin_sig":"Benign"}
+{"name":"rs468917","clin_sig":"Benign"}
+{"name":"rs17728979","clin_sig":"Pathogenic"}
+{"name":"rs4409031","clin_sig":"Benign"}
+{"name":"rs920559","clin_sig":"Likely Pathogenic"}
+{"name":"rs7687516","clin_sig":"Likely Pathogenic"}
+{"name":"rs75680229","clin_sig":"Benign"}
+{"name":"rs2721929","clin_sig":"Likely Pathogenic"}
+{"name":"rs10814465","clin_sig":"Pathogenic"}
+{"name":"rs5932751","clin_sig":"Pathogenic"}
+{"name":"rs6587621","clin_sig":"Benign"}
+{"name":"rs800292","clin_sig":"Pathogenic"}
+{"name":"rs9633345","clin_sig":"Benign"}
+{"name":"rs496388","clin_sig":"Benign"}
+{"name":"rs10844055","clin_sig":"Benign"}
+{"name":"rs4947","clin_sig":"Pathogenic"}
+{"name":"rs4792642","clin_sig":"Likely Pathogenic"}
+{"name":"rs377686132","clin_sig":"Pathogenic"}
+{"name":"rs973656","clin_sig":"Benign"}
+{"name":"rs34466648","clin_sig":"Pathogenic"}
+{"name":"rs4832311","clin_sig":"Benign"}
+{"name":"rs372741118","clin_sig":"Benign"}
+{"name":"rs10189884","clin_sig":"Likely Pathogenic"}
+{"name":"rs1130910","clin_sig":"Benign"}
+{"name":"rs144839110","clin_sig":"Pathogenic"}
+{"name":"rs3772889","clin_sig":"Likely Pathogenic"}
+{"name":"rs6763251","clin_sig":"Benign"}
+{"name":"rs16373","clin_sig":"Pathogenic"}
+{"name":"rs4410689","clin_sig":"Pathogenic"}
+{"name":"rs6570080","clin_sig":"Benign"}
+{"name":"rs1855561","clin_sig":"Benign"}
+{"name":"rs4236438","clin_sig":"Pathogenic"}
+{"name":"rs10112345","clin_sig":"Likely Pathogenic"}
+{"name":"rs76858010","clin_sig":"Likely Pathogenic"}
+{"name":"rs1306","clin_sig":"Pathogenic"}
+{"name":"rs512715","clin_sig":"Likely Pathogenic"}
+{"name":"rs10899542","clin_sig":"Pathogenic"}
+{"name":"rs7970404","clin_sig":"Benign"}
+{"name":"rs115522401","clin_sig":"Likely Pathogenic"}
+{"name":"rs183075498","clin_sig":"Likely Pathogenic"}
+{"name":"rs143153364","clin_sig":"Benign"}
+{"name":"rs377179952","clin_sig":"Pathogenic"}
+{"name":"rs10424098","clin_sig":"Benign"}
+{"name":"rs66871203","clin_sig":"Likely Pathogenic"}
+{"name":"rs74548564","clin_sig":"Pathogenic"}
+{"name":"rs2269162","clin_sig":"Likely Pathogenic"}
+{"name":"rs2319462","clin_sig":"Pathogenic"}
+{"name":"rs142781032","clin_sig":"Pathogenic"}
+{"name":"rs825747","clin_sig":"Pathogenic"}
+{"name":"rs3797762","clin_sig":"Benign"}
+{"name":"rs377166576","clin_sig":"Benign"}
+{"name":"rs11542682","clin_sig":"Likely Pathogenic"}
+{"name":"rs1024569","clin_sig":"Benign"}
+{"name":"rs116117589","clin_sig":"Likely Pathogenic"}
+{"name":"rs10819453","clin_sig":"Benign"}
+{"name":"rs640991","clin_sig":"Benign"}
+{"name":"rs41267299","clin_sig":"Likely Pathogenic"}
+{"name":"rs11420131","clin_sig":"Pathogenic"}
+{"name":"rs7950587","clin_sig":"Benign"}
+{"name":"rs2957669","clin_sig":"Pathogenic"}
+{"name":"rs11602360","clin_sig":"Likely Pathogenic"}
+{"name":"rs12930592","clin_sig":"Likely Pathogenic"}
+{"name":"rs9931371","clin_sig":"Benign"}
+{"name":"rs4796697","clin_sig":"Benign"}
+{"name":"rs11677057","clin_sig":"Benign"}
+{"name":"rs6751117","clin_sig":"Pathogenic"}
+{"name":"rs1142417","clin_sig":"Pathogenic"}
+{"name":"rs4356932","clin_sig":"Likely Pathogenic"}
+{"name":"rs3777134","clin_sig":"Benign"}
+{"name":"rs17704908","clin_sig":"Benign"}
+{"name":"rs530767","clin_sig":"Benign"}
+{"name":"rs7015","clin_sig":"Benign"}
+{"name":"rs6950373","clin_sig":"Likely Pathogenic"}
+{"name":"rs11970802","clin_sig":"Likely Pathogenic"}
+{"name":"rs13295628","clin_sig":"Pathogenic"}
+{"name":"rs10822932","clin_sig":"Pathogenic"}
+{"name":"rs657324","clin_sig":"Pathogenic"}
+{"name":"rs4406832","clin_sig":"Likely Pathogenic"}
+{"name":"rs1492129","clin_sig":"Pathogenic"}
+{"name":"rs7958762","clin_sig":"Benign"}
+{"name":"rs6749787","clin_sig":"Pathogenic"}
+{"name":"rs6022903","clin_sig":"Likely Pathogenic"}
+{"name":"rs456298","clin_sig":"Pathogenic"}
+{"name":"rs143718961","clin_sig":"Likely Pathogenic"}
+{"name":"rs344053","clin_sig":"Benign"}
+{"name":"rs11728780","clin_sig":"Benign"}
+{"name":"rs11403240","clin_sig":"Benign"}
+{"name":"rs11396137","clin_sig":"Likely Pathogenic"}
+{"name":"rs3849132","clin_sig":"Pathogenic"}
+{"name":"rs28382749","clin_sig":"Likely Pathogenic"}
+{"name":"rs143443038","clin_sig":"Likely Pathogenic"}
+{"name":"rs60479342","clin_sig":"Likely Pathogenic"}
+{"name":"rs372503700","clin_sig":"Benign"}
+{"name":"rs9934225","clin_sig":"Benign"}
+{"name":"rs9929360","clin_sig":"Benign"}
+{"name":"rs17413793","clin_sig":"Benign"}
+{"name":"rs4997257","clin_sig":"Pathogenic"}
+{"name":"rs3746083","clin_sig":"Benign"}
+{"name":"rs35818153","clin_sig":"Likely Pathogenic"}
+{"name":"rs185622373","clin_sig":"Pathogenic"}
+{"name":"rs139891180","clin_sig":"Benign"}
+{"name":"rs75461578","clin_sig":"Pathogenic"}
+{"name":"rs251407","clin_sig":"Benign"}
+{"name":"rs2523800","clin_sig":"Pathogenic"}
+{"name":"rs10954025","clin_sig":"Benign"}
+{"name":"rs2921005","clin_sig":"Likely Pathogenic"}
+{"name":"rs2979004","clin_sig":"Pathogenic"}
+{"name":"rs7859936","clin_sig":"Benign"}
+{"name":"rs8179289","clin_sig":"Benign"}
+{"name":"rs2737679","clin_sig":"Likely Pathogenic"}
+{"name":"rs34238669","clin_sig":"Benign"}
+{"name":"rs1543595","clin_sig":"Likely Pathogenic"}
+{"name":"rs1052808","clin_sig":"Likely Pathogenic"}
+{"name":"rs4479171","clin_sig":"Pathogenic"}
+{"name":"rs176076","clin_sig":"Benign"}
+{"name":"rs2072330","clin_sig":"Likely Pathogenic"}
+{"name":"rs80255385","clin_sig":"Benign"}
+{"name":"rs1787306","clin_sig":"Pathogenic"}
+{"name":"rs62128776","clin_sig":"Pathogenic"}
+{"name":"rs2035971","clin_sig":"Benign"}
+{"name":"rs6541952","clin_sig":"Pathogenic"}
+{"name":"rs12993803","clin_sig":"Benign"}
+{"name":"rs2330579","clin_sig":"Likely Pathogenic"}
+{"name":"rs79430742","clin_sig":"Likely Pathogenic"}
+{"name":"rs1059686","clin_sig":"Likely Pathogenic"}
+{"name":"rs17603201","clin_sig":"Likely Pathogenic"}
+{"name":"rs1527200","clin_sig":"Likely Pathogenic"}
+{"name":"rs942963","clin_sig":"Likely Pathogenic"}
+{"name":"rs5808552","clin_sig":"Benign"}
+{"name":"rs11158875","clin_sig":"Pathogenic"}
+{"name":"rs60336004","clin_sig":"Likely Pathogenic"}
+{"name":"rs13337763","clin_sig":"Likely Pathogenic"}
+{"name":"rs5013098","clin_sig":"Likely Pathogenic"}
+{"name":"rs9964631","clin_sig":"Benign"}
+{"name":"rs759069","clin_sig":"Benign"}
+{"name":"rs35359423","clin_sig":"Pathogenic"}
+{"name":"rs2289247","clin_sig":"Benign"}
+{"name":"rs2125989","clin_sig":"Likely Pathogenic"}
+{"name":"rs710832","clin_sig":"Benign"}
+{"name":"rs116745726","clin_sig":"Pathogenic"}
+{"name":"rs13247254","clin_sig":"Benign"}
+{"name":"rs8191979","clin_sig":"Pathogenic"}
+{"name":"rs1570951","clin_sig":"Benign"}
+{"name":"rs2039795","clin_sig":"Likely Pathogenic"}
+{"name":"rs140963138","clin_sig":"Likely Pathogenic"}
+{"name":"rs35597","clin_sig":"Pathogenic"}
+{"name":"rs8094124","clin_sig":"Likely Pathogenic"}
+{"name":"rs73927770","clin_sig":"Pathogenic"}
+{"name":"rs329973","clin_sig":"Pathogenic"}
+{"name":"rs6121762","clin_sig":"Likely Pathogenic"}
+{"name":"rs2178407","clin_sig":"Benign"}
+{"name":"rs4999024","clin_sig":"Likely Pathogenic"}
+{"name":"rs147856773","clin_sig":"Benign"}
+{"name":"rs34248211","clin_sig":"Likely Pathogenic"}
+{"name":"rs7863593","clin_sig":"Likely Pathogenic"}
+{"name":"rs1856558","clin_sig":"Pathogenic"}
+{"name":"rs904600","clin_sig":"Likely Pathogenic"}
+{"name":"rs486023","clin_sig":"Likely Pathogenic"}
+{"name":"rs1130598","clin_sig":"Pathogenic"}
+{"name":"rs183535338","clin_sig":"Pathogenic"}
+{"name":"rs11913692","clin_sig":"Likely Pathogenic"}
+{"name":"rs2177291","clin_sig":"Likely Pathogenic"}
+{"name":"rs60707707","clin_sig":"Benign"}
+{"name":"rs6876337","clin_sig":"Benign"}
+{"name":"rs2000132","clin_sig":"Benign"}
+{"name":"rs67318389","clin_sig":"Likely Pathogenic"}
+{"name":"rs10971738","clin_sig":"Benign"}
+{"name":"rs2722863","clin_sig":"Likely Pathogenic"}
+{"name":"rs1134220","clin_sig":"Likely Pathogenic"}
+{"name":"rs1279138","clin_sig":"Benign"}
+{"name":"rs4746147","clin_sig":"Likely Pathogenic"}
+{"name":"rs35488940","clin_sig":"Benign"}
+{"name":"rs57219988","clin_sig":"Pathogenic"}
+{"name":"rs999325","clin_sig":"Likely Pathogenic"}
+{"name":"rs1322574","clin_sig":"Pathogenic"}
+{"name":"rs3803260","clin_sig":"Pathogenic"}
+{"name":"rs1876363","clin_sig":"Pathogenic"}
+{"name":"rs4940496","clin_sig":"Benign"}
+{"name":"rs12488","clin_sig":"Pathogenic"}
+{"name":"rs12622697","clin_sig":"Benign"}
+{"name":"rs708035","clin_sig":"Pathogenic"}
+{"name":"rs3064964","clin_sig":"Pathogenic"}
+{"name":"rs10016180","clin_sig":"Benign"}
+{"name":"rs10064079","clin_sig":"Pathogenic"}
+{"name":"rs2487432","clin_sig":"Likely Pathogenic"}
+{"name":"rs10633215","clin_sig":"Likely Pathogenic"}
+{"name":"rs11787224","clin_sig":"Benign"}
+{"name":"rs111283416","clin_sig":"Likely Pathogenic"}
+{"name":"rs211118","clin_sig":"Pathogenic"}
+{"name":"rs12432539","clin_sig":"Likely Pathogenic"}
+{"name":"rs671347","clin_sig":"Pathogenic"}
+{"name":"rs12969754","clin_sig":"Pathogenic"}
+{"name":"rs117710908","clin_sig":"Likely Pathogenic"}
+{"name":"rs12615550","clin_sig":"Likely Pathogenic"}
+{"name":"rs79542460","clin_sig":"Benign"}
+{"name":"rs13408794","clin_sig":"Benign"}
+{"name":"rs4672563","clin_sig":"Likely Pathogenic"}
+{"name":"rs147237722","clin_sig":"Likely Pathogenic"}
+{"name":"rs9847957","clin_sig":"Pathogenic"}
+{"name":"rs12647691","clin_sig":"Benign"}
+{"name":"rs73738924","clin_sig":"Benign"}
+{"name":"rs375807013","clin_sig":"Likely Pathogenic"}
+{"name":"rs112402602","clin_sig":"Benign"}
+{"name":"rs78531701","clin_sig":"Benign"}
+{"name":"rs12726649","clin_sig":"Benign"}
+{"name":"rs28924721","clin_sig":"Likely Pathogenic"}
+{"name":"rs35971850","clin_sig":"Likely Pathogenic"}
+{"name":"rs61803008","clin_sig":"Pathogenic"}
+{"name":"rs760644","clin_sig":"Benign"}
+{"name":"rs10827922","clin_sig":"Likely Pathogenic"}
+{"name":"rs2141521","clin_sig":"Pathogenic"}
+{"name":"rs11748","clin_sig":"Pathogenic"}
+{"name":"rs1941635","clin_sig":"Likely Pathogenic"}
+{"name":"rs112818460","clin_sig":"Pathogenic"}
+{"name":"rs7722","clin_sig":"Pathogenic"}
+{"name":"rs111247174","clin_sig":"Benign"}
+{"name":"rs71175796","clin_sig":"Likely Pathogenic"}
+{"name":"rs12608740","clin_sig":"Benign"}
+{"name":"rs1438551","clin_sig":"Pathogenic"}
+{"name":"rs2587012","clin_sig":"Benign"}
+{"name":"rs116780363","clin_sig":"Pathogenic"}
+{"name":"rs17471308","clin_sig":"Pathogenic"}
+{"name":"rs10007201","clin_sig":"Likely Pathogenic"}
+{"name":"rs56130549","clin_sig":"Likely Pathogenic"}
+{"name":"rs557911","clin_sig":"Likely Pathogenic"}
+{"name":"rs1043026","clin_sig":"Likely Pathogenic"}
+{"name":"rs72668730","clin_sig":"Likely Pathogenic"}
+{"name":"rs112688651","clin_sig":"Benign"}
+{"name":"rs5779379","clin_sig":"Likely Pathogenic"}
+{"name":"rs140657102","clin_sig":"Benign"}
+{"name":"rs114026808","clin_sig":"Likely Pathogenic"}
+{"name":"rs4767045","clin_sig":"Pathogenic"}
+{"name":"rs6572365","clin_sig":"Benign"}
+{"name":"rs3848639","clin_sig":"Pathogenic"}
+{"name":"rs1108016","clin_sig":"Likely Pathogenic"}
+{"name":"rs6531065","clin_sig":"Likely Pathogenic"}
+{"name":"rs6728326","clin_sig":"Benign"}
+{"name":"rs9978540","clin_sig":"Likely Pathogenic"}
+{"name":"rs5997408","clin_sig":"Likely Pathogenic"}
+{"name":"rs34880034","clin_sig":"Benign"}
+{"name":"rs654498","clin_sig":"Benign"}
+{"name":"rs399496","clin_sig":"Pathogenic"}
+{"name":"rs7938623","clin_sig":"Benign"}
+{"name":"rs7418","clin_sig":"Benign"}
+{"name":"rs1795870","clin_sig":"Benign"}
+{"name":"rs1053985","clin_sig":"Benign"}
+{"name":"rs41314519","clin_sig":"Benign"}
+{"name":"rs1423051","clin_sig":"Benign"}
+{"name":"rs84193","clin_sig":"Benign"}
+{"name":"rs3792594","clin_sig":"Benign"}
+{"name":"rs2738911","clin_sig":"Pathogenic"}
+{"name":"rs62622369","clin_sig":"Benign"}
+{"name":"rs3091276","clin_sig":"Benign"}
+{"name":"rs6425663","clin_sig":"Likely Pathogenic"}
+{"name":"rs10735489","clin_sig":"Pathogenic"}
+{"name":"rs760113","clin_sig":"Likely Pathogenic"}
+{"name":"rs17109771","clin_sig":"Likely Pathogenic"}
+{"name":"rs901553","clin_sig":"Benign"}
+{"name":"rs7145438","clin_sig":"Benign"}
+{"name":"rs655704","clin_sig":"Pathogenic"}
+{"name":"rs901753","clin_sig":"Pathogenic"}
+{"name":"rs280528","clin_sig":"Benign"}
+{"name":"rs7578199","clin_sig":"Likely Pathogenic"}
+{"name":"rs78523","clin_sig":"Pathogenic"}
+{"name":"rs368464390","clin_sig":"Pathogenic"}
+{"name":"rs34870629","clin_sig":"Pathogenic"}
+{"name":"rs73060490","clin_sig":"Benign"}
+{"name":"rs1527223","clin_sig":"Benign"}
+{"name":"rs11136275","clin_sig":"Likely Pathogenic"}
+{"name":"rs5898396","clin_sig":"Pathogenic"}
+{"name":"rs1892124","clin_sig":"Pathogenic"}
+{"name":"rs6693658","clin_sig":"Benign"}
+{"name":"rs10475","clin_sig":"Likely Pathogenic"}
+{"name":"rs1535895","clin_sig":"Likely Pathogenic"}
+{"name":"rs7336209","clin_sig":"Pathogenic"}
+{"name":"rs2793784","clin_sig":"Likely Pathogenic"}
+{"name":"rs34887853","clin_sig":"Likely Pathogenic"}
+{"name":"rs364525","clin_sig":"Benign"}
+{"name":"rs78785243","clin_sig":"Likely Pathogenic"}
+{"name":"rs9834671","clin_sig":"Pathogenic"}
+{"name":"rs9819434","clin_sig":"Pathogenic"}
+{"name":"rs1533594","clin_sig":"Likely Pathogenic"}
+{"name":"rs3796785","clin_sig":"Pathogenic"}
+{"name":"rs2227541","clin_sig":"Likely Pathogenic"}
+{"name":"rs13167221","clin_sig":"Likely Pathogenic"}
+{"name":"rs76573620","clin_sig":"Likely Pathogenic"}
+{"name":"rs4718959","clin_sig":"Likely Pathogenic"}
+{"name":"rs73220501","clin_sig":"Pathogenic"}
+{"name":"rs6994221","clin_sig":"Benign"}
+{"name":"rs16900093","clin_sig":"Benign"}
+{"name":"rs13261568","clin_sig":"Pathogenic"}
+{"name":"rs497934","clin_sig":"Benign"}
+{"name":"rs5861","clin_sig":"Likely Pathogenic"}
+{"name":"rs2065955","clin_sig":"Likely Pathogenic"}
+{"name":"rs2295873","clin_sig":"Likely Pathogenic"}
+{"name":"rs3750913","clin_sig":"Likely Pathogenic"}
+{"name":"rs10750348","clin_sig":"Benign"}
+{"name":"rs2667771","clin_sig":"Pathogenic"}
+{"name":"rs1132814","clin_sig":"Benign"}
+{"name":"rs2467254","clin_sig":"Pathogenic"}
+{"name":"rs61752524","clin_sig":"Benign"}
+{"name":"rs1128034","clin_sig":"Pathogenic"}
+{"name":"rs2355185","clin_sig":"Likely Pathogenic"}
+{"name":"rs80259603","clin_sig":"Benign"}
+{"name":"rs9856997","clin_sig":"Benign"}
+{"name":"rs12659660","clin_sig":"Pathogenic"}
+{"name":"rs4896212","clin_sig":"Likely Pathogenic"}
+{"name":"rs11775312","clin_sig":"Pathogenic"}
+{"name":"rs6474902","clin_sig":"Pathogenic"}
+{"name":"rs7035888","clin_sig":"Benign"}
+{"name":"rs111672053","clin_sig":"Pathogenic"}
+{"name":"rs78354783","clin_sig":"Likely Pathogenic"}
+{"name":"rs235841","clin_sig":"Likely Pathogenic"}
+{"name":"rs969662","clin_sig":"Benign"}
+{"name":"rs10885583","clin_sig":"Pathogenic"}
+{"name":"rs139915004","clin_sig":"Benign"}
+{"name":"rs1137288","clin_sig":"Pathogenic"}
+{"name":"rs148975280","clin_sig":"Pathogenic"}
+{"name":"rs13000209","clin_sig":"Benign"}
+{"name":"rs373220892","clin_sig":"Benign"}
+{"name":"rs11698269","clin_sig":"Likely Pathogenic"}
+{"name":"rs76242133","clin_sig":"Pathogenic"}
+{"name":"rs711932","clin_sig":"Benign"}
+{"name":"rs4443271","clin_sig":"Pathogenic"}
+{"name":"rs161537","clin_sig":"Benign"}
+{"name":"rs60684332","clin_sig":"Likely Pathogenic"}
+{"name":"rs12207494","clin_sig":"Likely Pathogenic"}
+{"name":"rs1623806","clin_sig":"Likely Pathogenic"}
+{"name":"rs2081333","clin_sig":"Benign"}
+{"name":"rs2295861","clin_sig":"Likely Pathogenic"}
+{"name":"rs2096044","clin_sig":"Pathogenic"}
+{"name":"rs591929","clin_sig":"Likely Pathogenic"}
+{"name":"rs7906164","clin_sig":"Pathogenic"}
+{"name":"rs10769268","clin_sig":"Likely Pathogenic"}
+{"name":"rs2651961","clin_sig":"Benign"}
+{"name":"rs6493114","clin_sig":"Benign"}
+{"name":"rs1130738","clin_sig":"Pathogenic"}
+{"name":"rs200305328","clin_sig":"Pathogenic"}
+{"name":"rs113137339","clin_sig":"Pathogenic"}
+{"name":"rs1138860","clin_sig":"Pathogenic"}
+{"name":"rs4843440","clin_sig":"Pathogenic"}
+{"name":"rs376052817","clin_sig":"Likely Pathogenic"}
+{"name":"rs6505395","clin_sig":"Likely Pathogenic"}
+{"name":"rs189498994","clin_sig":"Benign"}
+{"name":"rs11670695","clin_sig":"Benign"}
+{"name":"rs1757752","clin_sig":"Pathogenic"}
+{"name":"rs5845383","clin_sig":"Benign"}
+{"name":"rs1438541","clin_sig":"Likely Pathogenic"}
+{"name":"rs2969172","clin_sig":"Pathogenic"}
+{"name":"rs78951820","clin_sig":"Likely Pathogenic"}
+{"name":"rs11203910","clin_sig":"Pathogenic"}
+{"name":"rs7032286","clin_sig":"Likely Pathogenic"}
+{"name":"rs2309428","clin_sig":"Benign"}
+{"name":"rs2746353","clin_sig":"Pathogenic"}
+{"name":"rs12408544","clin_sig":"Benign"}
+{"name":"rs10736045","clin_sig":"Likely Pathogenic"}
+{"name":"rs10801257","clin_sig":"Pathogenic"}
+{"name":"rs4917985","clin_sig":"Benign"}
+{"name":"rs767312","clin_sig":"Pathogenic"}
+{"name":"rs2415417","clin_sig":"Likely Pathogenic"}
+{"name":"rs2526882","clin_sig":"Likely Pathogenic"}
+{"name":"rs145603791","clin_sig":"Benign"}
+{"name":"rs2554028","clin_sig":"Benign"}
+{"name":"rs3112920","clin_sig":"Likely Pathogenic"}
+{"name":"rs13030992","clin_sig":"Pathogenic"}
+{"name":"rs73909537","clin_sig":"Benign"}
+{"name":"rs2336156","clin_sig":"Likely Pathogenic"}
+{"name":"rs8179992","clin_sig":"Pathogenic"}
+{"name":"rs2928295","clin_sig":"Pathogenic"}
+{"name":"rs12205172","clin_sig":"Likely Pathogenic"}
+{"name":"rs192141490","clin_sig":"Pathogenic"}
+{"name":"rs1043060","clin_sig":"Pathogenic"}
+{"name":"rs2235536","clin_sig":"Benign"}
+{"name":"rs9425780","clin_sig":"Likely Pathogenic"}
+{"name":"rs12059978","clin_sig":"Likely Pathogenic"}
+{"name":"rs202199098","clin_sig":"Benign"}
+{"name":"rs7104019","clin_sig":"Pathogenic"}
+{"name":"rs72249699","clin_sig":"Pathogenic"}
+{"name":"rs8017980","clin_sig":"Likely Pathogenic"}
+{"name":"rs4888606","clin_sig":"Benign"}
+{"name":"rs2954734","clin_sig":"Likely Pathogenic"}
+{"name":"rs28719058","clin_sig":"Benign"}
+{"name":"rs379123","clin_sig":"Likely Pathogenic"}
+{"name":"rs149838074","clin_sig":"Pathogenic"}
+{"name":"rs71710818","clin_sig":"Pathogenic"}
+{"name":"rs184692445","clin_sig":"Pathogenic"}
+{"name":"rs6950894","clin_sig":"Pathogenic"}
+{"name":"rs2488994","clin_sig":"Benign"}
+{"name":"rs1989693","clin_sig":"Pathogenic"}
+{"name":"rs17098453","clin_sig":"Likely Pathogenic"}
+{"name":"rs4949086","clin_sig":"Pathogenic"}
+{"name":"rs11681185","clin_sig":"Likely Pathogenic"}
+{"name":"rs10184179","clin_sig":"Benign"}
+{"name":"rs41309355","clin_sig":"Likely Pathogenic"}
+{"name":"rs5764598","clin_sig":"Likely Pathogenic"}
+{"name":"rs279848","clin_sig":"Likely Pathogenic"}
+{"name":"rs61106831","clin_sig":"Pathogenic"}
+{"name":"rs2091804","clin_sig":"Benign"}
+{"name":"rs6979487","clin_sig":"Pathogenic"}
+{"name":"rs1981529","clin_sig":"Likely Pathogenic"}
+{"name":"rs6969691","clin_sig":"Likely Pathogenic"}
+{"name":"rs28690366","clin_sig":"Pathogenic"}
+{"name":"rs9326360","clin_sig":"Likely Pathogenic"}
+{"name":"rs9523375","clin_sig":"Likely Pathogenic"}
+{"name":"rs11158635","clin_sig":"Benign"}
+{"name":"rs5871","clin_sig":"Pathogenic"}
+{"name":"rs61360381","clin_sig":"Likely Pathogenic"}
+{"name":"rs11079552","clin_sig":"Pathogenic"}
+{"name":"rs1035247","clin_sig":"Benign"}
+{"name":"rs2250305","clin_sig":"Benign"}
+{"name":"rs16876339","clin_sig":"Pathogenic"}
+{"name":"rs10250956","clin_sig":"Benign"}
+{"name":"rs7553158","clin_sig":"Pathogenic"}
+{"name":"rs1611764","clin_sig":"Pathogenic"}
+{"name":"rs199835110","clin_sig":"Likely Pathogenic"}
+{"name":"rs34308781","clin_sig":"Likely Pathogenic"}
+{"name":"rs4567355","clin_sig":"Likely Pathogenic"}
+{"name":"rs10508944","clin_sig":"Pathogenic"}
+{"name":"rs142689299","clin_sig":"Benign"}
+{"name":"rs2228418","clin_sig":"Benign"}
+{"name":"rs4385989","clin_sig":"Pathogenic"}
+{"name":"rs7986934","clin_sig":"Benign"}
+{"name":"rs4548781","clin_sig":"Benign"}
+{"name":"rs2305649","clin_sig":"Benign"}
+{"name":"rs8031676","clin_sig":"Likely Pathogenic"}
+{"name":"rs1127182","clin_sig":"Benign"}
+{"name":"rs3924669","clin_sig":"Pathogenic"}
+{"name":"rs17285189","clin_sig":"Likely Pathogenic"}
+{"name":"rs937511","clin_sig":"Likely Pathogenic"}
+{"name":"rs4863519","clin_sig":"Likely Pathogenic"}
+{"name":"rs2292899","clin_sig":"Likely Pathogenic"}
+{"name":"rs13160766","clin_sig":"Pathogenic"}
+{"name":"rs4265047","clin_sig":"Pathogenic"}
+{"name":"rs10279499","clin_sig":"Pathogenic"}
+{"name":"rs3832569","clin_sig":"Pathogenic"}
+{"name":"rs7858488","clin_sig":"Benign"}
+{"name":"rs1856864","clin_sig":"Pathogenic"}
+{"name":"rs11119480","clin_sig":"Pathogenic"}
+{"name":"rs2733170","clin_sig":"Pathogenic"}
+{"name":"rs111437424","clin_sig":"Likely Pathogenic"}
+{"name":"rs806942","clin_sig":"Likely Pathogenic"}
+{"name":"rs2584622","clin_sig":"Benign"}
+{"name":"rs374007830","clin_sig":"Pathogenic"}
+{"name":"rs6719650","clin_sig":"Likely Pathogenic"}
+{"name":"rs2118886","clin_sig":"Likely Pathogenic"}
+{"name":"rs717614","clin_sig":"Pathogenic"}
+{"name":"rs59941204","clin_sig":"Pathogenic"}
+{"name":"rs72766854","clin_sig":"Pathogenic"}
+{"name":"rs326469","clin_sig":"Pathogenic"}
+{"name":"rs467274","clin_sig":"Benign"}
+{"name":"rs7782070","clin_sig":"Pathogenic"}
+{"name":"rs12335276","clin_sig":"Pathogenic"}
+{"name":"rs1552088","clin_sig":"Pathogenic"}
+{"name":"rs3002420","clin_sig":"Benign"}
+{"name":"rs1134578","clin_sig":"Likely Pathogenic"}
+{"name":"rs36029484","clin_sig":"Benign"}
+{"name":"rs9890028","clin_sig":"Benign"}
+{"name":"rs56790477","clin_sig":"Pathogenic"}
+{"name":"rs11663433","clin_sig":"Likely Pathogenic"}
+{"name":"rs1059519","clin_sig":"Benign"}
+{"name":"rs11665964","clin_sig":"Benign"}
+{"name":"rs2425098","clin_sig":"Likely Pathogenic"}
+{"name":"rs113597018","clin_sig":"Pathogenic"}
+{"name":"rs6833531","clin_sig":"Likely Pathogenic"}
+{"name":"rs3958541","clin_sig":"Likely Pathogenic"}
+{"name":"rs4869208","clin_sig":"Likely Pathogenic"}
+{"name":"rs148694888","clin_sig":"Likely Pathogenic"}
+{"name":"rs114253196","clin_sig":"Likely Pathogenic"}
+{"name":"rs2571592","clin_sig":"Likely Pathogenic"}
+{"name":"rs1234372","clin_sig":"Benign"}
+{"name":"rs34245912","clin_sig":"Pathogenic"}
+{"name":"rs12161731","clin_sig":"Pathogenic"}
+{"name":"rs117610545","clin_sig":"Likely Pathogenic"}
+{"name":"rs12956672","clin_sig":"Benign"}
+{"name":"rs7247513","clin_sig":"Benign"}
+{"name":"rs4806605","clin_sig":"Likely Pathogenic"}
+{"name":"rs6439331","clin_sig":"Pathogenic"}
+{"name":"rs2964434","clin_sig":"Benign"}
+{"name":"rs55644929","clin_sig":"Likely Pathogenic"}
+{"name":"rs13395","clin_sig":"Pathogenic"}
+{"name":"rs2635109","clin_sig":"Likely Pathogenic"}
+{"name":"rs61496259","clin_sig":"Pathogenic"}
+{"name":"rs1780457","clin_sig":"Pathogenic"}
+{"name":"rs3204027","clin_sig":"Likely Pathogenic"}
+{"name":"rs1769158","clin_sig":"Likely Pathogenic"}
+{"name":"rs71771679","clin_sig":"Pathogenic"}
+{"name":"rs2903826","clin_sig":"Pathogenic"}
+{"name":"rs3785404","clin_sig":"Benign"}
+{"name":"rs12940709","clin_sig":"Benign"}
+{"name":"rs78941910","clin_sig":"Pathogenic"}
+{"name":"rs11692265","clin_sig":"Benign"}
+{"name":"rs1365776","clin_sig":"Pathogenic"}
+{"name":"rs143611062","clin_sig":"Pathogenic"}
+{"name":"rs6536106","clin_sig":"Benign"}
+{"name":"rs2400478","clin_sig":"Likely Pathogenic"}
+{"name":"rs7133906","clin_sig":"Benign"}
+{"name":"rs1477119","clin_sig":"Benign"}
+{"name":"rs11450908","clin_sig":"Pathogenic"}
+{"name":"rs3076526","clin_sig":"Benign"}
+{"name":"rs113478879","clin_sig":"Likely Pathogenic"}
+{"name":"rs2974138","clin_sig":"Likely Pathogenic"}
+{"name":"rs16841596","clin_sig":"Likely Pathogenic"}
+{"name":"rs6707021","clin_sig":"Likely Pathogenic"}
+{"name":"rs4821877","clin_sig":"Likely Pathogenic"}
+{"name":"rs2688442","clin_sig":"Likely Pathogenic"}
+{"name":"rs7683427","clin_sig":"Benign"}
+{"name":"rs487098","clin_sig":"Pathogenic"}
+{"name":"rs174181","clin_sig":"Benign"}
+{"name":"rs78313893","clin_sig":"Likely Pathogenic"}
+{"name":"rs7930873","clin_sig":"Benign"}
+{"name":"rs144001721","clin_sig":"Benign"}
+{"name":"rs1359184","clin_sig":"Likely Pathogenic"}
+{"name":"rs613090","clin_sig":"Likely Pathogenic"}
+{"name":"rs5813450","clin_sig":"Benign"}
+{"name":"rs7162293","clin_sig":"Likely Pathogenic"}
+{"name":"rs9636494","clin_sig":"Benign"}
+{"name":"rs2272165","clin_sig":"Likely Pathogenic"}
+{"name":"rs168786","clin_sig":"Benign"}
+{"name":"rs72866775","clin_sig":"Benign"}
+{"name":"rs2050159","clin_sig":"Likely Pathogenic"}
+{"name":"rs12202829","clin_sig":"Benign"}
+{"name":"rs3127191","clin_sig":"Pathogenic"}
+{"name":"rs3012507","clin_sig":"Likely Pathogenic"}
+{"name":"rs988762","clin_sig":"Likely Pathogenic"}
+{"name":"rs11204767","clin_sig":"Benign"}
+{"name":"rs3802666","clin_sig":"Benign"}
+{"name":"rs2420646","clin_sig":"Benign"}
+{"name":"rs11220742","clin_sig":"Pathogenic"}
+{"name":"rs34668485","clin_sig":"Benign"}
+{"name":"rs3803081","clin_sig":"Benign"}
+{"name":"rs7963908","clin_sig":"Benign"}
+{"name":"rs9544050","clin_sig":"Benign"}
+{"name":"rs8016686","clin_sig":"Likely Pathogenic"}
+{"name":"rs375189146","clin_sig":"Pathogenic"}
+{"name":"rs1801645","clin_sig":"Pathogenic"}
+{"name":"rs10022112","clin_sig":"Benign"}
+{"name":"rs17377463","clin_sig":"Benign"}
+{"name":"rs2905183","clin_sig":"Benign"}
+{"name":"rs9063","clin_sig":"Likely Pathogenic"}
+{"name":"rs660554","clin_sig":"Pathogenic"}
+{"name":"rs7944824","clin_sig":"Benign"}
+{"name":"rs1061036","clin_sig":"Likely Pathogenic"}
+{"name":"rs75959434","clin_sig":"Pathogenic"}
+{"name":"rs4770684","clin_sig":"Likely Pathogenic"}
+{"name":"rs2037912","clin_sig":"Pathogenic"}
+{"name":"rs9922483","clin_sig":"Pathogenic"}
+{"name":"rs197268","clin_sig":"Likely Pathogenic"}
+{"name":"rs7596655","clin_sig":"Benign"}
+{"name":"rs2251252","clin_sig":"Likely Pathogenic"}
+{"name":"rs13090740","clin_sig":"Likely Pathogenic"}
+{"name":"rs6774780","clin_sig":"Pathogenic"}
+{"name":"rs142644993","clin_sig":"Benign"}
+{"name":"rs35254872","clin_sig":"Pathogenic"}
+{"name":"rs16181","clin_sig":"Pathogenic"}
+{"name":"rs217363","clin_sig":"Benign"}
+{"name":"rs2720538","clin_sig":"Likely Pathogenic"}
+{"name":"rs62549600","clin_sig":"Benign"}
+{"name":"rs62537377","clin_sig":"Likely Pathogenic"}
+{"name":"rs75761483","clin_sig":"Benign"}
+{"name":"rs75841759","clin_sig":"Likely Pathogenic"}
+{"name":"rs7202118","clin_sig":"Benign"}
+{"name":"rs2202555","clin_sig":"Benign"}
+{"name":"rs1050347","clin_sig":"Likely Pathogenic"}
+{"name":"rs377066097","clin_sig":"Benign"}
+{"name":"rs1449693","clin_sig":"Pathogenic"}
+{"name":"rs71628591","clin_sig":"Pathogenic"}
+{"name":"rs7623667","clin_sig":"Benign"}
+{"name":"rs9838768","clin_sig":"Likely Pathogenic"}
+{"name":"rs375753369","clin_sig":"Benign"}
+{"name":"rs4715631","clin_sig":"Benign"}
+{"name":"rs11784417","clin_sig":"Benign"}
+{"name":"rs35654618","clin_sig":"Benign"}
+{"name":"rs708771","clin_sig":"Pathogenic"}
+{"name":"rs17513642","clin_sig":"Benign"}
+{"name":"rs150365546","clin_sig":"Likely Pathogenic"}
+{"name":"rs11071281","clin_sig":"Likely Pathogenic"}
+{"name":"rs1045001","clin_sig":"Benign"}
+{"name":"rs67006130","clin_sig":"Benign"}
+{"name":"rs6434468","clin_sig":"Pathogenic"}
+{"name":"rs9873232","clin_sig":"Benign"}
+{"name":"rs148511685","clin_sig":"Benign"}
+{"name":"rs28515485","clin_sig":"Pathogenic"}
+{"name":"rs2321210","clin_sig":"Pathogenic"}
+{"name":"rs157497","clin_sig":"Benign"}
+{"name":"rs9482370","clin_sig":"Pathogenic"}
+{"name":"rs197475","clin_sig":"Pathogenic"}
+{"name":"rs4656078","clin_sig":"Likely Pathogenic"}
+{"name":"rs11237198","clin_sig":"Pathogenic"}
+{"name":"rs7108112","clin_sig":"Pathogenic"}
+{"name":"rs7183684","clin_sig":"Pathogenic"}
+{"name":"rs3803424","clin_sig":"Likely Pathogenic"}
+{"name":"rs71136073","clin_sig":"Benign"}
+{"name":"rs10432191","clin_sig":"Likely Pathogenic"}
+{"name":"rs10179839","clin_sig":"Benign"}
+{"name":"rs2143607","clin_sig":"Benign"}
+{"name":"rs2669988","clin_sig":"Benign"}
+{"name":"rs318762","clin_sig":"Likely Pathogenic"}
+{"name":"rs61730237","clin_sig":"Likely Pathogenic"}
+{"name":"rs2259102","clin_sig":"Likely Pathogenic"}
+{"name":"rs4612","clin_sig":"Likely Pathogenic"}
+{"name":"rs13157947","clin_sig":"Likely Pathogenic"}
+{"name":"rs812406","clin_sig":"Benign"}
+{"name":"rs1468802","clin_sig":"Benign"}
+{"name":"rs2075756","clin_sig":"Benign"}
+{"name":"rs7810078","clin_sig":"Pathogenic"}
+{"name":"rs10955871","clin_sig":"Likely Pathogenic"}
+{"name":"rs200029731","clin_sig":"Pathogenic"}
+{"name":"rs1983859","clin_sig":"Likely Pathogenic"}
+{"name":"rs8004680","clin_sig":"Pathogenic"}
+{"name":"rs2273483","clin_sig":"Pathogenic"}
+{"name":"rs3751614","clin_sig":"Benign"}
+{"name":"rs11341856","clin_sig":"Pathogenic"}
+{"name":"rs5819572","clin_sig":"Pathogenic"}
+{"name":"rs9905552","clin_sig":"Pathogenic"}
+{"name":"rs1671163","clin_sig":"Benign"}
+{"name":"rs4516375","clin_sig":"Pathogenic"}
+{"name":"rs3034933","clin_sig":"Benign"}
+{"name":"rs4858846","clin_sig":"Likely Pathogenic"}
+{"name":"rs274715","clin_sig":"Likely Pathogenic"}
+{"name":"rs6863066","clin_sig":"Likely Pathogenic"}
+{"name":"rs248246","clin_sig":"Benign"}
+{"name":"rs2529587","clin_sig":"Likely Pathogenic"}
+{"name":"rs6950659","clin_sig":"Benign"}
+{"name":"rs12698192","clin_sig":"Pathogenic"}
+{"name":"rs13282982","clin_sig":"Pathogenic"}
+{"name":"rs499761","clin_sig":"Benign"}
+{"name":"rs8020595","clin_sig":"Pathogenic"}
+{"name":"rs373747856","clin_sig":"Pathogenic"}
+{"name":"rs201988008","clin_sig":"Benign"}
+{"name":"rs4251999","clin_sig":"Benign"}
+{"name":"rs6759356","clin_sig":"Benign"}
+{"name":"rs10477932","clin_sig":"Pathogenic"}
+{"name":"rs1050428","clin_sig":"Likely Pathogenic"}
+{"name":"rs1042544","clin_sig":"Benign"}
+{"name":"rs4712135","clin_sig":"Likely Pathogenic"}
+{"name":"rs59484622","clin_sig":"Pathogenic"}
+{"name":"rs71799160","clin_sig":"Benign"}
+{"name":"rs7411884","clin_sig":"Benign"}
+{"name":"rs35860440","clin_sig":"Likely Pathogenic"}
+{"name":"rs58965153","clin_sig":"Benign"}
+{"name":"rs191630415","clin_sig":"Likely Pathogenic"}
+{"name":"rs145522531","clin_sig":"Likely Pathogenic"}
+{"name":"rs8073540","clin_sig":"Likely Pathogenic"}
+{"name":"rs12460681","clin_sig":"Benign"}
+{"name":"rs4696204","clin_sig":"Likely Pathogenic"}
+{"name":"rs34974995","clin_sig":"Benign"}
+{"name":"rs4732640","clin_sig":"Pathogenic"}
+{"name":"rs2369554","clin_sig":"Benign"}
+{"name":"rs6427334","clin_sig":"Pathogenic"}
+{"name":"rs267607625","clin_sig":"Benign"}
+{"name":"rs10920174","clin_sig":"Pathogenic"}
+{"name":"rs2151933","clin_sig":"Likely Pathogenic"}
+{"name":"rs536464","clin_sig":"Benign"}
+{"name":"rs10750346","clin_sig":"Likely Pathogenic"}
+{"name":"rs9543942","clin_sig":"Benign"}
+{"name":"rs5806589","clin_sig":"Benign"}
+{"name":"rs2072692","clin_sig":"Pathogenic"}
+{"name":"rs1054528","clin_sig":"Likely Pathogenic"}
+{"name":"rs12944542","clin_sig":"Benign"}
+{"name":"rs16854484","clin_sig":"Pathogenic"}
+{"name":"rs1884197","clin_sig":"Pathogenic"}
+{"name":"rs11547734","clin_sig":"Benign"}
+{"name":"rs13130598","clin_sig":"Pathogenic"}
+{"name":"rs55913552","clin_sig":"Likely Pathogenic"}
+{"name":"rs200669782","clin_sig":"Likely Pathogenic"}
+{"name":"rs6902940","clin_sig":"Benign"}
+{"name":"rs1154323","clin_sig":"Likely Pathogenic"}
+{"name":"rs999418","clin_sig":"Likely Pathogenic"}
+{"name":"rs7923487","clin_sig":"Pathogenic"}
+{"name":"rs3810967","clin_sig":"Likely Pathogenic"}
+{"name":"rs150910327","clin_sig":"Pathogenic"}
+{"name":"rs4769442","clin_sig":"Pathogenic"}
+{"name":"rs4942179","clin_sig":"Benign"}
+{"name":"rs35914943","clin_sig":"Pathogenic"}
+{"name":"rs2081262","clin_sig":"Pathogenic"}
+{"name":"rs369919175","clin_sig":"Pathogenic"}
+{"name":"rs1814553","clin_sig":"Benign"}
+{"name":"rs9862967","clin_sig":"Benign"}
+{"name":"rs4624610","clin_sig":"Pathogenic"}
+{"name":"rs4897006","clin_sig":"Benign"}
+{"name":"rs377191801","clin_sig":"Pathogenic"}
+{"name":"rs11414250","clin_sig":"Benign"}
+{"name":"rs41294458","clin_sig":"Likely Pathogenic"}
+{"name":"rs11342493","clin_sig":"Pathogenic"}
+{"name":"rs2492536","clin_sig":"Likely Pathogenic"}
+{"name":"rs3100141","clin_sig":"Benign"}
+{"name":"rs7204192","clin_sig":"Pathogenic"}
+{"name":"rs1044871","clin_sig":"Benign"}
+{"name":"rs200951659","clin_sig":"Likely Pathogenic"}
+{"name":"rs2836971","clin_sig":"Pathogenic"}
+{"name":"rs7645775","clin_sig":"Benign"}
+{"name":"rs2030817","clin_sig":"Benign"}
+{"name":"rs13106456","clin_sig":"Pathogenic"}
+{"name":"rs7846174","clin_sig":"Pathogenic"}
+{"name":"rs13959","clin_sig":"Benign"}
+{"name":"rs4836623","clin_sig":"Pathogenic"}
+{"name":"rs4762058","clin_sig":"Pathogenic"}
+{"name":"rs2749489","clin_sig":"Benign"}
+{"name":"rs62070417","clin_sig":"Benign"}
+{"name":"rs144930351","clin_sig":"Likely Pathogenic"}
+{"name":"rs726136","clin_sig":"Benign"}
+{"name":"rs2126634","clin_sig":"Benign"}
+{"name":"rs9994667","clin_sig":"Likely Pathogenic"}
+{"name":"rs11386118","clin_sig":"Pathogenic"}
+{"name":"rs997696","clin_sig":"Pathogenic"}
+{"name":"rs2487981","clin_sig":"Pathogenic"}
+{"name":"rs35119233","clin_sig":"Benign"}
+{"name":"rs295267","clin_sig":"Benign"}
+{"name":"rs901107","clin_sig":"Pathogenic"}
+{"name":"rs3958152","clin_sig":"Likely Pathogenic"}
+{"name":"rs1005955","clin_sig":"Benign"}
+{"name":"rs7296753","clin_sig":"Likely Pathogenic"}
+{"name":"rs4771305","clin_sig":"Pathogenic"}
+{"name":"rs9916044","clin_sig":"Benign"}
+{"name":"rs10853010","clin_sig":"Likely Pathogenic"}
+{"name":"rs1020637","clin_sig":"Pathogenic"}
+{"name":"rs202066458","clin_sig":"Likely Pathogenic"}
+{"name":"rs73016326","clin_sig":"Benign"}
+{"name":"rs433461","clin_sig":"Likely Pathogenic"}
+{"name":"rs1046496","clin_sig":"Benign"}
+{"name":"rs1138258","clin_sig":"Benign"}
+{"name":"rs76538931","clin_sig":"Pathogenic"}
+{"name":"rs1978447","clin_sig":"Likely Pathogenic"}
+{"name":"rs2523968","clin_sig":"Likely Pathogenic"}
+{"name":"rs1042308","clin_sig":"Likely Pathogenic"}
+{"name":"rs699186","clin_sig":"Pathogenic"}
+{"name":"rs9724781","clin_sig":"Pathogenic"}
+{"name":"rs6495640","clin_sig":"Benign"}
+{"name":"rs2413780","clin_sig":"Likely Pathogenic"}
+{"name":"rs11439512","clin_sig":"Likely Pathogenic"}
+{"name":"rs17283717","clin_sig":"Likely Pathogenic"}
+{"name":"rs2108089","clin_sig":"Benign"}
+{"name":"rs6983431","clin_sig":"Benign"}
+{"name":"rs370593266","clin_sig":"Likely Pathogenic"}
+{"name":"rs1832730","clin_sig":"Likely Pathogenic"}
+{"name":"rs4751","clin_sig":"Likely Pathogenic"}
+{"name":"rs55647251","clin_sig":"Pathogenic"}
+{"name":"rs35557366","clin_sig":"Likely Pathogenic"}
+{"name":"rs1793155","clin_sig":"Pathogenic"}
+{"name":"rs2855749","clin_sig":"Likely Pathogenic"}
+{"name":"rs4924454","clin_sig":"Likely Pathogenic"}
+{"name":"rs35899089","clin_sig":"Likely Pathogenic"}
+{"name":"rs4843439","clin_sig":"Likely Pathogenic"}
+{"name":"rs8056157","clin_sig":"Pathogenic"}
+{"name":"rs9891361","clin_sig":"Likely Pathogenic"}
+{"name":"rs112911872","clin_sig":"Benign"}
+{"name":"rs7239712","clin_sig":"Likely Pathogenic"}
+{"name":"rs62128777","clin_sig":"Likely Pathogenic"}
+{"name":"rs8111367","clin_sig":"Likely Pathogenic"}
+{"name":"rs6511512","clin_sig":"Benign"}
+{"name":"rs13055321","clin_sig":"Pathogenic"}
+{"name":"rs60071543","clin_sig":"Likely Pathogenic"}
+{"name":"rs142264518","clin_sig":"Likely Pathogenic"}
+{"name":"rs3173429","clin_sig":"Pathogenic"}
+{"name":"rs4872969","clin_sig":"Pathogenic"}
+{"name":"rs77678109","clin_sig":"Pathogenic"}
+{"name":"rs2853819","clin_sig":"Pathogenic"}
+{"name":"rs1059704","clin_sig":"Likely Pathogenic"}
+{"name":"rs147496210","clin_sig":"Likely Pathogenic"}
+{"name":"rs11684204","clin_sig":"Benign"}
+{"name":"rs6825031","clin_sig":"Benign"}
+{"name":"rs1693482","clin_sig":"Likely Pathogenic"}
+{"name":"rs71247728","clin_sig":"Benign"}
+{"name":"rs12332693","clin_sig":"Likely Pathogenic"}
+{"name":"rs8465","clin_sig":"Likely Pathogenic"}
+{"name":"rs1050338","clin_sig":"Likely Pathogenic"}
+{"name":"rs58806753","clin_sig":"Likely Pathogenic"}
+{"name":"rs11582087","clin_sig":"Pathogenic"}
+{"name":"rs12126038","clin_sig":"Benign"}
+{"name":"rs788231","clin_sig":"Pathogenic"}
+{"name":"rs1061123","clin_sig":"Likely Pathogenic"}
+{"name":"rs147932251","clin_sig":"Pathogenic"}
+{"name":"rs11548262","clin_sig":"Likely Pathogenic"}
+{"name":"rs114544818","clin_sig":"Benign"}
+{"name":"rs4346412","clin_sig":"Benign"}
+{"name":"rs12712216","clin_sig":"Pathogenic"}
+{"name":"rs1043045","clin_sig":"Likely Pathogenic"}
+{"name":"rs6548425","clin_sig":"Benign"}
+{"name":"rs3832221","clin_sig":"Likely Pathogenic"}
+{"name":"rs2340011","clin_sig":"Pathogenic"}
+{"name":"rs10811126","clin_sig":"Pathogenic"}
+{"name":"rs79978841","clin_sig":"Benign"}
+{"name":"rs12801123","clin_sig":"Likely Pathogenic"}
+{"name":"rs2455568","clin_sig":"Pathogenic"}
+{"name":"rs3782572","clin_sig":"Pathogenic"}
+{"name":"rs200552458","clin_sig":"Likely Pathogenic"}
+{"name":"rs11659166","clin_sig":"Pathogenic"}
+{"name":"rs10995","clin_sig":"Benign"}
+{"name":"rs2581811","clin_sig":"Pathogenic"}
+{"name":"rs61794591","clin_sig":"Benign"}
+{"name":"rs78604102","clin_sig":"Likely Pathogenic"}
+{"name":"rs71531392","clin_sig":"Likely Pathogenic"}
+{"name":"rs10236447","clin_sig":"Pathogenic"}
+{"name":"rs1549466","clin_sig":"Likely Pathogenic"}
+{"name":"rs7874608","clin_sig":"Likely Pathogenic"}
+{"name":"rs1183768","clin_sig":"Benign"}
+{"name":"rs138917652","clin_sig":"Likely Pathogenic"}
+{"name":"rs78611822","clin_sig":"Pathogenic"}
+{"name":"rs10664856","clin_sig":"Benign"}
+{"name":"rs11325667","clin_sig":"Likely Pathogenic"}
+{"name":"rs419458","clin_sig":"Likely Pathogenic"}
+{"name":"rs55727287","clin_sig":"Likely Pathogenic"}
+{"name":"rs8038015","clin_sig":"Pathogenic"}
+{"name":"rs8077921","clin_sig":"Pathogenic"}
+{"name":"rs3088233","clin_sig":"Benign"}
+{"name":"rs138931998","clin_sig":"Likely Pathogenic"}
+{"name":"rs9174","clin_sig":"Benign"}
+{"name":"rs13137142","clin_sig":"Benign"}
+{"name":"rs390604","clin_sig":"Likely Pathogenic"}
+{"name":"rs384059","clin_sig":"Benign"}
+{"name":"rs5860581","clin_sig":"Benign"}
+{"name":"rs869367","clin_sig":"Likely Pathogenic"}
+{"name":"rs1261893","clin_sig":"Benign"}
+{"name":"rs113243510","clin_sig":"Likely Pathogenic"}
+{"name":"rs55864395","clin_sig":"Benign"}
+{"name":"rs1381532","clin_sig":"Likely Pathogenic"}
+{"name":"rs111503561","clin_sig":"Benign"}
+{"name":"rs4541049","clin_sig":"Likely Pathogenic"}
+{"name":"rs9806472","clin_sig":"Benign"}
+{"name":"rs12900133","clin_sig":"Likely Pathogenic"}
+{"name":"rs2285591","clin_sig":"Likely Pathogenic"}
+{"name":"rs2073900","clin_sig":"Likely Pathogenic"}
+{"name":"rs34172772","clin_sig":"Pathogenic"}
+{"name":"rs3731673","clin_sig":"Pathogenic"}
+{"name":"rs7601180","clin_sig":"Pathogenic"}
+{"name":"rs228104","clin_sig":"Pathogenic"}
+{"name":"rs279552","clin_sig":"Pathogenic"}
+{"name":"rs1449692","clin_sig":"Pathogenic"}
+{"name":"rs142225485","clin_sig":"Pathogenic"}
+{"name":"rs377454340","clin_sig":"Likely Pathogenic"}
+{"name":"rs151328501","clin_sig":"Pathogenic"}
+{"name":"rs12345524","clin_sig":"Benign"}
+{"name":"rs11459130","clin_sig":"Likely Pathogenic"}
+{"name":"rs4098613","clin_sig":"Likely Pathogenic"}
+{"name":"rs11543979","clin_sig":"Pathogenic"}
+{"name":"rs1664262","clin_sig":"Benign"}
+{"name":"rs11213985","clin_sig":"Pathogenic"}
+{"name":"rs3977153","clin_sig":"Benign"}
+{"name":"rs9920217","clin_sig":"Likely Pathogenic"}
+{"name":"rs35383135","clin_sig":"Benign"}
+{"name":"rs62143886","clin_sig":"Pathogenic"}
+{"name":"rs150632377","clin_sig":"Likely Pathogenic"}
+{"name":"rs467733","clin_sig":"Pathogenic"}
+{"name":"rs4928001","clin_sig":"Benign"}
+{"name":"rs4691949","clin_sig":"Benign"}
+{"name":"rs2185536","clin_sig":"Likely Pathogenic"}
+{"name":"rs2281173","clin_sig":"Benign"}
+{"name":"rs140137989","clin_sig":"Likely Pathogenic"}
+{"name":"rs3551","clin_sig":"Benign"}
+{"name":"rs12407426","clin_sig":"Likely Pathogenic"}
+{"name":"rs7898906","clin_sig":"Pathogenic"}
+{"name":"rs2468235","clin_sig":"Benign"}
+{"name":"rs1131476","clin_sig":"Likely Pathogenic"}
+{"name":"rs55806249","clin_sig":"Likely Pathogenic"}
+{"name":"rs9944722","clin_sig":"Pathogenic"}
+{"name":"rs4258916","clin_sig":"Benign"}
+{"name":"rs9799025","clin_sig":"Pathogenic"}
+{"name":"rs34425050","clin_sig":"Likely Pathogenic"}
+{"name":"rs375006180","clin_sig":"Pathogenic"}
+{"name":"rs200536689","clin_sig":"Benign"}
+{"name":"rs4837094","clin_sig":"Likely Pathogenic"}
+{"name":"rs855874","clin_sig":"Benign"}
+{"name":"rs701801","clin_sig":"Pathogenic"}
+{"name":"rs11190245","clin_sig":"Benign"}
+{"name":"rs4754423","clin_sig":"Likely Pathogenic"}
+{"name":"rs9940147","clin_sig":"Pathogenic"}
+{"name":"rs11658631","clin_sig":"Benign"}
+{"name":"rs2270576","clin_sig":"Benign"}
+{"name":"rs4799083","clin_sig":"Pathogenic"}
+{"name":"rs11880807","clin_sig":"Benign"}
+{"name":"rs4998208","clin_sig":"Likely Pathogenic"}
+{"name":"rs1739539","clin_sig":"Likely Pathogenic"}
+{"name":"rs526297","clin_sig":"Likely Pathogenic"}
+{"name":"rs79258972","clin_sig":"Likely Pathogenic"}
+{"name":"rs9327533","clin_sig":"Likely Pathogenic"}
+{"name":"rs1049414","clin_sig":"Likely Pathogenic"}
+{"name":"rs10814581","clin_sig":"Likely Pathogenic"}
+{"name":"rs4951381","clin_sig":"Likely Pathogenic"}
+{"name":"rs1535703","clin_sig":"Pathogenic"}
+{"name":"rs2696843","clin_sig":"Likely Pathogenic"}
+{"name":"rs591433","clin_sig":"Likely Pathogenic"}
+{"name":"rs13030","clin_sig":"Likely Pathogenic"}
+{"name":"rs544829","clin_sig":"Benign"}
+{"name":"rs308051","clin_sig":"Pathogenic"}
+{"name":"rs36526","clin_sig":"Pathogenic"}
+{"name":"rs646075","clin_sig":"Benign"}
+{"name":"rs140659530","clin_sig":"Benign"}
+{"name":"rs11709891","clin_sig":"Likely Pathogenic"}
+{"name":"rs4117320","clin_sig":"Likely Pathogenic"}
+{"name":"rs501679","clin_sig":"Likely Pathogenic"}
+{"name":"rs6464578","clin_sig":"Likely Pathogenic"}
+{"name":"rs146066362","clin_sig":"Pathogenic"}
+{"name":"rs57672167","clin_sig":"Pathogenic"}
+{"name":"rs149194985","clin_sig":"Pathogenic"}
+{"name":"rs3741391","clin_sig":"Pathogenic"}
+{"name":"rs2723829","clin_sig":"Benign"}
+{"name":"rs9570053","clin_sig":"Benign"}
+{"name":"rs55994676","clin_sig":"Pathogenic"}
+{"name":"rs8049108","clin_sig":"Pathogenic"}
+{"name":"rs691490","clin_sig":"Benign"}
+{"name":"rs111561249","clin_sig":"Pathogenic"}
+{"name":"rs77961324","clin_sig":"Likely Pathogenic"}
+{"name":"rs2273958","clin_sig":"Pathogenic"}
+{"name":"rs4911494","clin_sig":"Likely Pathogenic"}
+{"name":"rs57904146","clin_sig":"Pathogenic"}
+{"name":"rs7612","clin_sig":"Pathogenic"}
+{"name":"rs6954893","clin_sig":"Likely Pathogenic"}
+{"name":"rs6474547","clin_sig":"Pathogenic"}
+{"name":"rs678532","clin_sig":"Pathogenic"}
+{"name":"rs11259186","clin_sig":"Benign"}
+{"name":"rs1889565","clin_sig":"Benign"}
+{"name":"rs2924556","clin_sig":"Likely Pathogenic"}
+{"name":"rs9573097","clin_sig":"Pathogenic"}
+{"name":"rs369727","clin_sig":"Likely Pathogenic"}
+{"name":"rs9977082","clin_sig":"Benign"}
+{"name":"rs4823715","clin_sig":"Benign"}
+{"name":"rs2652638","clin_sig":"Benign"}
+{"name":"rs1050823","clin_sig":"Likely Pathogenic"}
+{"name":"rs3123636","clin_sig":"Benign"}
+{"name":"rs5886613","clin_sig":"Likely Pathogenic"}
+{"name":"rs1962395","clin_sig":"Pathogenic"}
+{"name":"rs2819361","clin_sig":"Pathogenic"}
+{"name":"rs3763763","clin_sig":"Pathogenic"}
+{"name":"rs1951959","clin_sig":"Benign"}
+{"name":"rs1540343","clin_sig":"Benign"}
+{"name":"rs72749575","clin_sig":"Likely Pathogenic"}
+{"name":"rs7213377","clin_sig":"Pathogenic"}
+{"name":"rs67845727","clin_sig":"Pathogenic"}
+{"name":"rs73003267","clin_sig":"Likely Pathogenic"}
+{"name":"rs4299256","clin_sig":"Likely Pathogenic"}
+{"name":"rs1044594","clin_sig":"Likely Pathogenic"}
+{"name":"rs34315830","clin_sig":"Likely Pathogenic"}
+{"name":"rs241448","clin_sig":"Likely Pathogenic"}
+{"name":"rs1130804","clin_sig":"Pathogenic"}
+{"name":"rs2782547","clin_sig":"Likely Pathogenic"}
+{"name":"rs487675","clin_sig":"Likely Pathogenic"}
+{"name":"rs4764586","clin_sig":"Likely Pathogenic"}
+{"name":"rs745632","clin_sig":"Likely Pathogenic"}
+{"name":"rs4077708","clin_sig":"Benign"}
+{"name":"rs2133977","clin_sig":"Pathogenic"}
+{"name":"rs4146837","clin_sig":"Likely Pathogenic"}
+{"name":"rs372799051","clin_sig":"Likely Pathogenic"}
+{"name":"rs309196","clin_sig":"Likely Pathogenic"}
+{"name":"rs4274569","clin_sig":"Likely Pathogenic"}
+{"name":"rs1128163","clin_sig":"Likely Pathogenic"}
+{"name":"rs1510277","clin_sig":"Likely Pathogenic"}
+{"name":"rs1978448","clin_sig":"Likely Pathogenic"}
+{"name":"rs359467","clin_sig":"Likely Pathogenic"}
+{"name":"rs113549015","clin_sig":"Benign"}
+{"name":"rs302177","clin_sig":"Likely Pathogenic"}
+{"name":"rs2302559","clin_sig":"Benign"}
+{"name":"rs9787162","clin_sig":"Benign"}
+{"name":"rs376898675","clin_sig":"Benign"}
+{"name":"rs1056295","clin_sig":"Likely Pathogenic"}
+{"name":"rs10883974","clin_sig":"Benign"}
+{"name":"rs10748919","clin_sig":"Likely Pathogenic"}
+{"name":"rs12433356","clin_sig":"Likely Pathogenic"}
+{"name":"rs8037282","clin_sig":"Likely Pathogenic"}
+{"name":"rs185925935","clin_sig":"Pathogenic"}
+{"name":"rs13331902","clin_sig":"Likely Pathogenic"}
+{"name":"rs59354651","clin_sig":"Benign"}
+{"name":"rs71406147","clin_sig":"Pathogenic"}
+{"name":"rs74322223","clin_sig":"Pathogenic"}
+{"name":"rs4680","clin_sig":"Pathogenic"}
+{"name":"rs113282456","clin_sig":"Likely Pathogenic"}
+{"name":"rs2115167","clin_sig":"Benign"}
+{"name":"rs58653367","clin_sig":"Pathogenic"}
+{"name":"rs56662982","clin_sig":"Pathogenic"}
+{"name":"rs1056222","clin_sig":"Benign"}
+{"name":"rs35677574","clin_sig":"Benign"}
+{"name":"rs2465130","clin_sig":"Benign"}
+{"name":"rs5774013","clin_sig":"Pathogenic"}
+{"name":"rs56208892","clin_sig":"Pathogenic"}
+{"name":"rs115283768","clin_sig":"Likely Pathogenic"}
+{"name":"rs199809070","clin_sig":"Likely Pathogenic"}
+{"name":"rs2554347","clin_sig":"Benign"}
+{"name":"rs1053998","clin_sig":"Likely Pathogenic"}
+{"name":"rs7207628","clin_sig":"Likely Pathogenic"}
+{"name":"rs28444602","clin_sig":"Likely Pathogenic"}
+{"name":"rs12620426","clin_sig":"Pathogenic"}
+{"name":"rs6735551","clin_sig":"Likely Pathogenic"}
+{"name":"rs468934","clin_sig":"Likely Pathogenic"}
+{"name":"rs79071212","clin_sig":"Benign"}
+{"name":"rs4264746","clin_sig":"Benign"}
+{"name":"rs62347936","clin_sig":"Likely Pathogenic"}
+{"name":"rs146949117","clin_sig":"Benign"}
+{"name":"rs4897165","clin_sig":"Pathogenic"}
+{"name":"rs35175200","clin_sig":"Benign"}
+{"name":"rs7952881","clin_sig":"Benign"}
+{"name":"rs12829856","clin_sig":"Pathogenic"}
+{"name":"rs2367201","clin_sig":"Likely Pathogenic"}
+{"name":"rs6021937","clin_sig":"Pathogenic"}
+{"name":"rs182412176","clin_sig":"Likely Pathogenic"}
+{"name":"rs4835942","clin_sig":"Likely Pathogenic"}
+{"name":"rs152051","clin_sig":"Likely Pathogenic"}
+{"name":"rs12154272","clin_sig":"Pathogenic"}
+{"name":"rs201703042","clin_sig":"Pathogenic"}
+{"name":"rs1276","clin_sig":"Likely Pathogenic"}
+{"name":"rs11061","clin_sig":"Likely Pathogenic"}
+{"name":"rs4147753","clin_sig":"Pathogenic"}
+{"name":"rs67006335","clin_sig":"Likely Pathogenic"}
+{"name":"rs17285550","clin_sig":"Benign"}
+{"name":"rs269868","clin_sig":"Likely Pathogenic"}
+{"name":"rs14226","clin_sig":"Pathogenic"}
+{"name":"rs1990760","clin_sig":"Likely Pathogenic"}
+{"name":"rs13165","clin_sig":"Pathogenic"}
+{"name":"rs375982870","clin_sig":"Benign"}
+{"name":"rs10427892","clin_sig":"Benign"}
+{"name":"rs6853292","clin_sig":"Benign"}
+{"name":"rs2969173","clin_sig":"Pathogenic"}
+{"name":"rs1063310","clin_sig":"Likely Pathogenic"}
+{"name":"rs143894857","clin_sig":"Pathogenic"}
+{"name":"rs6906864","clin_sig":"Likely Pathogenic"}
+{"name":"rs12672804","clin_sig":"Benign"}
+{"name":"rs11785","clin_sig":"Likely Pathogenic"}
+{"name":"rs12097","clin_sig":"Likely Pathogenic"}
+{"name":"rs9700179","clin_sig":"Likely Pathogenic"}
+{"name":"rs71882964","clin_sig":"Pathogenic"}
+{"name":"rs4542637","clin_sig":"Pathogenic"}
+{"name":"rs8078474","clin_sig":"Likely Pathogenic"}
+{"name":"rs2045435","clin_sig":"Pathogenic"}
+{"name":"rs6807632","clin_sig":"Pathogenic"}
+{"name":"rs57337277","clin_sig":"Likely Pathogenic"}
+{"name":"rs6967285","clin_sig":"Likely Pathogenic"}
+{"name":"rs936227","clin_sig":"Pathogenic"}
+{"name":"rs11074552","clin_sig":"Benign"}
+{"name":"rs1065518","clin_sig":"Likely Pathogenic"}
+{"name":"rs6434276","clin_sig":"Likely Pathogenic"}
+{"name":"rs2410176","clin_sig":"Benign"}
+{"name":"rs6774933","clin_sig":"Pathogenic"}
+{"name":"rs74978610","clin_sig":"Pathogenic"}
+{"name":"rs254682","clin_sig":"Pathogenic"}
+{"name":"rs11767165","clin_sig":"Likely Pathogenic"}
+{"name":"rs292696","clin_sig":"Pathogenic"}
+{"name":"rs17852003","clin_sig":"Likely Pathogenic"}
+{"name":"rs2816980","clin_sig":"Likely Pathogenic"}
+{"name":"rs11240613","clin_sig":"Likely Pathogenic"}
+{"name":"rs11826486","clin_sig":"Benign"}
+{"name":"rs15895","clin_sig":"Pathogenic"}
+{"name":"rs9535196","clin_sig":"Benign"}
+{"name":"rs112215388","clin_sig":"Pathogenic"}
+{"name":"rs2414517","clin_sig":"Benign"}
+{"name":"rs498855","clin_sig":"Pathogenic"}
+{"name":"rs1803","clin_sig":"Pathogenic"}
+{"name":"rs113650065","clin_sig":"Pathogenic"}
+{"name":"rs6966402","clin_sig":"Pathogenic"}
+{"name":"rs228318","clin_sig":"Pathogenic"}
+{"name":"rs2296883","clin_sig":"Benign"}
+{"name":"rs10737541","clin_sig":"Pathogenic"}
+{"name":"rs111485064","clin_sig":"Likely Pathogenic"}
+{"name":"rs569044","clin_sig":"Benign"}
+{"name":"rs7327069","clin_sig":"Likely Pathogenic"}
+{"name":"rs78442452","clin_sig":"Likely Pathogenic"}
+{"name":"rs12944555","clin_sig":"Likely Pathogenic"}
+{"name":"rs58857770","clin_sig":"Likely Pathogenic"}
+{"name":"rs7564619","clin_sig":"Benign"}
+{"name":"rs12637785","clin_sig":"Benign"}
+{"name":"rs75547085","clin_sig":"Pathogenic"}
+{"name":"rs2464505","clin_sig":"Likely Pathogenic"}
+{"name":"rs1062535","clin_sig":"Likely Pathogenic"}
+{"name":"rs1131431","clin_sig":"Pathogenic"}
+{"name":"rs7817","clin_sig":"Likely Pathogenic"}
+{"name":"rs11140004","clin_sig":"Pathogenic"}
+{"name":"rs12754038","clin_sig":"Benign"}
+{"name":"rs11024093","clin_sig":"Benign"}
+{"name":"rs6483472","clin_sig":"Likely Pathogenic"}
+{"name":"rs191072636","clin_sig":"Pathogenic"}
+{"name":"rs10845682","clin_sig":"Likely Pathogenic"}
+{"name":"rs7327452","clin_sig":"Benign"}
+{"name":"rs75746390","clin_sig":"Benign"}
+{"name":"rs7270634","clin_sig":"Pathogenic"}
+{"name":"rs1045706","clin_sig":"Pathogenic"}
+{"name":"rs299363","clin_sig":"Pathogenic"}
+{"name":"rs10476308","clin_sig":"Benign"}
+{"name":"rs6964397","clin_sig":"Likely Pathogenic"}
+{"name":"rs3801278","clin_sig":"Pathogenic"}
+{"name":"rs13236012","clin_sig":"Benign"}
+{"name":"rs1289673","clin_sig":"Pathogenic"}
+{"name":"rs12407807","clin_sig":"Likely Pathogenic"}
+{"name":"rs77240671","clin_sig":"Pathogenic"}
+{"name":"rs642215","clin_sig":"Pathogenic"}
+{"name":"rs3088226","clin_sig":"Benign"}
+{"name":"rs7973807","clin_sig":"Benign"}
+{"name":"rs2660","clin_sig":"Likely Pathogenic"}
+{"name":"rs35135213","clin_sig":"Pathogenic"}
+{"name":"rs79485889","clin_sig":"Benign"}
+{"name":"rs6510629","clin_sig":"Likely Pathogenic"}
+{"name":"rs2609880","clin_sig":"Benign"}
+{"name":"rs204481","clin_sig":"Likely Pathogenic"}
+{"name":"rs11895882","clin_sig":"Benign"}
+{"name":"rs4692942","clin_sig":"Likely Pathogenic"}
+{"name":"rs527135","clin_sig":"Likely Pathogenic"}
+{"name":"rs13332","clin_sig":"Benign"}
+{"name":"rs112102053","clin_sig":"Benign"}
+{"name":"rs73626572","clin_sig":"Likely Pathogenic"}
+{"name":"rs60062752","clin_sig":"Likely Pathogenic"}
+{"name":"rs2480683","clin_sig":"Likely Pathogenic"}
+{"name":"rs10754008","clin_sig":"Pathogenic"}
+{"name":"rs556669","clin_sig":"Pathogenic"}
+{"name":"rs112388169","clin_sig":"Benign"}
+{"name":"rs201620283","clin_sig":"Benign"}
+{"name":"rs34901192","clin_sig":"Likely Pathogenic"}
+{"name":"rs71176978","clin_sig":"Pathogenic"}
+{"name":"rs762646","clin_sig":"Pathogenic"}
+{"name":"rs7627100","clin_sig":"Likely Pathogenic"}
+{"name":"rs7436646","clin_sig":"Benign"}
+{"name":"rs1064701","clin_sig":"Pathogenic"}
+{"name":"rs1049887","clin_sig":"Benign"}
+{"name":"rs2439707","clin_sig":"Likely Pathogenic"}
+{"name":"rs117794919","clin_sig":"Likely Pathogenic"}
+{"name":"rs4767572","clin_sig":"Likely Pathogenic"}
+{"name":"rs2120141","clin_sig":"Pathogenic"}
+{"name":"rs4777755","clin_sig":"Benign"}
+{"name":"rs2691118","clin_sig":"Pathogenic"}
+{"name":"rs376690263","clin_sig":"Likely Pathogenic"}
+{"name":"rs1872198","clin_sig":"Likely Pathogenic"}
+{"name":"rs12692587","clin_sig":"Likely Pathogenic"}
+{"name":"rs2808805","clin_sig":"Benign"}
+{"name":"rs2736143","clin_sig":"Likely Pathogenic"}
+{"name":"rs9856354","clin_sig":"Likely Pathogenic"}
+{"name":"rs4629446","clin_sig":"Pathogenic"}
+{"name":"rs7679115","clin_sig":"Benign"}
+{"name":"rs6837840","clin_sig":"Benign"}
+{"name":"rs4712113","clin_sig":"Benign"}
+{"name":"rs174179","clin_sig":"Likely Pathogenic"}
+{"name":"rs2799246","clin_sig":"Pathogenic"}
+{"name":"rs6580870","clin_sig":"Likely Pathogenic"}
+{"name":"rs7986181","clin_sig":"Benign"}
+{"name":"rs12161991","clin_sig":"Likely Pathogenic"}
+{"name":"rs4843438","clin_sig":"Pathogenic"}
+{"name":"rs6504556","clin_sig":"Benign"}
+{"name":"rs281436","clin_sig":"Benign"}
+{"name":"rs1861435","clin_sig":"Benign"}
+{"name":"rs3783525","clin_sig":"Likely Pathogenic"}
+{"name":"rs2883887","clin_sig":"Likely Pathogenic"}
+{"name":"rs2255342","clin_sig":"Benign"}
+{"name":"rs192545869","clin_sig":"Benign"}
+{"name":"rs7690869","clin_sig":"Likely Pathogenic"}
+{"name":"rs1664793","clin_sig":"Likely Pathogenic"}
+{"name":"rs34239222","clin_sig":"Likely Pathogenic"}
+{"name":"rs4577840","clin_sig":"Likely Pathogenic"}
+{"name":"rs7748987","clin_sig":"Pathogenic"}
+{"name":"rs73169683","clin_sig":"Pathogenic"}
+{"name":"rs34338452","clin_sig":"Likely Pathogenic"}
+{"name":"rs7041047","clin_sig":"Likely Pathogenic"}
+{"name":"rs61803002","clin_sig":"Benign"}
+{"name":"rs585481","clin_sig":"Benign"}
+{"name":"rs2997237","clin_sig":"Pathogenic"}
+{"name":"rs10767693","clin_sig":"Benign"}
+{"name":"rs12289750","clin_sig":"Benign"}
+{"name":"rs12796523","clin_sig":"Benign"}
+{"name":"rs9549169","clin_sig":"Likely Pathogenic"}
+{"name":"rs73936115","clin_sig":"Pathogenic"}
+{"name":"rs6717101","clin_sig":"Benign"}
+{"name":"rs12621025","clin_sig":"Pathogenic"}
+{"name":"rs9984937","clin_sig":"Benign"}
+{"name":"rs1801497","clin_sig":"Benign"}
+{"name":"rs35674179","clin_sig":"Likely Pathogenic"}
+{"name":"rs2948785","clin_sig":"Pathogenic"}
+{"name":"rs2587029","clin_sig":"Likely Pathogenic"}
+{"name":"rs376337004","clin_sig":"Pathogenic"}
+{"name":"rs698","clin_sig":"Benign"}
+{"name":"rs597064","clin_sig":"Benign"}
+{"name":"rs6931014","clin_sig":"Benign"}
+{"name":"rs1880303","clin_sig":"Benign"}
+{"name":"rs140853800","clin_sig":"Pathogenic"}
+{"name":"rs376216861","clin_sig":"Benign"}
+{"name":"rs116432007","clin_sig":"Pathogenic"}
+{"name":"rs1255461","clin_sig":"Benign"}
+{"name":"rs4934470","clin_sig":"Likely Pathogenic"}
+{"name":"rs7350","clin_sig":"Pathogenic"}
+{"name":"rs12100712","clin_sig":"Likely Pathogenic"}
+{"name":"rs7154657","clin_sig":"Benign"}
+{"name":"rs139256485","clin_sig":"Benign"}
+{"name":"rs750234","clin_sig":"Pathogenic"}
+{"name":"rs778986","clin_sig":"Likely Pathogenic"}
+{"name":"rs62103612","clin_sig":"Pathogenic"}
+{"name":"rs3217036","clin_sig":"Pathogenic"}
+{"name":"rs1884432","clin_sig":"Benign"}
+{"name":"rs71572793","clin_sig":"Pathogenic"}
+{"name":"rs7797719","clin_sig":"Likely Pathogenic"}
+{"name":"rs66504110","clin_sig":"Pathogenic"}
+{"name":"rs4734391","clin_sig":"Likely Pathogenic"}
+{"name":"rs67297747","clin_sig":"Benign"}
+{"name":"rs146365742","clin_sig":"Pathogenic"}
+{"name":"rs17576669","clin_sig":"Likely Pathogenic"}
+{"name":"rs1219497","clin_sig":"Pathogenic"}
+{"name":"rs11200332","clin_sig":"Likely Pathogenic"}
+{"name":"rs9667389","clin_sig":"Likely Pathogenic"}
+{"name":"rs10770856","clin_sig":"Benign"}
+{"name":"rs11068615","clin_sig":"Benign"}
+{"name":"rs28756401","clin_sig":"Benign"}
+{"name":"rs7173866","clin_sig":"Benign"}
+{"name":"rs1061611","clin_sig":"Benign"}
+{"name":"rs2302231","clin_sig":"Likely Pathogenic"}
+{"name":"rs144356088","clin_sig":"Likely Pathogenic"}
+{"name":"rs116870671","clin_sig":"Likely Pathogenic"}
+{"name":"rs818812","clin_sig":"Benign"}
+{"name":"rs80091124","clin_sig":"Benign"}
+{"name":"rs3094615","clin_sig":"Likely Pathogenic"}
+{"name":"rs9282537","clin_sig":"Likely Pathogenic"}
+{"name":"rs4908847","clin_sig":"Benign"}
+{"name":"rs10919580","clin_sig":"Benign"}
+{"name":"rs4526713","clin_sig":"Likely Pathogenic"}
+{"name":"rs1057143","clin_sig":"Likely Pathogenic"}
+{"name":"rs4937507","clin_sig":"Likely Pathogenic"}
+{"name":"rs2230281","clin_sig":"Benign"}
+{"name":"rs1951123","clin_sig":"Pathogenic"}
+{"name":"rs729155","clin_sig":"Benign"}
+{"name":"rs1055740","clin_sig":"Pathogenic"}
+{"name":"rs9797088","clin_sig":"Pathogenic"}
+{"name":"rs60701633","clin_sig":"Likely Pathogenic"}
+{"name":"rs10804069","clin_sig":"Pathogenic"}
+{"name":"rs370182968","clin_sig":"Pathogenic"}
+{"name":"rs157496","clin_sig":"Likely Pathogenic"}
+{"name":"rs6415262","clin_sig":"Likely Pathogenic"}
+{"name":"rs67758697","clin_sig":"Likely Pathogenic"}
+{"name":"rs3779591","clin_sig":"Pathogenic"}
+{"name":"rs10087858","clin_sig":"Likely Pathogenic"}
+{"name":"rs2893650","clin_sig":"Benign"}
+{"name":"rs2035879","clin_sig":"Pathogenic"}
+{"name":"rs11439986","clin_sig":"Likely Pathogenic"}
+{"name":"rs78280928","clin_sig":"Likely Pathogenic"}
+{"name":"rs74596180","clin_sig":"Likely Pathogenic"}
+{"name":"rs175052","clin_sig":"Likely Pathogenic"}
+{"name":"rs71778957","clin_sig":"Likely Pathogenic"}
+{"name":"rs812936","clin_sig":"Pathogenic"}
+{"name":"rs7888","clin_sig":"Pathogenic"}
+{"name":"rs60435876","clin_sig":"Benign"}
+{"name":"rs2551176","clin_sig":"Likely Pathogenic"}
+{"name":"rs1873556","clin_sig":"Likely Pathogenic"}
+{"name":"rs2167133","clin_sig":"Likely Pathogenic"}
+{"name":"rs7474","clin_sig":"Benign"}
+{"name":"rs1092108","clin_sig":"Pathogenic"}
+{"name":"rs701265","clin_sig":"Likely Pathogenic"}
+{"name":"rs9882662","clin_sig":"Benign"}
+{"name":"rs1192037","clin_sig":"Benign"}
+{"name":"rs367698165","clin_sig":"Likely Pathogenic"}
+{"name":"rs10276733","clin_sig":"Pathogenic"}
+{"name":"rs1832731","clin_sig":"Benign"}
+{"name":"rs76000153","clin_sig":"Likely Pathogenic"}
+{"name":"rs4971013","clin_sig":"Likely Pathogenic"}
+{"name":"rs293980","clin_sig":"Benign"}
+{"name":"rs7146946","clin_sig":"Likely Pathogenic"}
+{"name":"rs2287914","clin_sig":"Benign"}
+{"name":"rs1862460","clin_sig":"Likely Pathogenic"}
+{"name":"rs56169338","clin_sig":"Benign"}
+{"name":"rs369053000","clin_sig":"Likely Pathogenic"}
+{"name":"rs140362025","clin_sig":"Pathogenic"}
+{"name":"rs12644113","clin_sig":"Likely Pathogenic"}
+{"name":"rs10805102","clin_sig":"Pathogenic"}
+{"name":"rs12564596","clin_sig":"Benign"}
+{"name":"rs6692649","clin_sig":"Likely Pathogenic"}
+{"name":"rs1136141","clin_sig":"Pathogenic"}
+{"name":"rs34632138","clin_sig":"Benign"}
+{"name":"rs71053332","clin_sig":"Likely Pathogenic"}
+{"name":"rs1128105","clin_sig":"Benign"}
+{"name":"rs12864516","clin_sig":"Benign"}
+{"name":"rs2280796","clin_sig":"Benign"}
+{"name":"rs12439581","clin_sig":"Likely Pathogenic"}
+{"name":"rs4777611","clin_sig":"Pathogenic"}
+{"name":"rs71148585","clin_sig":"Likely Pathogenic"}
+{"name":"rs1730998","clin_sig":"Pathogenic"}
+{"name":"rs4843611","clin_sig":"Pathogenic"}
+{"name":"rs5013100","clin_sig":"Benign"}
+{"name":"rs12971365","clin_sig":"Likely Pathogenic"}
+{"name":"rs28430633","clin_sig":"Benign"}
+{"name":"rs2276615","clin_sig":"Likely Pathogenic"}
+{"name":"rs1444599","clin_sig":"Likely Pathogenic"}
+{"name":"rs7445138","clin_sig":"Pathogenic"}
+{"name":"rs9320791","clin_sig":"Pathogenic"}
+{"name":"rs71562815","clin_sig":"Benign"}
+{"name":"rs7010718","clin_sig":"Benign"}
+{"name":"rs6662671","clin_sig":"Likely Pathogenic"}
+{"name":"rs2275360","clin_sig":"Pathogenic"}
+{"name":"rs1015996","clin_sig":"Pathogenic"}
+{"name":"rs55666208","clin_sig":"Likely Pathogenic"}
+{"name":"rs2273628","clin_sig":"Pathogenic"}
+{"name":"rs149807107","clin_sig":"Likely Pathogenic"}
+{"name":"rs4509988","clin_sig":"Pathogenic"}
+{"name":"rs7168860","clin_sig":"Benign"}
+{"name":"rs7247001","clin_sig":"Benign"}
+{"name":"rs3211055","clin_sig":"Pathogenic"}
+{"name":"rs186888","clin_sig":"Likely Pathogenic"}
+{"name":"rs7121","clin_sig":"Pathogenic"}
+{"name":"rs2550233","clin_sig":"Benign"}
+{"name":"rs2952877","clin_sig":"Pathogenic"}
+{"name":"rs74312018","clin_sig":"Likely Pathogenic"}
+{"name":"rs70981118","clin_sig":"Pathogenic"}
+{"name":"rs1049281","clin_sig":"Benign"}
+{"name":"rs2756038","clin_sig":"Pathogenic"}
+{"name":"rs20583","clin_sig":"Benign"}
+{"name":"rs478094","clin_sig":"Likely Pathogenic"}
+{"name":"rs12723634","clin_sig":"Likely Pathogenic"}
+{"name":"rs2887499","clin_sig":"Pathogenic"}
+{"name":"rs2734742","clin_sig":"Likely Pathogenic"}
+{"name":"rs7208956","clin_sig":"Benign"}
+{"name":"rs10438930","clin_sig":"Likely Pathogenic"}
+{"name":"rs115645347","clin_sig":"Benign"}
+{"name":"rs201653563","clin_sig":"Likely Pathogenic"}
+{"name":"rs11129756","clin_sig":"Likely Pathogenic"}
+{"name":"rs1043747","clin_sig":"Likely Pathogenic"}
+{"name":"rs35090764","clin_sig":"Benign"}
+{"name":"rs11736349","clin_sig":"Likely Pathogenic"}
+{"name":"rs1455478","clin_sig":"Benign"}
+{"name":"rs10117","clin_sig":"Likely Pathogenic"}
+{"name":"rs1137296","clin_sig":"Pathogenic"}
+{"name":"rs1059510","clin_sig":"Benign"}
+{"name":"rs4661346","clin_sig":"Pathogenic"}
+{"name":"rs66864104","clin_sig":"Benign"}
+{"name":"rs11583051","clin_sig":"Benign"}
+{"name":"rs2024303","clin_sig":"Benign"}
+{"name":"rs9518704","clin_sig":"Likely Pathogenic"}
+{"name":"rs11160026","clin_sig":"Benign"}
+{"name":"rs11630297","clin_sig":"Pathogenic"}
+{"name":"rs2925050","clin_sig":"Pathogenic"}
+{"name":"rs9908756","clin_sig":"Pathogenic"}
+{"name":"rs7846","clin_sig":"Likely Pathogenic"}
+{"name":"rs243261","clin_sig":"Pathogenic"}
+{"name":"rs7586229","clin_sig":"Pathogenic"}
+{"name":"rs1684518","clin_sig":"Pathogenic"}
+{"name":"rs6846129","clin_sig":"Likely Pathogenic"}
+{"name":"rs10516092","clin_sig":"Benign"}
+{"name":"rs6889551","clin_sig":"Likely Pathogenic"}
+{"name":"rs13488","clin_sig":"Benign"}
+{"name":"rs1062119","clin_sig":"Likely Pathogenic"}
+{"name":"rs3886659","clin_sig":"Benign"}
+{"name":"rs3837342","clin_sig":"Benign"}
+{"name":"rs542777","clin_sig":"Benign"}
+{"name":"rs2241913","clin_sig":"Likely Pathogenic"}
+{"name":"rs1243469","clin_sig":"Benign"}
+{"name":"rs2460846","clin_sig":"Benign"}
+{"name":"rs11072823","clin_sig":"Likely Pathogenic"}
+{"name":"rs28368118","clin_sig":"Pathogenic"}
+{"name":"rs302839","clin_sig":"Benign"}
+{"name":"rs8065193","clin_sig":"Likely Pathogenic"}
+{"name":"rs1062292","clin_sig":"Likely Pathogenic"}
+{"name":"rs1345535","clin_sig":"Benign"}
+{"name":"rs5869670","clin_sig":"Benign"}
+{"name":"rs1192035","clin_sig":"Likely Pathogenic"}
+{"name":"rs2038681","clin_sig":"Benign"}
+{"name":"rs1331291","clin_sig":"Benign"}
+{"name":"rs61922698","clin_sig":"Pathogenic"}
+{"name":"rs1061621","clin_sig":"Likely Pathogenic"}
+{"name":"rs904763","clin_sig":"Likely Pathogenic"}
+{"name":"rs79039410","clin_sig":"Pathogenic"}
+{"name":"rs5767374","clin_sig":"Benign"}
+{"name":"rs2303366","clin_sig":"Benign"}
+{"name":"rs62458704","clin_sig":"Pathogenic"}
+{"name":"rs1045916","clin_sig":"Pathogenic"}
+{"name":"rs1695716","clin_sig":"Likely Pathogenic"}
+{"name":"rs77144485","clin_sig":"Benign"}
+{"name":"rs14137","clin_sig":"Pathogenic"}
+{"name":"rs811605","clin_sig":"Benign"}
+{"name":"rs369105601","clin_sig":"Pathogenic"}
+{"name":"rs11435103","clin_sig":"Likely Pathogenic"}
+{"name":"rs10483068","clin_sig":"Likely Pathogenic"}
+{"name":"rs6841529","clin_sig":"Likely Pathogenic"}
+{"name":"rs10023791","clin_sig":"Benign"}
+{"name":"rs7748578","clin_sig":"Pathogenic"}
+{"name":"rs2768","clin_sig":"Likely Pathogenic"}
+{"name":"rs1064592","clin_sig":"Likely Pathogenic"}
+{"name":"rs6923579","clin_sig":"Pathogenic"}
+{"name":"rs6935303","clin_sig":"Likely Pathogenic"}
+{"name":"rs7741728","clin_sig":"Pathogenic"}
+{"name":"rs4098612","clin_sig":"Likely Pathogenic"}
+{"name":"rs12728047","clin_sig":"Likely Pathogenic"}
+{"name":"rs12087313","clin_sig":"Benign"}
+{"name":"rs561597","clin_sig":"Pathogenic"}
+{"name":"rs10831488","clin_sig":"Likely Pathogenic"}
+{"name":"rs60610792","clin_sig":"Pathogenic"}
+{"name":"rs2735611","clin_sig":"Benign"}
+{"name":"rs1785934","clin_sig":"Likely Pathogenic"}
+{"name":"rs2254175","clin_sig":"Pathogenic"}
+{"name":"rs235314","clin_sig":"Benign"}
+{"name":"rs700494","clin_sig":"Likely Pathogenic"}
+{"name":"rs201820324","clin_sig":"Pathogenic"}
+{"name":"rs1986862","clin_sig":"Likely Pathogenic"}
+{"name":"rs4879719","clin_sig":"Likely Pathogenic"}
+{"name":"rs140960060","clin_sig":"Pathogenic"}
+{"name":"rs4233","clin_sig":"Likely Pathogenic"}
+{"name":"rs36004079","clin_sig":"Benign"}
+{"name":"rs1165222","clin_sig":"Benign"}
+{"name":"rs3750780","clin_sig":"Benign"}
+{"name":"rs6590129","clin_sig":"Pathogenic"}
+{"name":"rs3782726","clin_sig":"Benign"}
+{"name":"rs4842741","clin_sig":"Benign"}
+{"name":"rs1132375","clin_sig":"Benign"}
+{"name":"rs9797083","clin_sig":"Pathogenic"}
+{"name":"rs9005","clin_sig":"Likely Pathogenic"}
+{"name":"rs2001297","clin_sig":"Pathogenic"}
+{"name":"rs6133929","clin_sig":"Pathogenic"}
+{"name":"rs11475245","clin_sig":"Likely Pathogenic"}
+{"name":"rs11472267","clin_sig":"Pathogenic"}
+{"name":"rs9305824","clin_sig":"Benign"}
+{"name":"rs4678947","clin_sig":"Pathogenic"}
+{"name":"rs6782732","clin_sig":"Benign"}
+{"name":"rs139584539","clin_sig":"Benign"}
+{"name":"rs4808","clin_sig":"Likely Pathogenic"}
+{"name":"rs363717","clin_sig":"Benign"}
+{"name":"rs733000","clin_sig":"Likely Pathogenic"}
+{"name":"rs17731","clin_sig":"Likely Pathogenic"}
+{"name":"rs4948295","clin_sig":"Pathogenic"}
+{"name":"rs7299639","clin_sig":"Benign"}
+{"name":"rs1600","clin_sig":"Benign"}
+{"name":"rs1212082","clin_sig":"Benign"}
+{"name":"rs368887538","clin_sig":"Benign"}
+{"name":"rs1805081","clin_sig":"Pathogenic"}
+{"name":"rs1012546","clin_sig":"Benign"}
+{"name":"rs13072995","clin_sig":"Pathogenic"}
+{"name":"rs11436644","clin_sig":"Benign"}
+{"name":"rs3108231","clin_sig":"Benign"}
+{"name":"rs9285013","clin_sig":"Pathogenic"}
+{"name":"rs42876","clin_sig":"Benign"}
+{"name":"rs72200619","clin_sig":"Benign"}
+{"name":"rs4543882","clin_sig":"Pathogenic"}
+{"name":"rs74627615","clin_sig":"Pathogenic"}
+{"name":"rs3803025","clin_sig":"Benign"}
+{"name":"rs2275660","clin_sig":"Benign"}
+{"name":"rs9573659","clin_sig":"Pathogenic"}
+{"name":"rs7171859","clin_sig":"Pathogenic"}
+{"name":"rs9953822","clin_sig":"Likely Pathogenic"}
+{"name":"rs7566819","clin_sig":"Pathogenic"}
+{"name":"rs72930729","clin_sig":"Likely Pathogenic"}
+{"name":"rs57553410","clin_sig":"Likely Pathogenic"}
+{"name":"rs3769866","clin_sig":"Pathogenic"}
+{"name":"rs4680342","clin_sig":"Likely Pathogenic"}
+{"name":"rs36303","clin_sig":"Pathogenic"}
+{"name":"rs116318091","clin_sig":"Likely Pathogenic"}
+{"name":"rs4728191","clin_sig":"Likely Pathogenic"}
+{"name":"rs6973591","clin_sig":"Pathogenic"}
+{"name":"rs60025399","clin_sig":"Likely Pathogenic"}
+{"name":"rs7035619","clin_sig":"Likely Pathogenic"}
+{"name":"rs2771040","clin_sig":"Benign"}
+{"name":"rs2275085","clin_sig":"Benign"}
+{"name":"rs1718920","clin_sig":"Pathogenic"}
+{"name":"rs376606003","clin_sig":"Likely Pathogenic"}
+{"name":"rs1373563","clin_sig":"Pathogenic"}
+{"name":"rs73001528","clin_sig":"Benign"}
+{"name":"rs7125","clin_sig":"Benign"}
+{"name":"rs147504355","clin_sig":"Benign"}
+{"name":"rs6434284","clin_sig":"Likely Pathogenic"}
+{"name":"rs2808803","clin_sig":"Pathogenic"}
+{"name":"rs367702344","clin_sig":"Likely Pathogenic"}
+{"name":"rs66985998","clin_sig":"Benign"}
+{"name":"rs6437788","clin_sig":"Likely Pathogenic"}
+{"name":"rs11720503","clin_sig":"Likely Pathogenic"}
+{"name":"rs17029777","clin_sig":"Pathogenic"}
+{"name":"rs148611651","clin_sig":"Likely Pathogenic"}
+{"name":"rs11134893","clin_sig":"Benign"}
+{"name":"rs147889591","clin_sig":"Pathogenic"}
+{"name":"rs9918696","clin_sig":"Likely Pathogenic"}
+{"name":"rs28412893","clin_sig":"Likely Pathogenic"}
+{"name":"rs7820872","clin_sig":"Likely Pathogenic"}
+{"name":"rs600046","clin_sig":"Benign"}
+{"name":"rs34007093","clin_sig":"Benign"}
+{"name":"rs2511377","clin_sig":"Benign"}
+{"name":"rs10750347","clin_sig":"Likely Pathogenic"}
+{"name":"rs534859","clin_sig":"Likely Pathogenic"}
+{"name":"rs4790175","clin_sig":"Benign"}
+{"name":"rs7250637","clin_sig":"Pathogenic"}
+{"name":"rs7508048","clin_sig":"Pathogenic"}
+{"name":"rs2421882","clin_sig":"Pathogenic"}
+{"name":"rs1597246","clin_sig":"Pathogenic"}
+{"name":"rs6434275","clin_sig":"Likely Pathogenic"}
+{"name":"rs13096007","clin_sig":"Likely Pathogenic"}
+{"name":"rs7621970","clin_sig":"Benign"}
+{"name":"rs7658173","clin_sig":"Benign"}
+{"name":"rs2223590","clin_sig":"Pathogenic"}
+{"name":"rs34569193","clin_sig":"Benign"}
+{"name":"rs7734","clin_sig":"Likely Pathogenic"}
+{"name":"rs12293987","clin_sig":"Likely Pathogenic"}
+{"name":"rs7954469","clin_sig":"Pathogenic"}
+{"name":"rs3741688","clin_sig":"Pathogenic"}
+{"name":"rs56308926","clin_sig":"Pathogenic"}
+{"name":"rs689626","clin_sig":"Pathogenic"}
+{"name":"rs1036939","clin_sig":"Pathogenic"}
+{"name":"rs5024019","clin_sig":"Pathogenic"}
+{"name":"rs11679309","clin_sig":"Likely Pathogenic"}
+{"name":"rs2871874","clin_sig":"Benign"}
+{"name":"rs4911193","clin_sig":"Likely Pathogenic"}
+{"name":"rs35949543","clin_sig":"Likely Pathogenic"}
+{"name":"rs73230108","clin_sig":"Likely Pathogenic"}
+{"name":"rs6793735","clin_sig":"Benign"}
+{"name":"rs201415869","clin_sig":"Benign"}
+{"name":"rs78477192","clin_sig":"Likely Pathogenic"}
+{"name":"rs11242389","clin_sig":"Pathogenic"}
+{"name":"rs1277","clin_sig":"Likely Pathogenic"}
+{"name":"rs727852","clin_sig":"Likely Pathogenic"}
+{"name":"rs28667515","clin_sig":"Benign"}
+{"name":"rs61753863","clin_sig":"Pathogenic"}
+{"name":"rs12608387","clin_sig":"Likely Pathogenic"}
+{"name":"rs76952982","clin_sig":"Benign"}
+{"name":"rs1628576","clin_sig":"Pathogenic"}
+{"name":"rs141078219","clin_sig":"Likely Pathogenic"}
+{"name":"rs2830100","clin_sig":"Benign"}
+{"name":"rs28365795","clin_sig":"Pathogenic"}
+{"name":"rs6816107","clin_sig":"Benign"}
+{"name":"rs312506","clin_sig":"Likely Pathogenic"}
+{"name":"rs2321211","clin_sig":"Likely Pathogenic"}
+{"name":"rs475716","clin_sig":"Likely Pathogenic"}
+{"name":"rs145761876","clin_sig":"Pathogenic"}
+{"name":"rs199866664","clin_sig":"Benign"}
+{"name":"rs5969761","clin_sig":"Likely Pathogenic"}
+{"name":"rs549650","clin_sig":"Benign"}
+{"name":"rs1557153","clin_sig":"Pathogenic"}
+{"name":"rs10786813","clin_sig":"Benign"}
+{"name":"rs1407359","clin_sig":"Pathogenic"}
+{"name":"rs1533825","clin_sig":"Likely Pathogenic"}
+{"name":"rs11606438","clin_sig":"Benign"}
+{"name":"rs3829241","clin_sig":"Benign"}
+{"name":"rs1944198","clin_sig":"Pathogenic"}
+{"name":"rs11045586","clin_sig":"Pathogenic"}
+{"name":"rs113480686","clin_sig":"Pathogenic"}
+{"name":"rs140246246","clin_sig":"Likely Pathogenic"}
+{"name":"rs11683078","clin_sig":"Pathogenic"}
+{"name":"rs1029301","clin_sig":"Pathogenic"}
+{"name":"rs271246","clin_sig":"Pathogenic"}
+{"name":"rs9260180","clin_sig":"Likely Pathogenic"}
+{"name":"rs11546144","clin_sig":"Benign"}
+{"name":"rs12410306","clin_sig":"Benign"}
+{"name":"rs12890607","clin_sig":"Likely Pathogenic"}
+{"name":"rs2361710","clin_sig":"Likely Pathogenic"}
+{"name":"rs1551385","clin_sig":"Likely Pathogenic"}
+{"name":"rs3731728","clin_sig":"Pathogenic"}
+{"name":"rs538094","clin_sig":"Likely Pathogenic"}
+{"name":"rs2410429","clin_sig":"Benign"}
+{"name":"rs199521489","clin_sig":"Likely Pathogenic"}
+{"name":"rs1137631","clin_sig":"Benign"}
+{"name":"rs781740","clin_sig":"Likely Pathogenic"}
+{"name":"rs55836118","clin_sig":"Pathogenic"}
+{"name":"rs12419860","clin_sig":"Pathogenic"}
+{"name":"rs618679","clin_sig":"Benign"}
+{"name":"rs430947","clin_sig":"Benign"}
+{"name":"rs117487508","clin_sig":"Pathogenic"}
+{"name":"rs4853883","clin_sig":"Pathogenic"}
+{"name":"rs1010","clin_sig":"Pathogenic"}
+{"name":"rs13036124","clin_sig":"Likely Pathogenic"}
+{"name":"rs210074","clin_sig":"Pathogenic"}
+{"name":"rs10575497","clin_sig":"Pathogenic"}
+{"name":"rs1318492","clin_sig":"Likely Pathogenic"}
+{"name":"rs2228628","clin_sig":"Pathogenic"}
+{"name":"rs2366028","clin_sig":"Benign"}
+{"name":"rs56097353","clin_sig":"Pathogenic"}
+{"name":"rs7882480","clin_sig":"Likely Pathogenic"}
+{"name":"rs4844622","clin_sig":"Benign"}
+{"name":"rs954","clin_sig":"Benign"}
+{"name":"rs376545","clin_sig":"Pathogenic"}
+{"name":"rs1353771","clin_sig":"Benign"}
+{"name":"rs71192506","clin_sig":"Pathogenic"}
+{"name":"rs762648","clin_sig":"Pathogenic"}
+{"name":"rs58958665","clin_sig":"Pathogenic"}
+{"name":"rs1049344","clin_sig":"Benign"}
+{"name":"rs16896410","clin_sig":"Likely Pathogenic"}
+{"name":"rs2272593","clin_sig":"Likely Pathogenic"}
+{"name":"rs1049526","clin_sig":"Likely Pathogenic"}
+{"name":"rs6983163","clin_sig":"Benign"}
+{"name":"rs11118906","clin_sig":"Likely Pathogenic"}
+{"name":"rs3750601","clin_sig":"Pathogenic"}
+{"name":"rs34368319","clin_sig":"Pathogenic"}
+{"name":"rs34979622","clin_sig":"Pathogenic"}
+{"name":"rs2360977","clin_sig":"Likely Pathogenic"}
+{"name":"rs6576488","clin_sig":"Likely Pathogenic"}
+{"name":"rs2437722","clin_sig":"Pathogenic"}
+{"name":"rs34911285","clin_sig":"Pathogenic"}
+{"name":"rs953694","clin_sig":"Likely Pathogenic"}
+{"name":"rs13958","clin_sig":"Pathogenic"}
+{"name":"rs7355771","clin_sig":"Pathogenic"}
+{"name":"rs4152","clin_sig":"Benign"}
+{"name":"rs10278782","clin_sig":"Likely Pathogenic"}
+{"name":"rs34104697","clin_sig":"Benign"}
+{"name":"rs201867931","clin_sig":"Pathogenic"}
+{"name":"rs2415416","clin_sig":"Benign"}
+{"name":"rs3028163","clin_sig":"Pathogenic"}
+{"name":"rs201963456","clin_sig":"Likely Pathogenic"}
+{"name":"rs11076354","clin_sig":"Pathogenic"}
+{"name":"rs925757","clin_sig":"Pathogenic"}
+{"name":"rs138768895","clin_sig":"Pathogenic"}
+{"name":"rs200975463","clin_sig":"Likely Pathogenic"}
+{"name":"rs7380693","clin_sig":"Likely Pathogenic"}
+{"name":"rs12341","clin_sig":"Likely Pathogenic"}
+{"name":"rs11343556","clin_sig":"Benign"}
+{"name":"rs56200538","clin_sig":"Likely Pathogenic"}
+{"name":"rs16182","clin_sig":"Pathogenic"}
+{"name":"rs17855260","clin_sig":"Pathogenic"}
+{"name":"rs61737189","clin_sig":"Pathogenic"}
+{"name":"rs3202419","clin_sig":"Pathogenic"}
+{"name":"rs2275229","clin_sig":"Benign"}
+{"name":"rs1290558","clin_sig":"Pathogenic"}
+{"name":"rs12138071","clin_sig":"Pathogenic"}
+{"name":"rs2252997","clin_sig":"Benign"}
+{"name":"rs7913541","clin_sig":"Likely Pathogenic"}
+{"name":"rs11606437","clin_sig":"Likely Pathogenic"}
+{"name":"rs147372122","clin_sig":"Pathogenic"}
+{"name":"rs4924499","clin_sig":"Pathogenic"}
+{"name":"rs8400","clin_sig":"Pathogenic"}
+{"name":"rs11085068","clin_sig":"Benign"}
+{"name":"rs4808360","clin_sig":"Pathogenic"}
+{"name":"rs7259160","clin_sig":"Likely Pathogenic"}
+{"name":"rs6705772","clin_sig":"Pathogenic"}
+{"name":"rs35972193","clin_sig":"Benign"}
+{"name":"rs712011","clin_sig":"Pathogenic"}
+{"name":"rs201425261","clin_sig":"Likely Pathogenic"}
+{"name":"rs1975089","clin_sig":"Pathogenic"}
+{"name":"rs9394929","clin_sig":"Pathogenic"}
+{"name":"rs1590965","clin_sig":"Benign"}
+{"name":"rs75628858","clin_sig":"Pathogenic"}
+{"name":"rs454165","clin_sig":"Likely Pathogenic"}
+{"name":"rs6671524","clin_sig":"Benign"}
+{"name":"rs74120117","clin_sig":"Pathogenic"}
+{"name":"rs9427789","clin_sig":"Benign"}
+{"name":"rs113878932","clin_sig":"Benign"}
+{"name":"rs2724813","clin_sig":"Pathogenic"}
+{"name":"rs641881","clin_sig":"Pathogenic"}
+{"name":"rs10793494","clin_sig":"Likely Pathogenic"}
+{"name":"rs7488930","clin_sig":"Benign"}
+{"name":"rs347836","clin_sig":"Pathogenic"}
+{"name":"rs6776538","clin_sig":"Pathogenic"}
+{"name":"rs201445749","clin_sig":"Benign"}
+{"name":"rs5013052","clin_sig":"Benign"}
+{"name":"rs11292393","clin_sig":"Benign"}
+{"name":"rs6963051","clin_sig":"Pathogenic"}
+{"name":"rs10243155","clin_sig":"Likely Pathogenic"}
+{"name":"rs1869","clin_sig":"Pathogenic"}
+{"name":"rs3764883","clin_sig":"Benign"}
+{"name":"rs3782925","clin_sig":"Benign"}
+{"name":"rs34600329","clin_sig":"Benign"}
+{"name":"rs141469879","clin_sig":"Likely Pathogenic"}
+{"name":"rs4777710","clin_sig":"Pathogenic"}
+{"name":"rs890336","clin_sig":"Likely Pathogenic"}
+{"name":"rs6543644","clin_sig":"Pathogenic"}
+{"name":"rs10175266","clin_sig":"Likely Pathogenic"}
+{"name":"rs11551739","clin_sig":"Likely Pathogenic"}
+{"name":"rs1134986","clin_sig":"Benign"}
+{"name":"rs6802","clin_sig":"Likely Pathogenic"}
+{"name":"rs1185246","clin_sig":"Likely Pathogenic"}
+{"name":"rs11168033","clin_sig":"Likely Pathogenic"}
+{"name":"rs2734948","clin_sig":"Pathogenic"}
+{"name":"rs148556585","clin_sig":"Pathogenic"}
+{"name":"rs4719612","clin_sig":"Pathogenic"}
+{"name":"rs149597701","clin_sig":"Pathogenic"}
+{"name":"rs7098736","clin_sig":"Likely Pathogenic"}
+{"name":"rs1503424","clin_sig":"Likely Pathogenic"}
+{"name":"rs7358564","clin_sig":"Pathogenic"}
+{"name":"rs1732376","clin_sig":"Benign"}
+{"name":"rs526971","clin_sig":"Pathogenic"}
+{"name":"rs7093","clin_sig":"Benign"}
+{"name":"rs859779","clin_sig":"Likely Pathogenic"}
+{"name":"rs34163577","clin_sig":"Likely Pathogenic"}
+{"name":"rs4674752","clin_sig":"Likely Pathogenic"}
+{"name":"rs438363","clin_sig":"Pathogenic"}
+{"name":"rs9827541","clin_sig":"Likely Pathogenic"}
+{"name":"rs7619426","clin_sig":"Pathogenic"}
+{"name":"rs937941","clin_sig":"Benign"}
+{"name":"rs2517934","clin_sig":"Likely Pathogenic"}
+{"name":"rs35315747","clin_sig":"Pathogenic"}
+{"name":"rs547624","clin_sig":"Benign"}
+{"name":"rs184223660","clin_sig":"Benign"}
+{"name":"rs74538320","clin_sig":"Benign"}
+{"name":"rs1249155","clin_sig":"Pathogenic"}
+{"name":"rs3815178","clin_sig":"Benign"}
+{"name":"rs11622833","clin_sig":"Likely Pathogenic"}
+{"name":"rs721186","clin_sig":"Pathogenic"}
+{"name":"rs2691117","clin_sig":"Benign"}
+{"name":"rs12712704","clin_sig":"Likely Pathogenic"}
+{"name":"rs36013871","clin_sig":"Likely Pathogenic"}
+{"name":"rs715047","clin_sig":"Likely Pathogenic"}
+{"name":"rs2045863","clin_sig":"Likely Pathogenic"}
+{"name":"rs7722338","clin_sig":"Pathogenic"}
+{"name":"rs4731907","clin_sig":"Likely Pathogenic"}
+{"name":"rs12707195","clin_sig":"Pathogenic"}
+{"name":"rs3901677","clin_sig":"Pathogenic"}
+{"name":"rs1187286","clin_sig":"Pathogenic"}
+{"name":"rs441953","clin_sig":"Likely Pathogenic"}
+{"name":"rs72647804","clin_sig":"Likely Pathogenic"}
+{"name":"rs56115145","clin_sig":"Likely Pathogenic"}
+{"name":"rs6659024","clin_sig":"Benign"}
+{"name":"rs201686643","clin_sig":"Pathogenic"}
+{"name":"rs4548562","clin_sig":"Likely Pathogenic"}
+{"name":"rs3833026","clin_sig":"Likely Pathogenic"}
+{"name":"rs4795851","clin_sig":"Benign"}
+{"name":"rs8079818","clin_sig":"Pathogenic"}
+{"name":"rs145879002","clin_sig":"Likely Pathogenic"}
+{"name":"rs5826751","clin_sig":"Benign"}
+{"name":"rs73003269","clin_sig":"Likely Pathogenic"}
+{"name":"rs1439874","clin_sig":"Pathogenic"}
+{"name":"rs422761","clin_sig":"Pathogenic"}
+{"name":"rs11714826","clin_sig":"Likely Pathogenic"}
+{"name":"rs2626502","clin_sig":"Pathogenic"}
+{"name":"rs292020","clin_sig":"Likely Pathogenic"}
+{"name":"rs11413982","clin_sig":"Benign"}
+{"name":"rs11167659","clin_sig":"Likely Pathogenic"}
+{"name":"rs3025040","clin_sig":"Pathogenic"}
+{"name":"rs28712841","clin_sig":"Likely Pathogenic"}
+{"name":"rs2515553","clin_sig":"Benign"}
+{"name":"rs5018487","clin_sig":"Likely Pathogenic"}
+{"name":"rs1466731","clin_sig":"Pathogenic"}
+{"name":"rs2032036","clin_sig":"Benign"}
+{"name":"rs150884462","clin_sig":"Likely Pathogenic"}
+{"name":"rs1110476","clin_sig":"Benign"}
+{"name":"rs1983096","clin_sig":"Benign"}
+{"name":"rs5826905","clin_sig":"Likely Pathogenic"}
+{"name":"rs75296351","clin_sig":"Pathogenic"}
+{"name":"rs57228993","clin_sig":"Benign"}
+{"name":"rs4895041","clin_sig":"Likely Pathogenic"}
+{"name":"rs9869263","clin_sig":"Benign"}
+{"name":"rs62295620","clin_sig":"Pathogenic"}
+{"name":"rs202141213","clin_sig":"Benign"}
+{"name":"rs5000952","clin_sig":"Likely Pathogenic"}
+{"name":"rs111404526","clin_sig":"Likely Pathogenic"}
+{"name":"rs11335861","clin_sig":"Likely Pathogenic"}
+{"name":"rs4464948","clin_sig":"Likely Pathogenic"}
+{"name":"rs6594035","clin_sig":"Pathogenic"}
+{"name":"rs35109010","clin_sig":"Pathogenic"}
+{"name":"rs111976862","clin_sig":"Likely Pathogenic"}
+{"name":"rs2985989","clin_sig":"Benign"}
+{"name":"rs4771336","clin_sig":"Benign"}
+{"name":"rs9514066","clin_sig":"Benign"}
+{"name":"rs62034375","clin_sig":"Benign"}
+{"name":"rs16944282","clin_sig":"Benign"}
+{"name":"rs10775431","clin_sig":"Benign"}
+{"name":"rs142484969","clin_sig":"Likely Pathogenic"}
+{"name":"rs2410015","clin_sig":"Likely Pathogenic"}
+{"name":"rs41172","clin_sig":"Pathogenic"}
+{"name":"rs695935","clin_sig":"Likely Pathogenic"}
+{"name":"rs9873237","clin_sig":"Likely Pathogenic"}
+{"name":"rs7641492","clin_sig":"Likely Pathogenic"}
+{"name":"rs7679743","clin_sig":"Pathogenic"}
+{"name":"rs147987073","clin_sig":"Likely Pathogenic"}
+{"name":"rs4916711","clin_sig":"Pathogenic"}
+{"name":"rs2390787","clin_sig":"Pathogenic"}
+{"name":"rs4731167","clin_sig":"Benign"}
+{"name":"rs893011","clin_sig":"Benign"}
+{"name":"rs12772460","clin_sig":"Pathogenic"}
+{"name":"rs1914374","clin_sig":"Likely Pathogenic"}
+{"name":"rs1056820","clin_sig":"Pathogenic"}
+{"name":"rs545602","clin_sig":"Likely Pathogenic"}
+{"name":"rs67264266","clin_sig":"Benign"}
+{"name":"rs7173058","clin_sig":"Likely Pathogenic"}
+{"name":"rs7199736","clin_sig":"Likely Pathogenic"}
+{"name":"rs4790696","clin_sig":"Likely Pathogenic"}
+{"name":"rs11699953","clin_sig":"Likely Pathogenic"}
+{"name":"rs3087885","clin_sig":"Benign"}
+{"name":"rs11390464","clin_sig":"Pathogenic"}
+{"name":"rs7790676","clin_sig":"Benign"}
+{"name":"rs1383998","clin_sig":"Benign"}
+{"name":"rs7962419","clin_sig":"Likely Pathogenic"}
+{"name":"rs55703124","clin_sig":"Likely Pathogenic"}
+{"name":"rs950135","clin_sig":"Benign"}
+{"name":"rs78438477","clin_sig":"Likely Pathogenic"}
+{"name":"rs6624","clin_sig":"Likely Pathogenic"}
+{"name":"rs8090323","clin_sig":"Pathogenic"}
+{"name":"rs11550960","clin_sig":"Pathogenic"}
+{"name":"rs200894053","clin_sig":"Likely Pathogenic"}
+{"name":"rs8109205","clin_sig":"Pathogenic"}
+{"name":"rs6739807","clin_sig":"Likely Pathogenic"}
+{"name":"rs138438","clin_sig":"Pathogenic"}
+{"name":"rs1274958","clin_sig":"Pathogenic"}
+{"name":"rs2641755","clin_sig":"Benign"}
+{"name":"rs17513191","clin_sig":"Benign"}
+{"name":"rs11335044","clin_sig":"Likely Pathogenic"}
+{"name":"rs4712136","clin_sig":"Benign"}
+{"name":"rs55957967","clin_sig":"Benign"}
+{"name":"rs1129048","clin_sig":"Benign"}
+{"name":"rs148181339","clin_sig":"Pathogenic"}
+{"name":"rs7942643","clin_sig":"Likely Pathogenic"}
+{"name":"rs5796461","clin_sig":"Likely Pathogenic"}
+{"name":"rs6431839","clin_sig":"Benign"}
+{"name":"rs6709673","clin_sig":"Benign"}
+{"name":"rs4527246","clin_sig":"Benign"}
+{"name":"rs34943118","clin_sig":"Benign"}
+{"name":"rs289232","clin_sig":"Pathogenic"}
+{"name":"rs6948529","clin_sig":"Benign"}
+{"name":"rs10980054","clin_sig":"Likely Pathogenic"}
+{"name":"rs1856866","clin_sig":"Pathogenic"}
+{"name":"rs1053590","clin_sig":"Likely Pathogenic"}
+{"name":"rs73009356","clin_sig":"Likely Pathogenic"}
+{"name":"rs2322993","clin_sig":"Likely Pathogenic"}
+{"name":"rs2984850","clin_sig":"Benign"}
+{"name":"rs77872064","clin_sig":"Benign"}
+{"name":"rs204468","clin_sig":"Pathogenic"}
+{"name":"rs3789066","clin_sig":"Pathogenic"}
+{"name":"rs6737596","clin_sig":"Pathogenic"}
+{"name":"rs378616","clin_sig":"Likely Pathogenic"}
+{"name":"rs28415259","clin_sig":"Pathogenic"}
+{"name":"rs293789","clin_sig":"Pathogenic"}
+{"name":"rs12489038","clin_sig":"Likely Pathogenic"}
+{"name":"rs80315664","clin_sig":"Likely Pathogenic"}
+{"name":"rs9009","clin_sig":"Benign"}
+{"name":"rs1180116","clin_sig":"Benign"}
+{"name":"rs2760069","clin_sig":"Likely Pathogenic"}
+{"name":"rs1473683","clin_sig":"Benign"}
+{"name":"rs2417887","clin_sig":"Pathogenic"}
+{"name":"rs10744790","clin_sig":"Likely Pathogenic"}
+{"name":"rs33927197","clin_sig":"Likely Pathogenic"}
+{"name":"rs1998775","clin_sig":"Likely Pathogenic"}
+{"name":"rs58992412","clin_sig":"Likely Pathogenic"}
+{"name":"rs9891596","clin_sig":"Benign"}
+{"name":"rs2341876","clin_sig":"Likely Pathogenic"}
+{"name":"rs58860447","clin_sig":"Pathogenic"}
+{"name":"rs2234678","clin_sig":"Pathogenic"}
+{"name":"rs62197081","clin_sig":"Pathogenic"}
+{"name":"rs13023591","clin_sig":"Benign"}
+{"name":"rs8103","clin_sig":"Pathogenic"}
+{"name":"rs10049426","clin_sig":"Pathogenic"}
+{"name":"rs6785979","clin_sig":"Pathogenic"}
+{"name":"rs10026945","clin_sig":"Benign"}
+{"name":"rs2230096","clin_sig":"Benign"}
+{"name":"rs7905","clin_sig":"Pathogenic"}
+{"name":"rs3739407","clin_sig":"Benign"}
+{"name":"rs8680","clin_sig":"Benign"}
+{"name":"rs2275944","clin_sig":"Benign"}
+{"name":"rs3078353","clin_sig":"Likely Pathogenic"}
+{"name":"rs1046962","clin_sig":"Likely Pathogenic"}
+{"name":"rs12727369","clin_sig":"Pathogenic"}
+{"name":"rs10748267","clin_sig":"Benign"}
+{"name":"rs6572856","clin_sig":"Pathogenic"}
+{"name":"rs7199973","clin_sig":"Pathogenic"}
+{"name":"rs237051","clin_sig":"Benign"}
+{"name":"rs1065545","clin_sig":"Pathogenic"}
+{"name":"rs74499377","clin_sig":"Likely Pathogenic"}
+{"name":"rs56407319","clin_sig":"Likely Pathogenic"}
+{"name":"rs4935","clin_sig":"Likely Pathogenic"}
+{"name":"rs2073214","clin_sig":"Benign"}
+{"name":"rs7838874","clin_sig":"Likely Pathogenic"}
+{"name":"rs4951074","clin_sig":"Likely Pathogenic"}
+{"name":"rs10900571","clin_sig":"Pathogenic"}
+{"name":"rs7932321","clin_sig":"Pathogenic"}
+{"name":"rs56001436","clin_sig":"Likely Pathogenic"}
+{"name":"rs10860116","clin_sig":"Pathogenic"}
+{"name":"rs2442439","clin_sig":"Benign"}
+{"name":"rs1446292","clin_sig":"Pathogenic"}
+{"name":"rs8043924","clin_sig":"Pathogenic"}
+{"name":"rs9896886","clin_sig":"Pathogenic"}
+{"name":"rs6501605","clin_sig":"Pathogenic"}
+{"name":"rs138974453","clin_sig":"Likely Pathogenic"}
+{"name":"rs5851139","clin_sig":"Pathogenic"}
+{"name":"rs140198882","clin_sig":"Benign"}
+{"name":"rs1533595","clin_sig":"Pathogenic"}
+{"name":"rs966845","clin_sig":"Pathogenic"}
+{"name":"rs1820056","clin_sig":"Likely Pathogenic"}
+{"name":"rs34039","clin_sig":"Pathogenic"}
+{"name":"rs299364","clin_sig":"Benign"}
+{"name":"rs1131170","clin_sig":"Pathogenic"}
+{"name":"rs28480521","clin_sig":"Benign"}
+{"name":"rs2727744","clin_sig":"Benign"}
+{"name":"rs12390","clin_sig":"Likely Pathogenic"}
+{"name":"rs11303270","clin_sig":"Pathogenic"}
+{"name":"rs80176521","clin_sig":"Benign"}
+{"name":"rs4963059","clin_sig":"Benign"}
+{"name":"rs355239","clin_sig":"Benign"}
+{"name":"rs147154057","clin_sig":"Pathogenic"}
+{"name":"rs1049223","clin_sig":"Benign"}
+{"name":"rs705890","clin_sig":"Pathogenic"}
+{"name":"rs61704146","clin_sig":"Benign"}
+{"name":"rs9899458","clin_sig":"Likely Pathogenic"}
+{"name":"rs10425272","clin_sig":"Benign"}
+{"name":"rs200905173","clin_sig":"Pathogenic"}
+{"name":"rs144647329","clin_sig":"Likely Pathogenic"}
+{"name":"rs3746455","clin_sig":"Pathogenic"}
+{"name":"rs144681474","clin_sig":"Pathogenic"}
+{"name":"rs458106","clin_sig":"Likely Pathogenic"}
+{"name":"rs9310141","clin_sig":"Benign"}
+{"name":"rs1111627","clin_sig":"Pathogenic"}
+{"name":"rs894436","clin_sig":"Benign"}
+{"name":"rs13130791","clin_sig":"Pathogenic"}
+{"name":"rs112558161","clin_sig":"Pathogenic"}
+{"name":"rs78233829","clin_sig":"Likely Pathogenic"}
+{"name":"rs4053618","clin_sig":"Likely Pathogenic"}
+{"name":"rs201641393","clin_sig":"Pathogenic"}
+{"name":"rs7005261","clin_sig":"Benign"}
+{"name":"rs680471","clin_sig":"Pathogenic"}
+{"name":"rs9411192","clin_sig":"Benign"}
+{"name":"rs67411091","clin_sig":"Benign"}
+{"name":"rs17046987","clin_sig":"Benign"}
+{"name":"rs10839976","clin_sig":"Pathogenic"}
+{"name":"rs527731","clin_sig":"Pathogenic"}
+{"name":"rs4791706","clin_sig":"Benign"}
+{"name":"rs147669637","clin_sig":"Benign"}
+{"name":"rs373037706","clin_sig":"Likely Pathogenic"}
+{"name":"rs11555189","clin_sig":"Likely Pathogenic"}
+{"name":"rs6063966","clin_sig":"Likely Pathogenic"}
+{"name":"rs200141754","clin_sig":"Benign"}
+{"name":"rs146836896","clin_sig":"Likely Pathogenic"}
+{"name":"rs896849","clin_sig":"Pathogenic"}
+{"name":"rs2585187","clin_sig":"Likely Pathogenic"}
+{"name":"rs3831357","clin_sig":"Benign"}
+{"name":"rs150715193","clin_sig":"Likely Pathogenic"}
+{"name":"rs4470066","clin_sig":"Benign"}
+{"name":"rs20546","clin_sig":"Benign"}
+{"name":"rs10180661","clin_sig":"Benign"}
+{"name":"rs79511825","clin_sig":"Benign"}
+{"name":"rs815430","clin_sig":"Likely Pathogenic"}
+{"name":"rs148556280","clin_sig":"Likely Pathogenic"}
+{"name":"rs62360854","clin_sig":"Likely Pathogenic"}
+{"name":"rs888747","clin_sig":"Likely Pathogenic"}
+{"name":"rs1136657","clin_sig":"Pathogenic"}
+{"name":"rs7781916","clin_sig":"Benign"}
+{"name":"rs1406613","clin_sig":"Pathogenic"}
+{"name":"rs2795321","clin_sig":"Likely Pathogenic"}
+{"name":"rs56160474","clin_sig":"Likely Pathogenic"}
+{"name":"rs144212983","clin_sig":"Benign"}
+{"name":"rs1392503","clin_sig":"Likely Pathogenic"}
+{"name":"rs1788914","clin_sig":"Pathogenic"}
+{"name":"rs78238616","clin_sig":"Pathogenic"}
+{"name":"rs1032299","clin_sig":"Pathogenic"}
+{"name":"rs2603656","clin_sig":"Pathogenic"}
+{"name":"rs12521208","clin_sig":"Likely Pathogenic"}
+{"name":"rs9382254","clin_sig":"Benign"}
+{"name":"rs10976102","clin_sig":"Benign"}
+{"name":"rs10764117","clin_sig":"Pathogenic"}
+{"name":"rs79425731","clin_sig":"Likely Pathogenic"}
+{"name":"rs1957948","clin_sig":"Pathogenic"}
+{"name":"rs4906321","clin_sig":"Likely Pathogenic"}
+{"name":"rs17137389","clin_sig":"Pathogenic"}
+{"name":"rs62084214","clin_sig":"Pathogenic"}
+{"name":"rs1452644","clin_sig":"Likely Pathogenic"}
+{"name":"rs296091","clin_sig":"Likely Pathogenic"}
+{"name":"rs2544794","clin_sig":"Pathogenic"}
+{"name":"rs7601286","clin_sig":"Likely Pathogenic"}
+{"name":"rs4315602","clin_sig":"Pathogenic"}
+{"name":"rs1894644","clin_sig":"Benign"}
+{"name":"rs10939246","clin_sig":"Pathogenic"}
+{"name":"rs2289435","clin_sig":"Benign"}
+{"name":"rs1109526","clin_sig":"Pathogenic"}
+{"name":"rs3805466","clin_sig":"Pathogenic"}
+{"name":"rs2231095","clin_sig":"Benign"}
+{"name":"rs5879356","clin_sig":"Likely Pathogenic"}
+{"name":"rs3808290","clin_sig":"Likely Pathogenic"}
+{"name":"rs61874337","clin_sig":"Pathogenic"}
+{"name":"rs76752735","clin_sig":"Benign"}
+{"name":"rs273563","clin_sig":"Pathogenic"}
+{"name":"rs3802863","clin_sig":"Pathogenic"}
+{"name":"rs2401846","clin_sig":"Pathogenic"}
+{"name":"rs3842946","clin_sig":"Benign"}
+{"name":"rs2178740","clin_sig":"Benign"}
+{"name":"rs375321024","clin_sig":"Benign"}
+{"name":"rs2150419","clin_sig":"Pathogenic"}
+{"name":"rs6857625","clin_sig":"Pathogenic"}
+{"name":"rs12650573","clin_sig":"Benign"}
+{"name":"rs41507948","clin_sig":"Pathogenic"}
+{"name":"rs1048296","clin_sig":"Benign"}
+{"name":"rs12801394","clin_sig":"Benign"}
+{"name":"rs4964460","clin_sig":"Pathogenic"}
+{"name":"rs11625196","clin_sig":"Likely Pathogenic"}
+{"name":"rs1540348","clin_sig":"Pathogenic"}
+{"name":"rs9934832","clin_sig":"Likely Pathogenic"}
+{"name":"rs7205426","clin_sig":"Benign"}
+{"name":"rs7225329","clin_sig":"Likely Pathogenic"}
+{"name":"rs60450259","clin_sig":"Pathogenic"}
+{"name":"rs212762","clin_sig":"Pathogenic"}
+{"name":"rs416747","clin_sig":"Likely Pathogenic"}
+{"name":"rs6059932","clin_sig":"Pathogenic"}
+{"name":"rs4407416","clin_sig":"Pathogenic"}
+{"name":"rs2127024","clin_sig":"Likely Pathogenic"}
+{"name":"rs183969509","clin_sig":"Benign"}
+{"name":"rs836819","clin_sig":"Likely Pathogenic"}
+{"name":"rs142253936","clin_sig":"Benign"}
+{"name":"rs488282","clin_sig":"Likely Pathogenic"}
+{"name":"rs2805790","clin_sig":"Likely Pathogenic"}
+{"name":"rs11315081","clin_sig":"Benign"}
+{"name":"rs2185541","clin_sig":"Benign"}
+{"name":"rs2236678","clin_sig":"Pathogenic"}
+{"name":"rs209606","clin_sig":"Likely Pathogenic"}
+{"name":"rs11259187","clin_sig":"Pathogenic"}
+{"name":"rs71504715","clin_sig":"Likely Pathogenic"}
+{"name":"rs2245168","clin_sig":"Benign"}
+{"name":"rs7071048","clin_sig":"Likely Pathogenic"}
+{"name":"rs11217889","clin_sig":"Likely Pathogenic"}
+{"name":"rs149255221","clin_sig":"Pathogenic"}
+{"name":"rs61593470","clin_sig":"Pathogenic"}
+{"name":"rs7146","clin_sig":"Benign"}
+{"name":"rs2562408","clin_sig":"Likely Pathogenic"}
+{"name":"rs180936283","clin_sig":"Benign"}
+{"name":"rs1042039","clin_sig":"Likely Pathogenic"}
+{"name":"rs4851917","clin_sig":"Likely Pathogenic"}
+{"name":"rs6729801","clin_sig":"Likely Pathogenic"}
+{"name":"rs1504913","clin_sig":"Benign"}
+{"name":"rs3109193","clin_sig":"Benign"}
+{"name":"rs1119796","clin_sig":"Pathogenic"}
+{"name":"rs112193945","clin_sig":"Benign"}
+{"name":"rs113280853","clin_sig":"Pathogenic"}
+{"name":"rs523163","clin_sig":"Likely Pathogenic"}
+{"name":"rs6968802","clin_sig":"Benign"}
+{"name":"rs3801270","clin_sig":"Benign"}
+{"name":"rs4728329","clin_sig":"Likely Pathogenic"}
+{"name":"rs114647882","clin_sig":"Benign"}
+{"name":"rs1322126","clin_sig":"Likely Pathogenic"}
+{"name":"rs9803785","clin_sig":"Benign"}
+{"name":"rs476106","clin_sig":"Pathogenic"}
+{"name":"rs58392439","clin_sig":"Benign"}
+{"name":"rs2414476","clin_sig":"Pathogenic"}
+{"name":"rs8042217","clin_sig":"Pathogenic"}
+{"name":"rs60516263","clin_sig":"Likely Pathogenic"}
+{"name":"rs9930834","clin_sig":"Benign"}
+{"name":"rs115524146","clin_sig":"Likely Pathogenic"}
+{"name":"rs4325673","clin_sig":"Pathogenic"}
+{"name":"rs13419008","clin_sig":"Likely Pathogenic"}
+{"name":"rs6097329","clin_sig":"Benign"}
+{"name":"rs962322","clin_sig":"Benign"}
+{"name":"rs9821921","clin_sig":"Benign"}
+{"name":"rs35307391","clin_sig":"Likely Pathogenic"}
+{"name":"rs2641724","clin_sig":"Likely Pathogenic"}
+{"name":"rs10018639","clin_sig":"Likely Pathogenic"}
+{"name":"rs2019260","clin_sig":"Benign"}
+{"name":"rs3034","clin_sig":"Likely Pathogenic"}
+{"name":"rs61869973","clin_sig":"Benign"}
+{"name":"rs10786814","clin_sig":"Likely Pathogenic"}
+{"name":"rs72225334","clin_sig":"Pathogenic"}
+{"name":"rs869638","clin_sig":"Pathogenic"}
+{"name":"rs71896176","clin_sig":"Likely Pathogenic"}
+{"name":"rs1253693","clin_sig":"Likely Pathogenic"}
+{"name":"rs7184854","clin_sig":"Benign"}
+{"name":"rs8100892","clin_sig":"Pathogenic"}
+{"name":"rs2775407","clin_sig":"Likely Pathogenic"}
+{"name":"rs3787750","clin_sig":"Likely Pathogenic"}
+{"name":"rs6803885","clin_sig":"Pathogenic"}
+{"name":"rs75288982","clin_sig":"Benign"}
+{"name":"rs4999023","clin_sig":"Likely Pathogenic"}
+{"name":"rs28507851","clin_sig":"Likely Pathogenic"}
+{"name":"rs9641726","clin_sig":"Likely Pathogenic"}
+{"name":"rs10095622","clin_sig":"Likely Pathogenic"}
+{"name":"rs9064","clin_sig":"Benign"}
+{"name":"rs201425609","clin_sig":"Likely Pathogenic"}
+{"name":"rs591636","clin_sig":"Likely Pathogenic"}
+{"name":"rs708105","clin_sig":"Likely Pathogenic"}
+{"name":"rs16940676","clin_sig":"Likely Pathogenic"}
+{"name":"rs10178377","clin_sig":"Likely Pathogenic"}
+{"name":"rs4688080","clin_sig":"Likely Pathogenic"}
+{"name":"rs733764","clin_sig":"Pathogenic"}
+{"name":"rs62879260","clin_sig":"Likely Pathogenic"}
+{"name":"rs4946984","clin_sig":"Benign"}
+{"name":"rs11764515","clin_sig":"Likely Pathogenic"}
+{"name":"rs4262339","clin_sig":"Benign"}
+{"name":"rs59834814","clin_sig":"Likely Pathogenic"}
+{"name":"rs6597966","clin_sig":"Pathogenic"}
+{"name":"rs10898931","clin_sig":"Benign"}
+{"name":"rs766894","clin_sig":"Likely Pathogenic"}
+{"name":"rs11663281","clin_sig":"Pathogenic"}
+{"name":"rs4352265","clin_sig":"Pathogenic"}
+{"name":"rs7617028","clin_sig":"Likely Pathogenic"}
+{"name":"rs9835846","clin_sig":"Likely Pathogenic"}
+{"name":"rs902980","clin_sig":"Pathogenic"}
+{"name":"rs1050606","clin_sig":"Likely Pathogenic"}
+{"name":"rs3777074","clin_sig":"Pathogenic"}
+{"name":"rs1049853","clin_sig":"Pathogenic"}
+{"name":"rs329997","clin_sig":"Likely Pathogenic"}
+{"name":"rs4510842","clin_sig":"Likely Pathogenic"}
+{"name":"rs7013367","clin_sig":"Benign"}
+{"name":"rs823638","clin_sig":"Pathogenic"}
+{"name":"rs113120793","clin_sig":"Benign"}
+{"name":"rs10754339","clin_sig":"Pathogenic"}
+{"name":"rs217086","clin_sig":"Pathogenic"}
+{"name":"rs671629","clin_sig":"Benign"}
+{"name":"rs6506948","clin_sig":"Benign"}
+{"name":"rs17000950","clin_sig":"Likely Pathogenic"}
+{"name":"rs35617141","clin_sig":"Likely Pathogenic"}
+{"name":"rs315951","clin_sig":"Benign"}
+{"name":"rs7277763","clin_sig":"Likely Pathogenic"}
+{"name":"rs5763878","clin_sig":"Likely Pathogenic"}
+{"name":"rs9682093","clin_sig":"Pathogenic"}
+{"name":"rs4715723","clin_sig":"Benign"}
+{"name":"rs55674545","clin_sig":"Benign"}
+{"name":"rs2296882","clin_sig":"Pathogenic"}
+{"name":"rs6427856","clin_sig":"Pathogenic"}
+{"name":"rs9919452","clin_sig":"Benign"}
+{"name":"rs77240638","clin_sig":"Pathogenic"}
+{"name":"rs11658168","clin_sig":"Benign"}
+{"name":"rs1049481","clin_sig":"Likely Pathogenic"}
+{"name":"rs6082442","clin_sig":"Pathogenic"}
+{"name":"rs9976353","clin_sig":"Pathogenic"}
+{"name":"rs6006677","clin_sig":"Benign"}
+{"name":"rs1552282","clin_sig":"Pathogenic"}
+{"name":"rs4421216","clin_sig":"Pathogenic"}
+{"name":"rs6471399","clin_sig":"Likely Pathogenic"}
+{"name":"rs3739284","clin_sig":"Pathogenic"}
+{"name":"rs2230806","clin_sig":"Pathogenic"}
+{"name":"rs7413388","clin_sig":"Likely Pathogenic"}
+{"name":"rs1057079","clin_sig":"Likely Pathogenic"}
+{"name":"rs9347","clin_sig":"Pathogenic"}
+{"name":"rs3817870","clin_sig":"Likely Pathogenic"}
+{"name":"rs148205560","clin_sig":"Benign"}
+{"name":"rs10270","clin_sig":"Benign"}
+{"name":"rs11841569","clin_sig":"Likely Pathogenic"}
+{"name":"rs3744165","clin_sig":"Benign"}
+{"name":"rs28371517","clin_sig":"Benign"}
+{"name":"rs376475781","clin_sig":"Benign"}
+{"name":"rs2234677","clin_sig":"Benign"}
+{"name":"rs235583","clin_sig":"Benign"}
+{"name":"rs11699542","clin_sig":"Pathogenic"}
+{"name":"rs9829778","clin_sig":"Benign"}
+{"name":"rs10003009","clin_sig":"Benign"}
+{"name":"rs427136","clin_sig":"Likely Pathogenic"}
+{"name":"rs78508265","clin_sig":"Pathogenic"}
+{"name":"rs13197786","clin_sig":"Likely Pathogenic"}
+{"name":"rs7767870","clin_sig":"Pathogenic"}
+{"name":"rs2340596","clin_sig":"Likely Pathogenic"}
+{"name":"rs677815","clin_sig":"Likely Pathogenic"}
+{"name":"rs10785897","clin_sig":"Pathogenic"}
+{"name":"rs78659246","clin_sig":"Benign"}
+{"name":"rs675307","clin_sig":"Likely Pathogenic"}
+{"name":"rs75475407","clin_sig":"Pathogenic"}
+{"name":"rs375229318","clin_sig":"Likely Pathogenic"}
+{"name":"rs7260372","clin_sig":"Likely Pathogenic"}
+{"name":"rs189140892","clin_sig":"Likely Pathogenic"}
+{"name":"rs7578882","clin_sig":"Likely Pathogenic"}
+{"name":"rs6433653","clin_sig":"Benign"}
+{"name":"rs4569437","clin_sig":"Pathogenic"}
+{"name":"rs7703522","clin_sig":"Benign"}
+{"name":"rs1447129","clin_sig":"Pathogenic"}
+{"name":"rs201415385","clin_sig":"Pathogenic"}
+{"name":"rs34340783","clin_sig":"Pathogenic"}
+{"name":"rs10972590","clin_sig":"Benign"}
+{"name":"rs11368766","clin_sig":"Pathogenic"}
+{"name":"rs375841735","clin_sig":"Pathogenic"}
+{"name":"rs2502814","clin_sig":"Benign"}
+{"name":"rs8072891","clin_sig":"Likely Pathogenic"}
+{"name":"rs1078323","clin_sig":"Likely Pathogenic"}
+{"name":"rs6934183","clin_sig":"Likely Pathogenic"}
+{"name":"rs11760971","clin_sig":"Likely Pathogenic"}
+{"name":"rs6557782","clin_sig":"Likely Pathogenic"}
+{"name":"rs4735538","clin_sig":"Likely Pathogenic"}
+{"name":"rs1443434","clin_sig":"Likely Pathogenic"}
+{"name":"rs6594034","clin_sig":"Likely Pathogenic"}
+{"name":"rs7537996","clin_sig":"Pathogenic"}
+{"name":"rs4310518","clin_sig":"Likely Pathogenic"}
+{"name":"rs7094132","clin_sig":"Likely Pathogenic"}
+{"name":"rs699590","clin_sig":"Likely Pathogenic"}
+{"name":"rs965622","clin_sig":"Likely Pathogenic"}
+{"name":"rs35731052","clin_sig":"Benign"}
+{"name":"rs7180355","clin_sig":"Likely Pathogenic"}
+{"name":"rs7565645","clin_sig":"Likely Pathogenic"}
+{"name":"rs8114042","clin_sig":"Likely Pathogenic"}
+{"name":"rs974702","clin_sig":"Benign"}
+{"name":"rs57283288","clin_sig":"Likely Pathogenic"}
+{"name":"rs62289893","clin_sig":"Benign"}
+{"name":"rs1532196","clin_sig":"Pathogenic"}
+{"name":"rs61152200","clin_sig":"Pathogenic"}
+{"name":"rs4690536","clin_sig":"Pathogenic"}
+{"name":"rs7719848","clin_sig":"Pathogenic"}
+{"name":"rs116163401","clin_sig":"Benign"}
+{"name":"rs1059779","clin_sig":"Pathogenic"}
+{"name":"rs6678777","clin_sig":"Likely Pathogenic"}
+{"name":"rs1539456","clin_sig":"Benign"}
+{"name":"rs45579742","clin_sig":"Pathogenic"}
+{"name":"rs7342850","clin_sig":"Benign"}
+{"name":"rs1043325","clin_sig":"Pathogenic"}
+{"name":"rs3848640","clin_sig":"Pathogenic"}
+{"name":"rs1059767","clin_sig":"Likely Pathogenic"}
+{"name":"rs1914311","clin_sig":"Pathogenic"}
+{"name":"rs6737128","clin_sig":"Benign"}
+{"name":"rs3108500","clin_sig":"Pathogenic"}
+{"name":"rs145408492","clin_sig":"Pathogenic"}
+{"name":"rs35727707","clin_sig":"Pathogenic"}
+{"name":"rs7622601","clin_sig":"Benign"}
+{"name":"rs146114824","clin_sig":"Pathogenic"}
+{"name":"rs2237122","clin_sig":"Benign"}
+{"name":"rs9382129","clin_sig":"Benign"}
+{"name":"rs6904605","clin_sig":"Likely Pathogenic"}
+{"name":"rs139322195","clin_sig":"Pathogenic"}
+{"name":"rs12671660","clin_sig":"Likely Pathogenic"}
+{"name":"rs79047066","clin_sig":"Pathogenic"}
+{"name":"rs2842480","clin_sig":"Likely Pathogenic"}
+{"name":"rs2780240","clin_sig":"Pathogenic"}
+{"name":"rs6594033","clin_sig":"Pathogenic"}
+{"name":"rs3122293","clin_sig":"Pathogenic"}
+{"name":"rs11346197","clin_sig":"Likely Pathogenic"}
+{"name":"rs75479219","clin_sig":"Pathogenic"}
+{"name":"rs200784207","clin_sig":"Benign"}
+{"name":"rs7326714","clin_sig":"Pathogenic"}
+{"name":"rs113661672","clin_sig":"Likely Pathogenic"}
+{"name":"rs8065756","clin_sig":"Likely Pathogenic"}
+{"name":"rs6757","clin_sig":"Likely Pathogenic"}
+{"name":"rs71812678","clin_sig":"Pathogenic"}
+{"name":"rs7475","clin_sig":"Likely Pathogenic"}
+{"name":"rs350730","clin_sig":"Benign"}
+{"name":"rs1425042","clin_sig":"Pathogenic"}
+{"name":"rs2270280","clin_sig":"Pathogenic"}
+{"name":"rs17589","clin_sig":"Pathogenic"}
+{"name":"rs58620119","clin_sig":"Benign"}
+{"name":"rs9848852","clin_sig":"Benign"}
+{"name":"rs74901565","clin_sig":"Likely Pathogenic"}
+{"name":"rs73242538","clin_sig":"Pathogenic"}
+{"name":"rs6847023","clin_sig":"Pathogenic"}
+{"name":"rs11930532","clin_sig":"Benign"}
+{"name":"rs4101622","clin_sig":"Pathogenic"}
+{"name":"rs832574","clin_sig":"Benign"}
+{"name":"rs75404659","clin_sig":"Pathogenic"}
+{"name":"rs12032135","clin_sig":"Benign"}
+{"name":"rs2808096","clin_sig":"Benign"}
+{"name":"rs2121094","clin_sig":"Pathogenic"}
+{"name":"rs894445","clin_sig":"Benign"}
+{"name":"rs4447240","clin_sig":"Pathogenic"}
+{"name":"rs7338001","clin_sig":"Pathogenic"}
+{"name":"rs9570054","clin_sig":"Likely Pathogenic"}
+{"name":"rs455055","clin_sig":"Likely Pathogenic"}
+{"name":"rs34947177","clin_sig":"Benign"}
+{"name":"rs782621","clin_sig":"Benign"}
+{"name":"rs834836","clin_sig":"Likely Pathogenic"}
+{"name":"rs6041749","clin_sig":"Benign"}
+{"name":"rs7667751","clin_sig":"Pathogenic"}
+{"name":"rs1495637","clin_sig":"Pathogenic"}
+{"name":"rs6819081","clin_sig":"Pathogenic"}
+{"name":"rs4863518","clin_sig":"Pathogenic"}
+{"name":"rs10026558","clin_sig":"Pathogenic"}
+{"name":"rs199684613","clin_sig":"Pathogenic"}
+{"name":"rs200442777","clin_sig":"Benign"}
+{"name":"rs7095088","clin_sig":"Likely Pathogenic"}
+{"name":"rs14408","clin_sig":"Benign"}
+{"name":"rs1275652","clin_sig":"Benign"}
+{"name":"rs56313678","clin_sig":"Benign"}
+{"name":"rs2987324","clin_sig":"Likely Pathogenic"}
+{"name":"rs10410239","clin_sig":"Likely Pathogenic"}
+{"name":"rs141897024","clin_sig":"Benign"}
+{"name":"rs6763466","clin_sig":"Benign"}
+{"name":"rs6767814","clin_sig":"Benign"}
+{"name":"rs1992520","clin_sig":"Pathogenic"}
+{"name":"rs201558452","clin_sig":"Benign"}
+{"name":"rs138575122","clin_sig":"Benign"}
+{"name":"rs2164536","clin_sig":"Likely Pathogenic"}
+{"name":"rs33920397","clin_sig":"Likely Pathogenic"}
+{"name":"rs2440431","clin_sig":"Likely Pathogenic"}
+{"name":"rs4639581","clin_sig":"Benign"}
+{"name":"rs4649025","clin_sig":"Benign"}
+{"name":"rs6578727","clin_sig":"Benign"}
+{"name":"rs61999575","clin_sig":"Benign"}
+{"name":"rs3195014","clin_sig":"Pathogenic"}
+{"name":"rs238230","clin_sig":"Pathogenic"}
+{"name":"rs1045750","clin_sig":"Likely Pathogenic"}
+{"name":"rs4971465","clin_sig":"Benign"}
+{"name":"rs10209899","clin_sig":"Likely Pathogenic"}
+{"name":"rs137852751","clin_sig":"Pathogenic"}
+{"name":"rs34876076","clin_sig":"Benign"}
+{"name":"rs35169954","clin_sig":"Pathogenic"}
+{"name":"rs2708698","clin_sig":"Pathogenic"}
+{"name":"rs3830204","clin_sig":"Pathogenic"}
+{"name":"rs13273954","clin_sig":"Pathogenic"}
+{"name":"rs28460132","clin_sig":"Pathogenic"}
+{"name":"rs2303451","clin_sig":"Pathogenic"}
+{"name":"rs5899850","clin_sig":"Likely Pathogenic"}
+{"name":"rs1139916","clin_sig":"Pathogenic"}
+{"name":"rs4900267","clin_sig":"Pathogenic"}
+{"name":"rs12438139","clin_sig":"Benign"}
+{"name":"rs8032","clin_sig":"Benign"}
+{"name":"rs151099370","clin_sig":"Pathogenic"}
+{"name":"rs76064351","clin_sig":"Benign"}
+{"name":"rs36024356","clin_sig":"Likely Pathogenic"}
+{"name":"rs4988395","clin_sig":"Pathogenic"}
+{"name":"rs304069","clin_sig":"Pathogenic"}
+{"name":"rs9841766","clin_sig":"Benign"}
+{"name":"rs2641729","clin_sig":"Pathogenic"}
+{"name":"rs2405873","clin_sig":"Pathogenic"}
+{"name":"rs3215685","clin_sig":"Likely Pathogenic"}
+{"name":"rs1150782","clin_sig":"Likely Pathogenic"}
+{"name":"rs11403137","clin_sig":"Benign"}
+{"name":"rs61703280","clin_sig":"Likely Pathogenic"}
+{"name":"rs61432856","clin_sig":"Benign"}
+{"name":"rs11385952","clin_sig":"Benign"}
+{"name":"rs9565200","clin_sig":"Pathogenic"}
+{"name":"rs4796329","clin_sig":"Pathogenic"}
+{"name":"rs150392264","clin_sig":"Likely Pathogenic"}
+{"name":"rs4890012","clin_sig":"Likely Pathogenic"}
+{"name":"rs7575177","clin_sig":"Pathogenic"}
+{"name":"rs10169006","clin_sig":"Pathogenic"}
+{"name":"rs916411","clin_sig":"Likely Pathogenic"}
+{"name":"rs200634","clin_sig":"Pathogenic"}
+{"name":"rs146659030","clin_sig":"Pathogenic"}
+{"name":"rs6815873","clin_sig":"Benign"}
+{"name":"rs9370138","clin_sig":"Likely Pathogenic"}
+{"name":"rs11778993","clin_sig":"Likely Pathogenic"}
+{"name":"rs3012504","clin_sig":"Likely Pathogenic"}
+{"name":"rs112035237","clin_sig":"Pathogenic"}
+{"name":"rs7483381","clin_sig":"Pathogenic"}
+{"name":"rs34501109","clin_sig":"Likely Pathogenic"}
+{"name":"rs1051042","clin_sig":"Pathogenic"}
+{"name":"rs9526218","clin_sig":"Likely Pathogenic"}
+{"name":"rs13229","clin_sig":"Benign"}
+{"name":"rs2234679","clin_sig":"Pathogenic"}
+{"name":"rs1036526","clin_sig":"Likely Pathogenic"}
+{"name":"rs376579635","clin_sig":"Benign"}
+{"name":"rs9846291","clin_sig":"Likely Pathogenic"}
+{"name":"rs4699178","clin_sig":"Pathogenic"}
+{"name":"rs192991305","clin_sig":"Benign"}
+{"name":"rs943851","clin_sig":"Pathogenic"}
+{"name":"rs67167367","clin_sig":"Benign"}
+{"name":"rs12064814","clin_sig":"Benign"}
+{"name":"rs10787530","clin_sig":"Benign"}
+{"name":"rs532467","clin_sig":"Likely Pathogenic"}
+{"name":"rs10879397","clin_sig":"Pathogenic"}
+{"name":"rs73133148","clin_sig":"Pathogenic"}
+{"name":"rs10584805","clin_sig":"Likely Pathogenic"}
+{"name":"rs28492884","clin_sig":"Benign"}
+{"name":"rs68022863","clin_sig":"Benign"}
+{"name":"rs12205303","clin_sig":"Pathogenic"}
+{"name":"rs1065711","clin_sig":"Pathogenic"}
+{"name":"rs2230197","clin_sig":"Pathogenic"}
+{"name":"rs2701034","clin_sig":"Likely Pathogenic"}
+{"name":"rs112071242","clin_sig":"Benign"}
+{"name":"rs6611274","clin_sig":"Benign"}
+{"name":"rs2791943","clin_sig":"Pathogenic"}
+{"name":"rs6540548","clin_sig":"Benign"}
+{"name":"rs1241230","clin_sig":"Pathogenic"}
+{"name":"rs625033","clin_sig":"Pathogenic"}
+{"name":"rs632519","clin_sig":"Benign"}
+{"name":"rs3126161","clin_sig":"Benign"}
+{"name":"rs17002013","clin_sig":"Likely Pathogenic"}
+{"name":"rs376893369","clin_sig":"Benign"}
+{"name":"rs10498027","clin_sig":"Pathogenic"}
+{"name":"rs6130056","clin_sig":"Benign"}
+{"name":"rs62298270","clin_sig":"Benign"}
+{"name":"rs76140598","clin_sig":"Likely Pathogenic"}
+{"name":"rs17351888","clin_sig":"Likely Pathogenic"}
+{"name":"rs1065356","clin_sig":"Pathogenic"}
+{"name":"rs77754448","clin_sig":"Likely Pathogenic"}
+{"name":"rs3793296","clin_sig":"Pathogenic"}
+{"name":"rs10281918","clin_sig":"Benign"}
+{"name":"rs10248040","clin_sig":"Benign"}
+{"name":"rs7017798","clin_sig":"Benign"}
+{"name":"rs1129768","clin_sig":"Pathogenic"}
+{"name":"rs67187434","clin_sig":"Likely Pathogenic"}
+{"name":"rs12744565","clin_sig":"Likely Pathogenic"}
+{"name":"rs1885746","clin_sig":"Benign"}
+{"name":"rs72734911","clin_sig":"Benign"}
+{"name":"rs6480601","clin_sig":"Pathogenic"}
+{"name":"rs3759301","clin_sig":"Benign"}
+{"name":"rs11064677","clin_sig":"Benign"}
+{"name":"rs11842594","clin_sig":"Likely Pathogenic"}
+{"name":"rs12894479","clin_sig":"Benign"}
+{"name":"rs7165146","clin_sig":"Pathogenic"}
+{"name":"rs77187791","clin_sig":"Pathogenic"}
+{"name":"rs79732332","clin_sig":"Likely Pathogenic"}
+{"name":"rs11671237","clin_sig":"Likely Pathogenic"}
+{"name":"rs2541172","clin_sig":"Likely Pathogenic"}
+{"name":"rs113086581","clin_sig":"Benign"}
+{"name":"rs2474763","clin_sig":"Likely Pathogenic"}
+{"name":"rs12624596","clin_sig":"Likely Pathogenic"}
+{"name":"rs1472807","clin_sig":"Benign"}
+{"name":"rs10222401","clin_sig":"Benign"}
+{"name":"rs4263403","clin_sig":"Pathogenic"}
+{"name":"rs3097597","clin_sig":"Pathogenic"}
+{"name":"rs12522647","clin_sig":"Pathogenic"}
+{"name":"rs113286876","clin_sig":"Pathogenic"}
+{"name":"rs2251455","clin_sig":"Benign"}
+{"name":"rs35457677","clin_sig":"Pathogenic"}
+{"name":"rs1082033","clin_sig":"Pathogenic"}
+{"name":"rs2704974","clin_sig":"Likely Pathogenic"}
+{"name":"rs6594030","clin_sig":"Benign"}
+{"name":"rs2711","clin_sig":"Benign"}
+{"name":"rs12736110","clin_sig":"Benign"}
+{"name":"rs10218472","clin_sig":"Likely Pathogenic"}
+{"name":"rs2388027","clin_sig":"Likely Pathogenic"}
+{"name":"rs7332","clin_sig":"Benign"}
+{"name":"rs12366127","clin_sig":"Benign"}
+{"name":"rs2714123","clin_sig":"Benign"}
+{"name":"rs10483813","clin_sig":"Benign"}
+{"name":"rs1062038","clin_sig":"Likely Pathogenic"}
+{"name":"rs11648372","clin_sig":"Likely Pathogenic"}
+{"name":"rs3787023","clin_sig":"Pathogenic"}
+{"name":"rs1193","clin_sig":"Pathogenic"}
+{"name":"rs139744244","clin_sig":"Likely Pathogenic"}
+{"name":"rs3886505","clin_sig":"Benign"}
+{"name":"rs325748","clin_sig":"Likely Pathogenic"}
+{"name":"rs17848418","clin_sig":"Pathogenic"}
+{"name":"rs189737525","clin_sig":"Benign"}
+{"name":"rs1050180","clin_sig":"Pathogenic"}
+{"name":"rs12667996","clin_sig":"Benign"}
+{"name":"rs11540058","clin_sig":"Benign"}
+{"name":"rs7087051","clin_sig":"Pathogenic"}
+{"name":"rs12248739","clin_sig":"Likely Pathogenic"}
+{"name":"rs11324199","clin_sig":"Benign"}
+{"name":"rs10651759","clin_sig":"Pathogenic"}
+{"name":"rs12368966","clin_sig":"Pathogenic"}
+{"name":"rs4703","clin_sig":"Pathogenic"}
+{"name":"rs4669522","clin_sig":"Likely Pathogenic"}
+{"name":"rs2041747","clin_sig":"Benign"}
+{"name":"rs62209743","clin_sig":"Benign"}
+{"name":"rs35280535","clin_sig":"Benign"}
+{"name":"rs5756534","clin_sig":"Benign"}
+{"name":"rs33990654","clin_sig":"Likely Pathogenic"}
+{"name":"rs3777474","clin_sig":"Likely Pathogenic"}
+{"name":"rs4268","clin_sig":"Benign"}
+{"name":"rs1623587","clin_sig":"Pathogenic"}
+{"name":"rs943540","clin_sig":"Likely Pathogenic"}
+{"name":"rs7868589","clin_sig":"Pathogenic"}
+{"name":"rs1860303","clin_sig":"Likely Pathogenic"}
+{"name":"rs2013162","clin_sig":"Likely Pathogenic"}
+{"name":"rs137855727","clin_sig":"Pathogenic"}
+{"name":"rs1949955","clin_sig":"Benign"}
+{"name":"rs10006","clin_sig":"Pathogenic"}
+{"name":"rs3860563","clin_sig":"Benign"}
+{"name":"rs11539416","clin_sig":"Benign"}
+{"name":"rs1510920","clin_sig":"Benign"}
+{"name":"rs10042721","clin_sig":"Pathogenic"}
+{"name":"rs6595832","clin_sig":"Likely Pathogenic"}
+{"name":"rs1290147","clin_sig":"Pathogenic"}
+{"name":"rs6468093","clin_sig":"Likely Pathogenic"}
+{"name":"rs1872605","clin_sig":"Pathogenic"}
+{"name":"rs6682195","clin_sig":"Likely Pathogenic"}
+{"name":"rs239988","clin_sig":"Pathogenic"}
+{"name":"rs3824718","clin_sig":"Likely Pathogenic"}
+{"name":"rs191068018","clin_sig":"Benign"}
+{"name":"rs4905955","clin_sig":"Benign"}
+{"name":"rs1466663","clin_sig":"Benign"}
+{"name":"rs2240276","clin_sig":"Benign"}
+{"name":"rs6501313","clin_sig":"Likely Pathogenic"}
+{"name":"rs4280359","clin_sig":"Pathogenic"}
+{"name":"rs11893283","clin_sig":"Likely Pathogenic"}
+{"name":"rs687","clin_sig":"Benign"}
+{"name":"rs35344582","clin_sig":"Benign"}
+{"name":"rs60463036","clin_sig":"Benign"}
+{"name":"rs6007976","clin_sig":"Likely Pathogenic"}
+{"name":"rs9993234","clin_sig":"Benign"}
+{"name":"rs61590577","clin_sig":"Benign"}
+{"name":"rs9364397","clin_sig":"Likely Pathogenic"}
+{"name":"rs1015995","clin_sig":"Benign"}
+{"name":"rs3758630","clin_sig":"Benign"}
+{"name":"rs10697","clin_sig":"Pathogenic"}
+{"name":"rs1483338","clin_sig":"Pathogenic"}
+{"name":"rs6762120","clin_sig":"Pathogenic"}
+{"name":"rs709052","clin_sig":"Pathogenic"}
+{"name":"rs4896325","clin_sig":"Likely Pathogenic"}
+{"name":"rs11455060","clin_sig":"Benign"}
+{"name":"rs4554465","clin_sig":"Benign"}
+{"name":"rs71654752","clin_sig":"Benign"}
+{"name":"rs2629665","clin_sig":"Benign"}
+{"name":"rs2808100","clin_sig":"Likely Pathogenic"}
+{"name":"rs80070603","clin_sig":"Likely Pathogenic"}
+{"name":"rs568922","clin_sig":"Benign"}
+{"name":"rs79164931","clin_sig":"Pathogenic"}
+{"name":"rs58183395","clin_sig":"Benign"}
+{"name":"rs8042607","clin_sig":"Pathogenic"}
+{"name":"rs168745","clin_sig":"Benign"}
+{"name":"rs6761","clin_sig":"Pathogenic"}
+{"name":"rs6103","clin_sig":"Pathogenic"}
+{"name":"rs9646578","clin_sig":"Likely Pathogenic"}
+{"name":"rs710889","clin_sig":"Benign"}
+{"name":"rs1978403","clin_sig":"Benign"}
+{"name":"rs12475700","clin_sig":"Likely Pathogenic"}
+{"name":"rs7592206","clin_sig":"Likely Pathogenic"}
+{"name":"rs6029697","clin_sig":"Benign"}
+{"name":"rs2838002","clin_sig":"Pathogenic"}
+{"name":"rs5869669","clin_sig":"Pathogenic"}
+{"name":"rs35086843","clin_sig":"Likely Pathogenic"}
+{"name":"rs116252966","clin_sig":"Benign"}
+{"name":"rs1130683","clin_sig":"Benign"}
+{"name":"rs1136046","clin_sig":"Pathogenic"}
+{"name":"rs199579810","clin_sig":"Likely Pathogenic"}
+{"name":"rs482129","clin_sig":"Benign"}
+{"name":"rs10761484","clin_sig":"Likely Pathogenic"}
+{"name":"rs3858340","clin_sig":"Pathogenic"}
+{"name":"rs541245","clin_sig":"Pathogenic"}
+{"name":"rs9453","clin_sig":"Likely Pathogenic"}
+{"name":"rs2138847","clin_sig":"Pathogenic"}
+{"name":"rs190675206","clin_sig":"Pathogenic"}
+{"name":"rs2028900","clin_sig":"Likely Pathogenic"}
+{"name":"rs3849654","clin_sig":"Pathogenic"}
+{"name":"rs17014016","clin_sig":"Benign"}
+{"name":"rs5873310","clin_sig":"Likely Pathogenic"}
+{"name":"rs10097505","clin_sig":"Pathogenic"}
+{"name":"rs857870","clin_sig":"Likely Pathogenic"}
+{"name":"rs472626","clin_sig":"Benign"}
+{"name":"rs369403692","clin_sig":"Benign"}
+{"name":"rs6582053","clin_sig":"Pathogenic"}
+{"name":"rs9920411","clin_sig":"Likely Pathogenic"}
+{"name":"rs60578037","clin_sig":"Pathogenic"}
+{"name":"rs4239224","clin_sig":"Likely Pathogenic"}
+{"name":"rs4804378","clin_sig":"Benign"}
+{"name":"rs4563504","clin_sig":"Likely Pathogenic"}
+{"name":"rs13130165","clin_sig":"Pathogenic"}
+{"name":"rs1109527","clin_sig":"Pathogenic"}
+{"name":"rs16822974","clin_sig":"Likely Pathogenic"}
+{"name":"rs2398792","clin_sig":"Benign"}
+{"name":"rs7296","clin_sig":"Benign"}
+{"name":"rs11809052","clin_sig":"Pathogenic"}
+{"name":"rs2842726","clin_sig":"Benign"}
+{"name":"rs71807935","clin_sig":"Likely Pathogenic"}
+{"name":"rs34107122","clin_sig":"Likely Pathogenic"}
+{"name":"rs4068564","clin_sig":"Benign"}
+{"name":"rs603076","clin_sig":"Pathogenic"}
+{"name":"rs641393","clin_sig":"Pathogenic"}
+{"name":"rs2846413","clin_sig":"Benign"}
+{"name":"rs7309050","clin_sig":"Pathogenic"}
+{"name":"rs2734732","clin_sig":"Pathogenic"}
+{"name":"rs756787","clin_sig":"Benign"}
+{"name":"rs202119344","clin_sig":"Pathogenic"}
+{"name":"rs7584409","clin_sig":"Likely Pathogenic"}
+{"name":"rs1019356","clin_sig":"Benign"}
+{"name":"rs143867864","clin_sig":"Likely Pathogenic"}
+{"name":"rs6805262","clin_sig":"Likely Pathogenic"}
+{"name":"rs2169205","clin_sig":"Pathogenic"}
+{"name":"rs1059509","clin_sig":"Pathogenic"}
+{"name":"rs1050723","clin_sig":"Pathogenic"}
+{"name":"rs4727316","clin_sig":"Benign"}
+{"name":"rs10091907","clin_sig":"Likely Pathogenic"}
+{"name":"rs7009762","clin_sig":"Benign"}
+{"name":"rs1381919","clin_sig":"Likely Pathogenic"}
+{"name":"rs2303611","clin_sig":"Benign"}
+{"name":"rs7954061","clin_sig":"Likely Pathogenic"}
+{"name":"rs754689","clin_sig":"Pathogenic"}
+{"name":"rs659232","clin_sig":"Benign"}
+{"name":"rs7177248","clin_sig":"Pathogenic"}
+{"name":"rs75206622","clin_sig":"Pathogenic"}
+{"name":"rs9257","clin_sig":"Likely Pathogenic"}
+{"name":"rs599861","clin_sig":"Likely Pathogenic"}
+{"name":"rs56718151","clin_sig":"Benign"}
+{"name":"rs12460041","clin_sig":"Pathogenic"}
+{"name":"rs61742889","clin_sig":"Likely Pathogenic"}
+{"name":"rs289917","clin_sig":"Likely Pathogenic"}
+{"name":"rs1134941","clin_sig":"Pathogenic"}
+{"name":"rs235312","clin_sig":"Pathogenic"}
+{"name":"rs8351","clin_sig":"Benign"}
+{"name":"rs199754","clin_sig":"Pathogenic"}
+{"name":"rs605507","clin_sig":"Benign"}
+{"name":"rs56139500","clin_sig":"Pathogenic"}
+{"name":"rs6475448","clin_sig":"Pathogenic"}
+{"name":"rs10818525","clin_sig":"Benign"}
+{"name":"rs1053588","clin_sig":"Likely Pathogenic"}
+{"name":"rs10800772","clin_sig":"Benign"}
+{"name":"rs9567087","clin_sig":"Pathogenic"}
+{"name":"rs10873029","clin_sig":"Pathogenic"}
+{"name":"rs2930131","clin_sig":"Benign"}
+{"name":"rs3743045","clin_sig":"Likely Pathogenic"}
+{"name":"rs369254048","clin_sig":"Pathogenic"}
+{"name":"rs7231348","clin_sig":"Pathogenic"}
+{"name":"rs182772685","clin_sig":"Likely Pathogenic"}
+{"name":"rs3094124","clin_sig":"Benign"}
+{"name":"rs3777668","clin_sig":"Benign"}
+{"name":"rs1606680","clin_sig":"Pathogenic"}
+{"name":"rs140406341","clin_sig":"Pathogenic"}
+{"name":"rs1361944","clin_sig":"Likely Pathogenic"}
+{"name":"rs180445","clin_sig":"Pathogenic"}
+{"name":"rs1046970","clin_sig":"Benign"}
+{"name":"rs1861482","clin_sig":"Likely Pathogenic"}
+{"name":"rs1036127","clin_sig":"Likely Pathogenic"}
+{"name":"rs7166059","clin_sig":"Likely Pathogenic"}
+{"name":"rs1805082","clin_sig":"Likely Pathogenic"}
+{"name":"rs1045913","clin_sig":"Pathogenic"}
+{"name":"rs1045239","clin_sig":"Likely Pathogenic"}
+{"name":"rs704388","clin_sig":"Likely Pathogenic"}
+{"name":"rs151009627","clin_sig":"Likely Pathogenic"}
+{"name":"rs7802845","clin_sig":"Pathogenic"}
+{"name":"rs591810","clin_sig":"Benign"}
+{"name":"rs1043635","clin_sig":"Pathogenic"}
+{"name":"rs75766490","clin_sig":"Pathogenic"}
+{"name":"rs1871596","clin_sig":"Pathogenic"}
+{"name":"rs4756320","clin_sig":"Likely Pathogenic"}
+{"name":"rs374870825","clin_sig":"Likely Pathogenic"}
+{"name":"rs12889988","clin_sig":"Likely Pathogenic"}
+{"name":"rs35014809","clin_sig":"Benign"}
+{"name":"rs116210980","clin_sig":"Pathogenic"}
+{"name":"rs12612784","clin_sig":"Benign"}
+{"name":"rs377540952","clin_sig":"Benign"}
+{"name":"rs17140684","clin_sig":"Benign"}
+{"name":"rs79952349","clin_sig":"Pathogenic"}
+{"name":"rs201272272","clin_sig":"Likely Pathogenic"}
+{"name":"rs3812132","clin_sig":"Benign"}
+{"name":"rs3801357","clin_sig":"Likely Pathogenic"}
+{"name":"rs2119271","clin_sig":"Pathogenic"}
+{"name":"rs1187070","clin_sig":"Benign"}
+{"name":"rs10761620","clin_sig":"Benign"}
+{"name":"rs5030896","clin_sig":"Pathogenic"}
+{"name":"rs2437877","clin_sig":"Benign"}
+{"name":"rs58399835","clin_sig":"Pathogenic"}
+{"name":"rs4477459","clin_sig":"Pathogenic"}
+{"name":"rs200573848","clin_sig":"Pathogenic"}
+{"name":"rs1427830","clin_sig":"Benign"}
+{"name":"rs1957106","clin_sig":"Likely Pathogenic"}
+{"name":"rs663992","clin_sig":"Likely Pathogenic"}
+{"name":"rs76243241","clin_sig":"Pathogenic"}
+{"name":"rs151293230","clin_sig":"Pathogenic"}
+{"name":"rs9637600","clin_sig":"Pathogenic"}
+{"name":"rs4869436","clin_sig":"Pathogenic"}
+{"name":"rs78913001","clin_sig":"Pathogenic"}
+{"name":"rs2854001","clin_sig":"Benign"}
+{"name":"rs208696","clin_sig":"Likely Pathogenic"}
+{"name":"rs2708607","clin_sig":"Benign"}
+{"name":"rs2946705","clin_sig":"Pathogenic"}
+{"name":"rs1481689","clin_sig":"Likely Pathogenic"}
+{"name":"rs235836","clin_sig":"Pathogenic"}
+{"name":"rs3128132","clin_sig":"Pathogenic"}
+{"name":"rs1986449","clin_sig":"Likely Pathogenic"}
+{"name":"rs7046","clin_sig":"Pathogenic"}
+{"name":"rs61882686","clin_sig":"Benign"}
+{"name":"rs17845411","clin_sig":"Pathogenic"}
+{"name":"rs144441719","clin_sig":"Benign"}
+{"name":"rs72808776","clin_sig":"Likely Pathogenic"}
+{"name":"rs77930045","clin_sig":"Benign"}
+{"name":"rs7220980","clin_sig":"Likely Pathogenic"}
+{"name":"rs544102","clin_sig":"Benign"}
+{"name":"rs6443501","clin_sig":"Likely Pathogenic"}
+{"name":"rs3755930","clin_sig":"Pathogenic"}
+{"name":"rs13112358","clin_sig":"Likely Pathogenic"}
+{"name":"rs71606072","clin_sig":"Pathogenic"}
+{"name":"rs825746","clin_sig":"Benign"}
+{"name":"rs1223549","clin_sig":"Pathogenic"}
+{"name":"rs35541349","clin_sig":"Likely Pathogenic"}
+{"name":"rs3763506","clin_sig":"Benign"}
+{"name":"rs7462210","clin_sig":"Benign"}
