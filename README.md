@@ -10,7 +10,7 @@ Ferlab Big Data interview
 **Objectif :** Ecrire une application qui à partir des vcf du repertoire `main/resources/vcf` genère une table `occurrences`.
 Cette table a les particularités suivantes :
 - Format Parquet
-- Path local (ex.: `/home/ubutu/occurrences`)
+- Path local (ex.: `/home/ubuntu/occurrences`)
 - Renommer la colonne contigName par chromosome
 - Partitionnée par `chromosome`
 - Ne contient que les variants avec la propriété `FILTER = PASS`
