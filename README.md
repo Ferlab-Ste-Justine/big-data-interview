@@ -3,7 +3,7 @@ Ferlab Big Data interview
 
 # Part 1: Scala basics
 
-**Objectif :** Faire passer les tests dans le fichier `bio.ferlab.itw.part1.Part1Spec`
+**Objectif :** Faire passer les tests dans le fichier `bio.ferlab.itw.part1.Part1Spec` (ou dans le fichier `bio.ferlab.itw.part1.javaimpl.Part1Spec`)
 
 # Part 2: Spark
 
